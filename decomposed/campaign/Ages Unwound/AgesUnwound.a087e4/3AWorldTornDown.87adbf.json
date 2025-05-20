@@ -12,15 +12,15 @@
         "Size": 7.4
       },
       "Transform": {
-        "posX": -0.0021877822,
-        "posY": -0.08963572,
-        "posZ": -0.00288731651,
+        "posX": 0,
+        "posY": 0,
+        "posZ": 0,
         "rotX": 270,
-        "rotY": 359.869568,
+        "rotY": 0,
         "rotZ": 0,
-        "scaleX": 2.00000215,
-        "scaleY": 2.00000238,
-        "scaleZ": 2.00000262
+        "scaleX": 2,
+        "scaleY": 2,
+        "scaleZ": 2
       }
     }
   ],
@@ -63,7 +63,7 @@
     },
     "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1811004822724977129/48614CFD8474A1C0D31880E4EC9FBE5E7AA77885/",
     "MaterialIndex": 3,
-    "MeshURL": "https://raw.githubusercontent.com/RobMayer/TTSLibrary/master/advboxes/tuckbox_h_MSH.obj",
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/62583916778515333/9F0BE0C211BE3BD1725B4B855F5D3C9C0D020394/",
     "NormalURL": "",
     "TypeIndex": 6
   },

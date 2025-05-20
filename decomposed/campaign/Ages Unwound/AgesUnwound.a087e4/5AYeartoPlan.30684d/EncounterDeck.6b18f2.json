@@ -40,22 +40,22 @@
     "MemoriesFadetoDust.5d7858",
     "MemoriesFadetoDust.1a70c5",
     "MysteriousChanting.d63054",
-    "MysteriousChanting.b347d1",
+    "MysteriousChanting.d63054",
     "WizardoftheOrder.d36612",
     "Acolyte.50fdc5",
-    "Acolyte.4911f2",
-    "Acolyte.ab3719",
+    "Acolyte.50fdc5",
+    "Acolyte.50fdc5",
     "FalseLead.057d5f",
-    "FalseLead.2ceae2",
+    "FalseLead.057d5f",
     "HuntingShadow.ea8fcf",
-    "HuntingShadow.ab3719",
-    "HuntingShadow.14bfaf"
+    "HuntingShadow.ea8fcf",
+    "HuntingShadow.ea8fcf"
   ],
   "ContainedObjects_path": "EncounterDeck.6b18f2",
   "CustomDeck": {
     "2317": {
       "BackIsHidden": true,
-      "BackURL": "https://i.imgur.com/sRsWiSG.jpg/",
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
       "NumHeight": 7,
       "NumWidth": 10,
@@ -63,7 +63,7 @@
       "UniqueBack": false
     },
     "2664": {
-      "BackIsHidden": false,
+      "BackIsHidden": true,
       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1699528634398680476/FE126C3E21593398897E3C691A0AEA8D9B73A614/",
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1925869443020126800/30191150C194D8531033FDCD070C1C787369767D/",
       "NumHeight": 3,
@@ -72,7 +72,7 @@
       "UniqueBack": false
     },
     "2671": {
-      "BackIsHidden": false,
+      "BackIsHidden": true,
       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1699528634398680476/FE126C3E21593398897E3C691A0AEA8D9B73A614/",
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1857188457467398404/4B0E3BB6989F4381CAE6A770C903B43E58F8645B/",
       "NumHeight": 4,
@@ -81,7 +81,7 @@
       "UniqueBack": false
     },
     "2673": {
-      "BackIsHidden": false,
+      "BackIsHidden": true,
       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1699528634398680476/FE126C3E21593398897E3C691A0AEA8D9B73A614/",
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1857188457467421243/6B87D7261CD408692A4D67D3A2D53ABA661491A2/",
       "NumHeight": 5,
@@ -153,7 +153,7 @@
   "Tooltip": true,
   "Transform": {
     "posX": -3.927,
-    "posY": 1.797,
+    "posY": 1.792,
     "posZ": 5.758,
     "rotX": 0,
     "rotY": 270,

@@ -12,15 +12,15 @@
         "Size": 7.4
       },
       "Transform": {
-        "posX": -0.0021877822,
-        "posY": -0.08963572,
-        "posZ": -0.00288731651,
+        "posX": 0,
+        "posY": 0,
+        "posZ": 0,
         "rotX": 270,
-        "rotY": 359.869568,
+        "rotY": 0,
         "rotZ": 0,
-        "scaleX": 2.00000215,
-        "scaleY": 2.00000238,
-        "scaleZ": 2.00000262
+        "scaleX": 2,
+        "scaleY": 2,
+        "scaleZ": 2
       }
     }
   ],
@@ -35,26 +35,18 @@
   },
   "ContainedObjects_order": [
     "ADisquietingFuture.100061",
-    "Custom_Tile.156143",
     "AgendaDeck.1c0ba0",
-    "Custom_Tile.24194b",
     "BanksoftheNile.52c8b0",
     "EliteEnemies.6784dc",
-    "Custom_Tile.7234af",
     "EncounterDeck.8349af",
-    "Custom_Tile.870c38",
-    "Custom_Tile.a23c77",
     "Unstuck.ab385d",
     "ArkhamMassachusetts.b3b30c",
-    "Custom_Tile.ce994e",
     "TheTatterdemalion.d857d2",
-    "Custom_Tile.dc9168",
     "HeartofanEmpire.de6962",
     "ActDeck.e5d809",
     "AWorldatWar.e7ab9e",
     "AnEarthLongDead.ee7216",
     "MillionsofYearsAgo.f0a7ac",
-    "Custom_Tile.f1a996",
     "Set-aside.f58e95"
   ],
   "ContainedObjects_path": "4Unstuck.d6e449",
@@ -74,7 +66,7 @@
     },
     "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1811004822725015459/2DD8FA9E4F129922D5B174B4794EDEFD7B077F1B/",
     "MaterialIndex": 3,
-    "MeshURL": "https://raw.githubusercontent.com/RobMayer/TTSLibrary/master/advboxes/tuckbox_h_MSH.obj",
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/62583916778515333/9F0BE0C211BE3BD1725B4B855F5D3C9C0D020394/",
     "NormalURL": "",
     "TypeIndex": 6
   },

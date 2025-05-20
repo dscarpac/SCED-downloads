@@ -1,0 +1,17 @@
+{
+  "id": "31706c4c-d067-4029-abbc-f5ba2a07a852",
+  "type": "Location",
+  "class": "Mythos",
+  "locationFront": {
+    "icons": "Cross",
+    "connections": "Circle|Triangle|Diamond|Heart",
+    "uses": [
+      {
+        "countPerInvestigator": 2,
+        "type": "Clue",
+        "token": "clue"
+      }
+    ]
+  },
+  "TtsZoopGuid": "31706c4c-d067-4029-abbc-f5ba2a07a852"
+}

@@ -13,7 +13,7 @@
   },
   "CustomDeck": {
     "2667": {
-      "BackIsHidden": false,
+      "BackIsHidden": true,
       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1925869443020172389/A5719EE132997E0523E71AD9F37690FDB2D6BF4E/",
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1925869443020193866/F69B5D56BB420D7218D1A9F64C51209AAC508140/",
       "NumHeight": 3,
@@ -24,7 +24,7 @@
   },
   "Description": "",
   "DragSelectable": true,
-  "GMNotes": "{\"TtsZoopGuid\":\"35508f74-31a8-47ec-96bd-1a5256ec650e\"}",
+  "GMNotes_path": "AgesUnwound.a087e4/3AWorldTornDown.87adbf/ChildrensPlayground.39f1ec.gmnotes",
   "GUID": "39f1ec",
   "Grid": true,
   "GridProjection": false,
@@ -41,6 +41,10 @@
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,
+  "Tags": [
+    "ScenarioCard",
+    "Location"
+  ],
   "Tooltip": true,
   "Transform": {
     "posX": -30.224,
