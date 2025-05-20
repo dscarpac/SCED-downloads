@@ -34,6 +34,7 @@
     "r": 1
   },
   "ContainedObjects_order": [
+    "EncounterDeck.0008a1",
     "EasternExpedition.114b54",
     "OpenSky.30e0d6",
     "RlyehStreets.37868c",
@@ -44,7 +45,8 @@
     "StarSpawn.929cf9",
     "CentralSpire.a58106",
     "TaskReminder.d6e357",
-    "WesternExpedition.e6b84a"
+    "WesternExpedition.e6b84a",
+    "SummitDeckAssistant.48aed0"
   ],
   "ContainedObjects_path": "ObsidianCanyons.5b6dd9",
   "CustomMesh": {

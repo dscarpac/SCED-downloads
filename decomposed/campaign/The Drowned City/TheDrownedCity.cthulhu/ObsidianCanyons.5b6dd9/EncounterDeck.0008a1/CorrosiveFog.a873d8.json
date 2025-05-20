@@ -5,27 +5,27 @@
     "z": 0
   },
   "Autoraise": true,
-  "CardID": 266944,
+  "CardID": 266811,
   "ColorDiffuse": {
     "b": 0.71324,
     "g": 0.71324,
     "r": 0.71324
   },
   "CustomDeck": {
-    "2669": {
+    "2668": {
       "BackIsHidden": true,
       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/62595225072235388/CEDAE98319999B7BB3C3486D88D14A034CAE2312/",
-      "NumHeight": 6,
-      "NumWidth": 10,
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/62595225072210519/EEFB1983C0F9A1B9F4F03BDAFA1404E01EF06BAD/",
+      "NumHeight": 4,
+      "NumWidth": 8,
       "Type": 0,
       "UniqueBack": false
     }
   },
   "Description": "",
   "DragSelectable": true,
-  "GMNotes_path": "TheDrownedCity.cthulhu/ObsidianCanyons.5b6dd9/WesternExpedition.e6b84a/EncounterDeck.0008a1/StarVampire.82e51a.gmnotes",
-  "GUID": "82e51a",
+  "GMNotes_path": "TheDrownedCity.cthulhu/ObsidianCanyons.5b6dd9/EncounterDeck.0008a1/CorrosiveFog.a873d8.gmnotes",
+  "GUID": "a873d8",
   "Grid": true,
   "GridProjection": false,
   "Hands": true,
@@ -37,21 +37,18 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Star Vampire",
+  "Nickname": "Corrosive Fog",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "ScenarioCard"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": 5.02,
-    "posY": 1.555,
-    "posZ": 51.318,
+    "posX": 2.027,
+    "posY": 1.56,
+    "posZ": 56.087,
     "rotX": 0,
     "rotY": 270,
-    "rotZ": 359,
+    "rotZ": 180,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1

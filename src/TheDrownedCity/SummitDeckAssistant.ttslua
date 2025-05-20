@@ -1,0 +1,213 @@
+local deckLib                  = require("util/DeckLib")
+local guidReferenceApi         = require("core/GUIDReferenceApi")
+local mythosAreaApi            = require("mythos/MythosAreaApi")
+local playermatApi             = require("playermat/PlayermatApi")
+
+-- forward declaration of variables that are used across functions
+local matColor, handColor, drawDeckPosition
+local ongoingSearch            = false
+
+local quickParameters          = {}
+quickParameters.function_owner = self
+quickParameters.font_size      = 700
+quickParameters.width          = 1000
+quickParameters.height         = 1000
+quickParameters.color          = "White"
+quickParameters.scale          = Vector(0.3, 1, 0.3)
+
+local buttonLabels             = {
+  { label = 3,  position = { -0.5, 0.11, -0.5 } },
+  { label = 6,  position = { 0.5, 0.11, -0.5 } },
+  { label = 9,  position = { -0.5, 0.11, 0.5 } },
+  { label = 12, position = { 0.5, 0.11, 0.5 } }
+}
+
+function onLoad()
+  createClickFunctions()
+  normalView()
+  self.max_typed_number = 9999
+end
+
+function createClickFunctions()
+  for _, data in ipairs(buttonLabels) do
+    _G["search" .. data.label] = function(_, playerColor, isRightClick) startSearch(playerColor, data.label) end
+  end
+end
+
+-- regular view with search box
+function normalView()
+  ongoingSearch = false
+  self.clearButtons()
+
+  -- create buttons to search 3, 6 or 9 cards
+  for _, data in ipairs(buttonLabels) do
+    quickParameters.click_function = "search" .. data.label
+    quickParameters.label          = data.label
+    quickParameters.position       = data.position
+    self.createButton(quickParameters)
+  end
+end
+
+-- view during a search with "done" buttons
+function searchView()
+  ongoingSearch = true
+  self.clearButtons()
+end
+
+function onNumberTyped(playerColor, number)
+  if number > 0 then
+    startSearch(playerColor, number)
+  end
+end
+
+-- start the search (change UI, draw cards)
+function startSearch(messageColor, number)
+  if ongoingSearch then return end
+  
+  matColor  = playermatApi.getMatColor(messageColor)
+  handColor = messageColor
+  -- get draw deck
+  local summitDeck = getObjectFromGUID("cedbf4")
+  log("here")
+  log(summitDeck)
+
+
+  local position
+    handZoneName = "HandZoneSummit"
+    position = self.getPosition() - Vector(0, 0, 5)
+
+  local handZone = guidReferenceApi.getObjectByOwnerAndType(matColor, "HandZone")
+  local data = handZone.getData()
+  handCount = Player[handColor].getHandCount() + 1
+  log("this far")
+  data.Transform.scaleZ = data.Transform.scaleZ * 0.6
+  log(data)
+  local newHand = spawnObjectData({ data = data, position = position })
+  guidReferenceApi.editIndex(matColor, handZoneName, newHand.getGUID())
+  log(newHand)
+log(position)
+  -- add XML labels
+  newHand.UI.setXmlTable({
+    {
+      tag = "Panel",
+      attributes = {
+        height = 120,
+        width = 1500,
+        scale = ".025 .167 1",
+        position = "0 64 -30",
+      },
+      children = {
+        {
+          tag = "TableLayout",
+          attributes = { cellSpacing = "250" },
+          children = {
+            {
+              tag = "Row",
+              children = {
+                {
+                  tag = "Cell",
+                  children = {
+                    {
+                      tag = "Panel",
+                      attributes = { color = "#b6e2f099" },
+                      children = {
+                        {
+                          tag = "Text",
+                          attributes = { font = "font_teutonic-arkham", fontSize = "100" },
+                          value = "← Top"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  tag = "Cell",
+                  children = {
+                    {
+                      tag = "Panel",
+                      attributes = { color = "#b6e2f099" },
+                      children = {
+                        {
+                          tag = "Text",
+                          attributes = { font = "font_teutonic-arkham", fontSize = "100" },
+                          value = "Bottom →"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      tag = "Panel",
+      attributes = {
+        height = 170,
+        width = 1500,
+        scale = ".025 .167 1",
+        position = "0 -67 -30",
+      },
+      children = {
+        {
+          tag = "TableLayout",
+          attributes = { cellSpacing = "250", cellBackgroundColor = "#b6e2f0" },
+          children = {
+            {
+              tag = "Row",
+              children = {
+                {
+                  tag = "Cell",
+                  children = {
+                    {
+                      tag = "Panel",
+                      attributes = { color = "#b6e2f0D9" },
+                      children = {
+                        {
+                          tag = "Button",
+                          attributes = {
+                            color = "#ffffff00",
+                            fontSize = "150",
+                            font = "font_teutonic-arkham",
+                            onClick = self.getGUID() .. "/endSearch",
+                            tooltip = "Return cards without shuffling",
+                            textColors = "#000000|#009acb|#005a77"
+                          },
+                          value = "Done"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  })
+
+  searchView()
+log("here now")
+  Wait.frames(function() for i = 1,number do summitDeck.takeObject({ position = position, top = false, smooth = false }) end end, 3)
+
+end
+
+function endSearch()
+  local handToCheck = math.min(Player[handColor].getHandCount(), handCount)
+  local handCards = Player[handColor].getHandObjects(handToCheck)
+  local summitDeck = getObjectFromGUID("cedbf4")
+
+  -- place cards on deck
+  deckLib.placeOrMergeIntoDeck(handCards, summitDeck.getPosition())
+
+  local additionalHand = guidReferenceApi.getObjectByOwnerAndType(matColor, handZoneName)
+  if additionalHand then
+    Wait.time(function() additionalHand.destruct() end, 0.5 + #handCards * 0.1)
+    guidReferenceApi.editIndex(matColor, handZoneName, nil)
+  end
+
+  normalView()
+end

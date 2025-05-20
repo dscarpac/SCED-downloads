@@ -5,7 +5,7 @@
     "z": 0
   },
   "Autoraise": true,
-  "CardID": 266939,
+  "CardID": 266944,
   "ColorDiffuse": {
     "b": 0.71324,
     "g": 0.71324,
@@ -24,8 +24,8 @@
   },
   "Description": "",
   "DragSelectable": true,
-  "GMNotes_path": "TheDrownedCity.cthulhu/ObsidianCanyons.5b6dd9/WesternExpedition.e6b84a/EncounterDeck.0008a1/StElmosFire.0ae296.gmnotes",
-  "GUID": "0ae296",
+  "GMNotes_path": "TheDrownedCity.cthulhu/ObsidianCanyons.5b6dd9/EncounterDeck.0008a1/StarVampire.1e1cd2.gmnotes",
+  "GUID": "1e1cd2",
   "Grid": true,
   "GridProjection": false,
   "Hands": true,
@@ -37,18 +37,21 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "St. Elmo's Fire",
+  "Nickname": "Star Vampire",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,
+  "Tags": [
+    "ScenarioCard"
+  ],
   "Tooltip": true,
   "Transform": {
-    "posX": 4.979,
-    "posY": 1.672,
-    "posZ": 51.679,
+    "posX": 5.02,
+    "posY": 1.495,
+    "posZ": 51.405,
     "rotX": 0,
     "rotY": 270,
-    "rotZ": 359,
+    "rotZ": 0,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1
