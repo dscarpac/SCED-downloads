@@ -68,10 +68,6 @@ function startSearch(messageColor, number)
   handColor = messageColor
   -- get draw deck
   local summitDeck = getObjectFromGUID("cedbf4")
-  log("here")
-  log(summitDeck)
-
-
   local position
     handZoneName = "HandZoneSummit"
     position = self.getPosition() - Vector(0, 0, 5)
@@ -79,13 +75,12 @@ function startSearch(messageColor, number)
   local handZone = guidReferenceApi.getObjectByOwnerAndType(matColor, "HandZone")
   local data = handZone.getData()
   handCount = Player[handColor].getHandCount() + 1
-  log("this far")
+
   data.Transform.scaleZ = data.Transform.scaleZ * 0.6
-  log(data)
+
   local newHand = spawnObjectData({ data = data, position = position })
   guidReferenceApi.editIndex(matColor, handZoneName, newHand.getGUID())
-  log(newHand)
-log(position)
+
   -- add XML labels
   newHand.UI.setXmlTable({
     {
@@ -190,7 +185,6 @@ log(position)
   })
 
   searchView()
-log("here now")
   Wait.frames(function() for i = 1,number do summitDeck.takeObject({ position = position, top = false, smooth = false }) end end, 3)
 
 end
