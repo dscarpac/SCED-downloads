@@ -1,27 +1,31 @@
-local deckLib                  = require("util/DeckLib")
-local guidReferenceApi         = require("core/GUIDReferenceApi")
-local mythosAreaApi              = require("mythos/MythosAreaApi")
+local deckLib               = require("util/DeckLib")
+local guidReferenceApi      = require("core/GUIDReferenceApi")
+local MythosAreaApi         = require("mythos/MythosAreaApi")
 
-local crumblingArchivesGUID    = "dd8244"
-local floodTokenPoolGUID       = "a759ec"
-local trash                    = guidReferenceApi.getObjectByOwnerAndType("Mythos", "Trash")
-local starSpawnGUID            = "176876"
-local stillBehindYouGUID       = "000ed5"
-local inescapableGUID          = "1acf22"
-local setAsideChestGUID        = "33c756"
-local greatLiftGUID            = "508ae3"
+local crumblingArchivesGUID = "dd8244"
+local floodTokenPoolGUID    = "a759ec"
+local trash                 = guidReferenceApi.getObjectByOwnerAndType("Mythos", "Trash")
+local starSpawnGUID         = "176876"
+local stillBehindYouGUID    = "000ed5"
+local inescapableGUID       = "1acf22"
+local greatLiftGUID         = "508ae3"
 
 local extraEncounterSetGUID = {
   ["west"] = "aa8211",
   ["east"] = "ddaa25"
 }
 
-local greatLiftLocations = {
+local greatLiftLocations    = {
   ["west"] = Vector(-36.84, 1.53, 7.65),
   ["east"] = Vector(-17.04, 1.53, 7.65)
 }
 
-local locationPositions = {
+local bagGUIDs              = {
+  ["west"] = "d91323",
+  ["east"] = "118858"
+}
+
+local locationPositions     = {
   Vector(-17.04, 1.53, 0.00),
   Vector(-23.64, 1.53, 15.30),
   Vector(-23.64, 1.53, 0.00),
@@ -59,40 +63,47 @@ function onLoad()
 end
 
 function westernSetup(_, color)
-  local bag = getObjectFromGUID("d91323")
   playerColor = color
-  setup("west", bag)
+  setup("west")
 end
 
 function easternSetup(_, color)
-  local bag = getObjectFromGUID("118858")
-  setup("east", bag)
+  playerColor = color
+  setup("east")
 end
 
-function setup(direction, bag)
+function setup(direction)
+  local bag = getObjectFromGUID(bagGUIDs[direction])
+
   if #bag.getObjects() > 0 then
     bag.call("buttonClick_place")
   end
+
   function coinside()
     -- remove one random locations
     local crumblingDeck = getObjectFromGUID(crumblingArchivesGUID)
     crumblingDeck.shuffle()
+
     coWaitSeconds(0.5)
+
     local card = crumblingDeck.takeObject()
     trash.putObject(card)
+
     coWaitSeconds(0.5)
+
     for i = 1, 5 do
-      crumblingDeck.takeObject({
-        position = locationPositions[i] })
+      crumblingDeck.takeObject({ position = locationPositions[i] })
     end
-    
+
     -- set up specific encounter sets based on direction
     local extraEncounter = getObjectFromGUID(extraEncounterSetGUID[direction])
-    deckLib.placeOrMergeIntoDeck(extraEncounter, mythosAreaApi.getEncounterDeckPosition(), _, false, true)
-    
+    deckLib.placeOrMergeIntoDeck(extraEncounter, MythosAreaApi.getEncounterDeckPosition(), nil, false, true)
+
     local greatLift = getObjectFromGUID(greatLiftGUID)
     greatLift.setPosition(greatLiftLocations[direction])
+
     coWaitSeconds(1)
+
     if direction == "east" then
       -- add flood tokens
       local floodTokenPool = getObjectFromGUID(floodTokenPoolGUID)
@@ -102,42 +113,54 @@ function setup(direction, bag)
           callback_function = function(spawnedObject) if i > 5 then spawnedObject.flip() end end
         })
       end
-      
-      -- add Still Behind You to the deck and Inescapable to set-aside chest
-      deckLib.placeOrMergeIntoDeck(getObjectFromGUID(stillBehindYouGUID), mythosAreaApi.getEncounterDeckPosition(), _, false, true)
-      local setAsideChest = getObjectFromGUID(setAsideChestGUID)
-      setAsideChest.putObject(getObjectFromGUID(inescapableGUID))
-      broadcastToAll("Added 'The Inescapable' Encounter Set to the game.", "White")
+
+      setAsideInescapable()
+
+      -- remove bag from unused direction
+      trash.putObject(getObjectFromGUID(bagGUIDs["west"]))
     else
       -- add extra Star Spawns
       local starSpawnDeck = getObjectFromGUID(starSpawnGUID)
       starSpawnDeck.shuffle()
+
       coWaitSeconds(0.5)
+
       starSpawnCard = starSpawnDeck.takeObject()
-      deckLib.placeOrMergeIntoDeck(starSpawnCard, mythosAreaApi.getEncounterDeckPosition(), _, false, true)
+      deckLib.placeOrMergeIntoDeck(starSpawnCard, MythosAreaApi.getEncounterDeckPosition(), nil, false, true)
       trash.putObject(starSpawnDeck)
 
       -- prompt user to report on the Inescapable
       Player[playerColor].showOptionsDialog("Was the creature defeated?", { "Yes", "No" }, 1, function(text)
         if text == "No" then
-          -- add Still Behind You to the deck and Inescapable to set-aside chest
-          deckLib.placeOrMergeIntoDeck(getObjectFromGUID(stillBehindYouGUID), mythosAreaApi.getEncounterDeckPosition(), _, false, true)
-          local setAsideChest = getObjectFromGUID(setAsideChestGUID)
-          setAsideChest.putObject(getObjectFromGUID(inescapableGUID))
-          broadcastToAll("Added 'The Inescapable' Encounter Set to the game.", "White")
+          setAsideInescapable()
         else
           trash.putObject(getObjectFromGUID(inescapableGUID))
           trash.putObject(getObjectFromGUID(stillBehindYouGUID))
           broadcastToAll("Removed 'The Inescapable' Encounter Set from the game.", "White")
         end
       end)
+      -- remove bag from unused direction
+      trash.putObject(getObjectFromGUID(bagGUIDs["east"]))
     end
+
+    trash.putObject(bag)
 
     return 1
   end
 
   startLuaCoroutine(self, "coinside")
   self.destroy()
+end
+
+-- add Still Behind You to the deck and Inescapable to set-aside chest
+function setAsideInescapable()
+  local stillBehindYou = getObjectFromGUID(stillBehindYouGUID)
+  deckLib.placeOrMergeIntoDeck(stillBehindYou, MythosAreaApi.getEncounterDeckPosition(), nil, false, true)
+
+  local setAsideChest = MythosAreaApi.getSetAsideChest()
+  setAsideChest.putObject(getObjectFromGUID(inescapableGUID))
+
+  broadcastToAll("Added 'The Inescapable' Encounter Set to the game.", "White")
 end
 
 -- pauses the current coroutine for 'seconds' seconds
