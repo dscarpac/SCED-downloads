@@ -381,16 +381,6 @@
       "description": "A set of five investigators with simple 5/2 mainclass/subclass deckbuilding that are meant to cover for the situations where the official investigators in that class combination can not use their card pool as much as we'd want."
     },
     {
-      "name": "Artifact Expansion",
-      "type": "playercards",
-      "author": "Mint Tea Fan",
-      "decomposed": false,
-      "filename": "artifact",
-      "boxsize": "small",
-      "boxart": "https://steamusercontent-a.akamaihd.net/ugc/1799728983834465397/5B8C8FFC332DCC1F09FEA1617F0F3446F06821DB/",
-      "description": "Sidequest for magical artifacts during any scenario or campaign with new story assets, investigators, and player cards."
-    },
-    {
       "name": "Baldur's Gate III",
       "type": "playercards",
       "author": "Mint Tea Fan",
@@ -609,16 +599,6 @@
       "boxsize": "big",
       "boxart": "https://pvp.raynardj.com/ap/box-covers/box-cover-hsos.png",
       "description": "A collection of four investigators (along with a single normal card) based on the faction of the same name from Zenless Zone Zero. Included are Hoshimi Miyabi, Tsukishiro Yanagi, Asaba Harumasa, and Soukaku."
-    },
-    {
-      "name": "Idol Thoughts",
-      "type": "playercards",
-      "author": "MJGrenier",
-      "decomposed": false,
-      "filename": "idol_thoughts_investigator_expansion",
-      "boxsize": "small",
-      "boxart": "https://steamusercontent-a.akamaihd.net/ugc/1011563111884720834/103D38A8FBBFA64EB66439667F8775B15FC679C9/",
-      "description": ""
     },
     {
       "name": "Kaimonogatari",
@@ -1154,7 +1134,7 @@
       "name": "Darkham Horror",
       "type": "campaign",
       "author": "Frostmaze",
-      "decomposed": false,
+      "decomposed": true,
       "filename": "darkham_horror",
       "boxsize": "small",
       "boxart": "https://steamusercontent-a.akamaihd.net/ugc/1692775970051821718/827267BBD7EFBAD3EA384A5A04629B2E5BD88EE5/",
@@ -1189,16 +1169,6 @@
       "boxsize": "small",
       "boxart": "https://steamusercontent-a.akamaihd.net/ugc/2088037933344388834/4ECD1EA2BEA99E4C49F25B6C3077258791E4A9C4/",
       "description": "Travel deep into the heart of the Congo and navigate its perilous waters aboard the Roi des Belges to discover the Heart of Darkness."
-    },
-    {
-      "name": "Idol Thoughts",
-      "type": "campaign",
-      "author": "MJGrenier",
-      "decomposed": false,
-      "filename": "idol_thoughts_campaign_expansion",
-      "boxsize": "small",
-      "boxart": "https://steamusercontent-a.akamaihd.net/ugc/1011563111884720834/103D38A8FBBFA64EB66439667F8775B15FC679C9/",
-      "description": ""
     },
     {
       "name": "Into the Shadowlands",
@@ -1295,7 +1265,7 @@
       "type": "campaign",
       "author": "TheBeard",
       "decomposed": false,
-      "filename": "war_of_the_world",
+      "filename": "war_of_the_worlds",
       "boxsize": "small",
       "boxart": "https://steamusercontent-a.akamaihd.net/ugc/1461933574036562700/261026F89C2322BF6390608AAB7DE43BEFB6240A/",
       "description": "A fanmade 3-part campaign for the Arkham Horror LCG for 1-4 players based on H.G. Wells' The War of the Worlds."
@@ -1589,16 +1559,6 @@
       "boxsize": "small",
       "boxart": "https://steamusercontent-a.akamaihd.net/ugc/2406699913507748117/670EF077121CB2D774969A063A8E3226D09390F9/",
       "description": "An unnatural shopping fever has struck Arkham in the festive season and it's up to you to find out who or what is responsible. Be good for goodness sake!"
-    },
-    {
-      "name": "The Undying",
-      "type": "scenario",
-      "author": "Weyird",
-      "decomposed": false,
-      "filename": "the_undying",
-      "boxsize": "small",
-      "boxart": "https://steamusercontent-a.akamaihd.net/ugc/1824531491067739120/4AD2D51DAC6215F2866BB2AD15D47109B432B999/",
-      "description": "This scenario revolves around the assault upon a village by an undead horde which the investigators must fend off."
     }
   ]
 }
