@@ -1091,6 +1091,16 @@
       "description": "The Sands of Memphis Investigator Expansion contains 100 custom player cards and 6 custom investigators, inspired by the forthcoming Sands of Memphis Campaign Expansion."
     },
     {
+      "name": "Sgt. Frank Drebin",
+      "type": "playercards",
+      "author": "TheBeard",
+      "decomposed": false,
+      "filename": "sgt_frank_drebin",
+      "boxsize": "small",
+      "boxart": "https://steamusercontent-a.akamaihd.net/ugc/15227306179372242234/8FB0E644B90BE3FA3859938066B4C81C5F35F70A/",
+      "description": "Due to cosmic events that are better off not explained, Sgt. Drebin finds himself in Arkham, and ready as ever to apply his unique and ridiculous brand of justice. If anyone can face horrors beyond their comprehension, it’s someone who barely comprehends anything. [April Fools 2026 Creation]"
+    },
+    {
       "name": "The Shadows of Arkham",
       "type": "playercards",
       "author": "Kyo",
