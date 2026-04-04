@@ -6,7 +6,7 @@
   ],
   "ContainedObjects_path": "ActDeck.dcde24",
   "CustomDeck": {
-    "5909": {
+    "5888": {
       "BackIsHidden": true,
       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1938266093883144543/321B70E2509F1852398770FBCEDC5FBAF016DA3D/",
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1938266093883143515/90ED945CAC67945F969BB710BA6E58FF780F0CA3/",
@@ -17,9 +17,9 @@
     }
   },
   "DeckIDs": [
-    590906,
-    590905,
-    590904
+    588806,
+    588805,
+    588804
   ],
   "GUID": "dcde24",
   "Hands": false,

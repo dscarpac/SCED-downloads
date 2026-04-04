@@ -7,15 +7,6 @@
   ],
   "ContainedObjects_path": "ActDeck.c53bc7",
   "CustomDeck": {
-    "5893": {
-      "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387921536/56AB6918516FF87D12E1DB3D2F0078D96DB85F2D/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387920818/F2889E830C26E200A1B488461EDB92705A4778C1/",
-      "NumHeight": 4,
-      "NumWidth": 5,
-      "Type": 0,
-      "UniqueBack": true
-    },
     "5894": {
       "BackIsHidden": true,
       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387921536/56AB6918516FF87D12E1DB3D2F0078D96DB85F2D/",
@@ -28,7 +19,7 @@
   },
   "DeckIDs": [
     589407,
-    589306,
+    589406,
     589405,
     589404
   ],

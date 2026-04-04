@@ -6,7 +6,7 @@
   ],
   "ContainedObjects_path": "AgendaDeck.27c11b",
   "CustomDeck": {
-    "5910": {
+    "5888": {
       "BackIsHidden": true,
       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1938266093883144543/321B70E2509F1852398770FBCEDC5FBAF016DA3D/",
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1938266093883143515/90ED945CAC67945F969BB710BA6E58FF780F0CA3/",
@@ -17,9 +17,9 @@
     }
   },
   "DeckIDs": [
-    591003,
-    591002,
-    591001
+    588803,
+    588802,
+    588801
   ],
   "GUID": "27c11b",
   "Hands": false,
