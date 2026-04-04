@@ -1,5 +1,5 @@
 {
-  "CardID": 368730,
+  "CardID": 368724,
   "CustomDeck": {
     "3687": {
       "BackIsHidden": true,
@@ -12,10 +12,10 @@
     }
   },
   "Description": "Agenda 1",
-  "GMNotes": "{\n  \"id\": \"05326\"\n}",
-  "GUID": "aac284",
+  "GMNotes": "{\n  \"id\": \"05285\"\n}",
+  "GUID": "863a03",
   "Name": "Card",
-  "Nickname": "WHEEL OF FORTUNE · X",
+  "Nickname": "THE CHARIOT · VII",
   "SidewaysCard": true,
   "Transform": {
     "scaleX": 1,
