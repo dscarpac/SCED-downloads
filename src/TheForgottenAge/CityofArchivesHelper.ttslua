@@ -79,17 +79,17 @@ function setup(_, playerColor)
       end
     end
   )
-
+  self.destroy()
 end
 
 function takeClues()
   local usedColors = PlayermatApi.getUsedMatColors()
   if #usedColors == 0 then
-    broadcastToAll("No investigators placed. Take clues from the token pool manually.", "Red")
+    broadcastToAll("No investigators placed. Each investigator should take 1 clue from the token pool manually.", "Red")
     return
   end
 
-  for _, color in ipairs(usedColors) do
+  for _, matColor in ipairs(usedColors) do
     local cluePool       = GUIDReferenceApi.getObjectByOwnerAndType("Mythos", "ClueTokenBag")
     local clue           = cluePool.takeObject()
 
@@ -98,14 +98,14 @@ function takeClues()
     local pos
 
     if clickableClues then
-      local trash = GUIDReferenceApi.getObjectByOwnerAndType(color, "Trash")
+      local trash = GUIDReferenceApi.getObjectByOwnerAndType(matColor, "Trash")
       pos = trash.getPosition():setAt("y", 2)
-      PlayermatApi.updateCounter(color, "ClickableClueCounter", nil, 1)
+      PlayermatApi.updateCounter(matColor, "ClickableClueCounter", nil, 1)
     else
-      pos = PlayermatApi.transformLocalPosition({ x = -1.12, y = 0.2, z = 0.7 }, color)
+      pos = PlayermatApi.transformLocalPosition({ x = -1.12, y = 0.2, z = 0.7 }, matColor)
     end
 
-    clue.setRotation(PlayermatApi.returnRotation(color))
+    clue.setRotation(PlayermatApi.returnRotation(matColor))
     clue.setPositionSmooth(pos)
   end
   broadcastToAll("Each investigator begins the game with one clue from the token pool.", "White")
