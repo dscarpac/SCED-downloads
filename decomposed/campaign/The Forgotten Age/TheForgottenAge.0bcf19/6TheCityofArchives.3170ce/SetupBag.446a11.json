@@ -10,15 +10,14 @@
     "InterviewRoom.65f3a7",
     "InterviewRoom.050c76"
   ],
-  "ContainedObjects_path": "CooperatedwithYithian.446a11",
+  "ContainedObjects_path": "SetupBag.446a11",
   "Description": "The City of Archives",
   "GUID": "446a11",
   "Hands": false,
   "HideWhenFaceDown": false,
-  "LuaScript": "require(\"MemoryBag\")",
-  "LuaScriptState_path": "TheForgottenAge.0bcf19/6TheCityofArchives.3170ce/CooperatedwithYithian.446a11.luascriptstate",
+  "LuaScript": "",
   "Name": "Bag",
-  "Nickname": "Cooperated with Yithian",
+  "Nickname": "Setup Bag",
   "Transform": {
     "rotY": 270,
     "scaleX": 1,
