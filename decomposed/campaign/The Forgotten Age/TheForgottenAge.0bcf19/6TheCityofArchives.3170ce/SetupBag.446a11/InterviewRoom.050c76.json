@@ -1,5 +1,5 @@
 {
-  "CardID": 235518,
+  "CardID": 235519,
   "CustomDeck": {
     "2355": {
       "BackIsHidden": true,
@@ -12,8 +12,8 @@
     }
   },
   "Description": "Ancient. Pnakotus.",
-  "GMNotes_path": "TheForgottenAge.0bcf19/6TheCityofArchives.3170ce/ResistedtheYithian.a58e1c/InterviewRoom.b1861c.gmnotes",
-  "GUID": "b1861c",
+  "GMNotes_path": "TheForgottenAge.0bcf19/6TheCityofArchives.3170ce/SetupBag.446a11/InterviewRoom.050c76.gmnotes",
+  "GUID": "050c76",
   "Name": "Card",
   "Nickname": "Interview Room",
   "Tags": [
