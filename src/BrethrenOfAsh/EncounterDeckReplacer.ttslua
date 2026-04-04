@@ -1,36 +1,62 @@
 local MythosAreaApi = require("mythos/MythosAreaApi")
 
-SET_ASIDE           = {
-  position = Vector(-5.75, 3.54, 19.25),
-  rotation = Vector(0, 270, 0)
+local CH1_CARD_MAP  = {
+  ["01135"] = true,
+  ["01136"] = true,
+  ["01159"] = true,
+  ["01160"] = true,
+  ["01161"] = true,
+  ["01162"] = true,
+  ["01163"] = true,
+  ["01164"] = true,
+  ["01165"] = true,
+  ["01166"] = true,
+  ["01167"] = true,
+  ["01168"] = true,
+  ["01169"] = true,
+  ["01170"] = true,
+  ["01171"] = true,
+  ["01172"] = true,
+  ["01173"] = true,
+  ["01174"] = true,
+  ["01175"] = true,
+  ["01176"] = true,
+  ["01177"] = true,
+  ["01178"] = true,
+  ["01179"] = true,
+  ["01180"] = true,
+  ["01181"] = true,
+  ["01182"] = true
 }
-CH1_CARD_IDS = {"01135", "01136", "01159", "01160", "01161", "01162", "01163", "01164", "01165", "01166", "01167", "01168", "01169", "01170", "01171", "01172", "01173", "01174", "01175", "01176", "01177", "01178", "01179", "01180", "01181", "01182"}
 
 function onLoad()
   self.addContextMenuItem("Remove Ch1 Cards", removeCh1)
 end
 
 function removeCh1()
+  local pos  = self.getPosition():setAt("y", 3.5) - Vector(4, 0, 0)
+  local rot  = Vector(0, 270, 0)
   local deck = MythosAreaApi.getEncounterDeckObjects().draw
-  local indexes = {}
-  local cardCount = 0
+  if not deck then
+    broadcastToAll("Encounter Deck not found!", "Red")
+    return
+  end
 
-  for i, card in ipairs(deck.getObjects()) do
-    local md = JSON.decode(card.gm_notes) or {}
-    for _,v in pairs(CH1_CARD_IDS) do
-      if v == md.id then -- Check to see if the ID is in the table
-        cardCount = cardCount + 1
-        table.insert(indexes, card.index)
-      end
+  local deckObjects = deck.getObjects()
+
+  -- loop deck in reverse to keep index consistent
+  for i = #deckObjects, 1, -1 do
+    local cardInfo = deckObjects[i]
+    local md       = JSON.decode(cardInfo.gm_notes) or {}
+    if CH1_CARD_MAP[md.id] then
+      deck.takeObject({
+        index    = cardInfo.index,
+        position = pos,
+        rotation = rot,
+        smooth   = false
+      })
     end
   end
 
-  for i = cardCount, 1, -1 do
-    deck.takeObject({
-      index    = indexes[i],
-      position = SET_ASIDE.position,
-      rotation = SET_ASIDE.rotation,
-      smooth   = false
-    })
-  end
+  broadcastToAll("Removed replaceable cards from the encounter deck.", "Green")
 end

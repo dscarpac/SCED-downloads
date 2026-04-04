@@ -27,6 +27,7 @@
     "ArcaneLocks.40ee00"
   ],
   "ContainedObjects_path": "Chapter2EncounterSets.2af201",
+  "Description": "This bag contains all the reused chapter 2 encounter cards, organized by set.\n\nSince they can be used in old content too, there is a context menu entry included to automatically remove all replaceable encounter cards from the encounter deck.",
   "GUID": "2af201",
   "Hands": false,
   "HideWhenFaceDown": false,
@@ -34,8 +35,9 @@
   "Name": "Bag",
   "Nickname": "Chapter 2 Encounter Sets",
   "Transform": {
-    "scaleX": 1,
-    "scaleY": 1,
-    "scaleZ": 1
+    "rotY": 270,
+    "scaleX": 1.25,
+    "scaleY": 1.25,
+    "scaleZ": 1.25
   }
 }
