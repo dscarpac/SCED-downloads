@@ -408,6 +408,16 @@
       "description": "This will replace the corresponding cards for all purposes!"
     },
     {
+      "name": "Portuguese - Player Cards",
+      "type": "language-pack",
+      "author": "Fantasy Flight Games",
+      "decomposed": true,
+      "filename": "portuguese_playercards",
+      "boxsize": "big",
+      "boxart": "https://steamusercontent-a.akamaihd.net/ugc/15949268367811686496/5823AC3FDAEE65FFD9692C08B1261EE6CCA0EC3E/",
+      "description": "This will replace the corresponding cards for all purposes!"
+    },
+    {
       "name": "Korean - Campaigns",
       "type": "language-pack",
       "author": "Fantasy Flight Games",
