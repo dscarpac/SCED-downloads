@@ -3,7 +3,7 @@
 
 SHOW_MULTI_RELEASE              = 3
 
-local TokenArrangerApi          = require("accessories/TokenArrangerApi")
+local TokenArrangerApi          = require("tokens/TokenArrangerApi")
 local sealedTokens              = {}
 
 local buttonParameters          = {}
