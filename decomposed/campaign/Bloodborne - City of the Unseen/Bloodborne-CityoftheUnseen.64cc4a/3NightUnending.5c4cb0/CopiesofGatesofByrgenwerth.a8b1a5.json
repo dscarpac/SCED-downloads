@@ -1,8 +1,8 @@
 {
   "ContainedObjects_order": [
-    "GatesofByrgenwerth.e00005",
     "GatesofByrgenwerth.e00007",
-    "GatesofByrgenwerth.e00006"
+    "GatesofByrgenwerth.e00006",
+    "GatesofByrgenwerth.e00005"
   ],
   "ContainedObjects_path": "CopiesofGatesofByrgenwerth.a8b1a5",
   "CustomDeck": {
@@ -35,9 +35,9 @@
     }
   },
   "DeckIDs": [
-    366600,
     366300,
-    366100
+    366100,
+    366600
   ],
   "GUID": "a8b1a5",
   "Hands": false,

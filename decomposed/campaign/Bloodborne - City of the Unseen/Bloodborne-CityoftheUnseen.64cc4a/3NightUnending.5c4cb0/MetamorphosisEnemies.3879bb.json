@@ -1,9 +1,9 @@
 {
   "ContainedObjects_order": [
     "TheOneReborn.e00004",
+    "DarkbeastPaarl.e00003",
     "Blood-StarvedBeast.82e535",
-    "AbhorrentBeast.c97fe4",
-    "DarkbeastPaarl.e00003"
+    "AbhorrentBeast.c97fe4"
   ],
   "ContainedObjects_path": "MetamorphosisEnemies.3879bb",
   "CustomDeck": {
@@ -46,9 +46,9 @@
   },
   "DeckIDs": [
     364400,
+    100200,
     100100,
-    100000,
-    100200
+    100000
   ],
   "GUID": "3879bb",
   "Hands": false,

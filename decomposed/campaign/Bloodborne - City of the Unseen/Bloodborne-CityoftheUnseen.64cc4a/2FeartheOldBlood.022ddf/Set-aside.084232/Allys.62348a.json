@@ -1,11 +1,11 @@
 {
   "ContainedObjects_order": [
-    "DrCecilyJossef.78f070",
-    "EileenMacRoe.890910",
-    "DjuraMysliwiec.46173f",
     "YamamuraIsao.e1fac2",
-    "AlfredWheeler.25ebbe",
-    "SgtWalterGarnett.8ab911"
+    "SgtWalterGarnett.8ab911",
+    "EileenMacRoe.890910",
+    "DrCecilyJossef.78f070",
+    "DjuraMysliwiec.46173f",
+    "AlfredWheeler.25ebbe"
   ],
   "ContainedObjects_path": "Allys.62348a",
   "CustomDeck": {
@@ -65,12 +65,12 @@
     }
   },
   "DeckIDs": [
-    100200,
-    348200,
-    100100,
     348300,
-    100000,
-    348100
+    348100,
+    348200,
+    100200,
+    100100,
+    100000
   ],
   "GUID": "62348a",
   "Hands": false,

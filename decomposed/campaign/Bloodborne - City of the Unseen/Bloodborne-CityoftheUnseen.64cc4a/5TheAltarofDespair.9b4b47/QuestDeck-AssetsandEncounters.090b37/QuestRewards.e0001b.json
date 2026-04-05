@@ -1,13 +1,13 @@
 {
   "ContainedObjects_order": [
-    "ConfederateOath.e00013",
-    "ConfederateOath.e00014",
-    "ConfederateOath.e00015",
-    "DjurasCap.e00016",
-    "DrJossefsClarifiedBlood.e00017",
-    "SideriteDagger.e00018",
+    "YamamurasFountainPen.e0001a",
     "SmallResonantBell.e00019",
-    "YamamurasFountainPen.e0001a"
+    "SideriteDagger.e00018",
+    "DrJossefsClarifiedBlood.e00017",
+    "DjurasCap.e00016",
+    "ConfederateOath.e00015",
+    "ConfederateOath.e00014",
+    "ConfederateOath.e00013"
   ],
   "ContainedObjects_path": "QuestRewards.e0001b",
   "CustomDeck": {
@@ -85,14 +85,14 @@
     }
   },
   "DeckIDs": [
-    101400,
-    101500,
-    101600,
-    101700,
-    101800,
-    101900,
+    102100,
     102000,
-    102100
+    101900,
+    101800,
+    101700,
+    101600,
+    101500,
+    101400
   ],
   "GUID": "e0001b",
   "Name": "Deck",

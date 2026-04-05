@@ -1,16 +1,16 @@
 {
   "ContainedObjects_order": [
-    "BlessedaretheMeek.e00001",
-    "BlessedaretheMeek.e00002",
-    "BlessedaretheMeek.e00003",
-    "FuryUponSin.e00004",
-    "FuryUponSin.e00005",
     "VexandSmite.e00006",
-    "VexandSmite.e00007"
+    "VexandSmite.e00006",
+    "FuryUponSin.e00004",
+    "FuryUponSin.e00004",
+    "BlessedaretheMeek.e00001",
+    "BlessedaretheMeek.e00001",
+    "BlessedaretheMeek.e00001"
   ],
   "ContainedObjects_path": "SilentPrayer.02b64b",
   "CustomDeck": {
-    "3555": {
+    "1000": {
       "BackIsHidden": true,
       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
       "FaceURL": "https://i.imgur.com/3IaRXoF.jpg",
@@ -19,7 +19,7 @@
       "Type": 0,
       "UniqueBack": true
     },
-    "3556": {
+    "1003": {
       "BackIsHidden": true,
       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
       "FaceURL": "https://i.imgur.com/SNWD57s.jpg",
@@ -28,43 +28,7 @@
       "Type": 0,
       "UniqueBack": true
     },
-    "3557": {
-      "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
-      "FaceURL": "https://i.imgur.com/SNWD57s.jpg",
-      "NumHeight": 1,
-      "NumWidth": 1,
-      "Type": 0,
-      "UniqueBack": true
-    },
-    "3558": {
-      "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
-      "FaceURL": "https://i.imgur.com/Nk5OOWJ.jpg",
-      "NumHeight": 1,
-      "NumWidth": 1,
-      "Type": 0,
-      "UniqueBack": true
-    },
-    "3559": {
-      "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
-      "FaceURL": "https://i.imgur.com/3IaRXoF.jpg",
-      "NumHeight": 1,
-      "NumWidth": 1,
-      "Type": 0,
-      "UniqueBack": true
-    },
-    "3560": {
-      "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
-      "FaceURL": "https://i.imgur.com/3IaRXoF.jpg",
-      "NumHeight": 1,
-      "NumWidth": 1,
-      "Type": 0,
-      "UniqueBack": true
-    },
-    "3561": {
+    "1005": {
       "BackIsHidden": true,
       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
       "FaceURL": "https://i.imgur.com/Nk5OOWJ.jpg",
@@ -75,13 +39,13 @@
     }
   },
   "DeckIDs": [
-    355900,
-    356000,
-    355500,
-    355700,
-    355600,
-    355800,
-    356100
+    100500,
+    100500,
+    100300,
+    100300,
+    100000,
+    100000,
+    100000
   ],
   "GUID": "02b64b",
   "Name": "Deck",

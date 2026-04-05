@@ -1,86 +1,50 @@
 {
   "ContainedObjects_order": [
-    "BrainRot.e00005",
-    "BrainRot.e00006",
-    "BrainRot.e00007",
-    "ChoirAssassinBrador.e00009",
-    "Frenzy.e00001",
-    "Frenzy.e00002",
+    "WinterLantern.9d9897",
+    "WinterLantern.9d9897",
+    "WinterLantern.9d9897",
     "HuntersLullaby.e00003",
-    "HuntersLullaby.e00004",
-    "WinterLantern.ca2c04",
-    "WinterLantern.d31afc",
-    "WinterLantern.9d9897"
+    "HuntersLullaby.e00003",
+    "Frenzy.e00001",
+    "Frenzy.e00001",
+    "ChoirAssassinBrador.e00009",
+    "BrainRot.e00005",
+    "BrainRot.e00005",
+    "BrainRot.e00005"
   ],
   "ContainedObjects_path": "LivingString.d935c9",
   "CustomDeck": {
-    "3981": {
+    "1000": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+      "FaceURL": "https://i.imgur.com/i2LHBGS.jpg",
+      "NumHeight": 1,
+      "NumWidth": 1,
+      "Type": 0,
+      "UniqueBack": true
+    },
+    "1002": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+      "FaceURL": "https://i.imgur.com/xskc5lu.jpg",
+      "NumHeight": 1,
+      "NumWidth": 1,
+      "Type": 0,
+      "UniqueBack": true
+    },
+    "1003": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+      "FaceURL": "https://i.imgur.com/786YSYk.jpg",
+      "NumHeight": 1,
+      "NumWidth": 1,
+      "Type": 0,
+      "UniqueBack": true
+    },
+    "1007": {
       "BackIsHidden": true,
       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
       "FaceURL": "https://i.imgur.com/oLxFewD.jpg",
-      "NumHeight": 1,
-      "NumWidth": 1,
-      "Type": 0,
-      "UniqueBack": true
-    },
-    "3982": {
-      "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
-      "FaceURL": "https://i.imgur.com/786YSYk.jpg",
-      "NumHeight": 1,
-      "NumWidth": 1,
-      "Type": 0,
-      "UniqueBack": true
-    },
-    "3983": {
-      "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
-      "FaceURL": "https://i.imgur.com/786YSYk.jpg",
-      "NumHeight": 1,
-      "NumWidth": 1,
-      "Type": 0,
-      "UniqueBack": true
-    },
-    "3984": {
-      "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
-      "FaceURL": "https://i.imgur.com/786YSYk.jpg",
-      "NumHeight": 1,
-      "NumWidth": 1,
-      "Type": 0,
-      "UniqueBack": true
-    },
-    "3992": {
-      "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
-      "FaceURL": "https://i.imgur.com/xskc5lu.jpg",
-      "NumHeight": 1,
-      "NumWidth": 1,
-      "Type": 0,
-      "UniqueBack": true
-    },
-    "3993": {
-      "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
-      "FaceURL": "https://i.imgur.com/i2LHBGS.jpg",
-      "NumHeight": 1,
-      "NumWidth": 1,
-      "Type": 0,
-      "UniqueBack": true
-    },
-    "3994": {
-      "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
-      "FaceURL": "https://i.imgur.com/i2LHBGS.jpg",
-      "NumHeight": 1,
-      "NumWidth": 1,
-      "Type": 0,
-      "UniqueBack": true
-    },
-    "3997": {
-      "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
-      "FaceURL": "https://i.imgur.com/xskc5lu.jpg",
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
@@ -97,17 +61,17 @@
     }
   },
   "DeckIDs": [
-    398200,
-    398400,
-    398300,
-    398100,
-    399400,
-    399300,
-    399200,
-    399700,
     400100,
     400100,
-    400100
+    400100,
+    100200,
+    100200,
+    100000,
+    100000,
+    100700,
+    100300,
+    100300,
+    100300
   ],
   "GUID": "d935c9",
   "Name": "Deck",

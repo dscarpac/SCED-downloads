@@ -1,7 +1,7 @@
 {
   "ContainedObjects_order": [
-    "ShadowsofYharnam.e00003",
     "TheWitchofHemwick.e00004",
+    "ShadowsofYharnam.e00003",
     "EliotMadaras.e00005"
   ],
   "ContainedObjects_path": "AgentsofImpurity.616b0a",
@@ -35,8 +35,8 @@
     }
   },
   "DeckIDs": [
-    362900,
     362600,
+    362900,
     363000
   ],
   "GUID": "616b0a",

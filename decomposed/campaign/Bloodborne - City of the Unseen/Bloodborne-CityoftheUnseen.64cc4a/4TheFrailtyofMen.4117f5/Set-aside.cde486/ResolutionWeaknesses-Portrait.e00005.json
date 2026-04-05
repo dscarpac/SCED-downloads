@@ -1,13 +1,13 @@
 {
   "ContainedObjects_order": [
-    "Moon-Scented.e00001",
-    "RapturousWrithing.e00002",
+    "WildCuriosity.e00004",
     "TheBottomlessCurse.e00003",
-    "WildCuriosity.e00004"
+    "RapturousWrithing.e00002",
+    "Moon-Scented.e00001"
   ],
   "ContainedObjects_path": "ResolutionWeaknesses-Portrait.e00005",
   "CustomDeck": {
-    "3680": {
+    "1000": {
       "BackIsHidden": true,
       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "FaceURL": "https://i.imgur.com/VcA0px6.jpg",
@@ -16,7 +16,16 @@
       "Type": 0,
       "UniqueBack": true
     },
-    "3681": {
+    "1001": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "FaceURL": "https://i.imgur.com/jglhaEB.jpg",
+      "NumHeight": 1,
+      "NumWidth": 1,
+      "Type": 0,
+      "UniqueBack": true
+    },
+    "1002": {
       "BackIsHidden": true,
       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "FaceURL": "https://i.imgur.com/L0QkAyk.jpg",
@@ -25,7 +34,7 @@
       "Type": 0,
       "UniqueBack": true
     },
-    "3682": {
+    "1003": {
       "BackIsHidden": true,
       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "FaceURL": "https://i.imgur.com/77K94c6.jpg",
@@ -33,22 +42,13 @@
       "NumWidth": 1,
       "Type": 0,
       "UniqueBack": true
-    },
-    "3683": {
-      "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-      "FaceURL": "https://i.imgur.com/jglhaEB.jpg",
-      "NumHeight": 1,
-      "NumWidth": 1,
-      "Type": 0,
-      "UniqueBack": true
     }
   },
   "DeckIDs": [
-    368000,
-    368300,
-    368100,
-    368200
+    100300,
+    100200,
+    100100,
+    100000
   ],
   "GUID": "e00005",
   "Name": "Deck",
