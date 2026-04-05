@@ -1,5 +1,5 @@
 {
-  "CardID": 1049412,
+  "CardID": 1049416,
   "CustomDeck": {
     "10494": {
       "BackIsHidden": true,
@@ -10,14 +10,15 @@
       "Type": 0
     }
   },
-  "GMNotes": "{\"id\":\"01187\"}",
-  "GUID": "08d3f9",
+  "GMNotes": "{\n  \"id\": \"01691\"\n}",
+  "GUID": "4fae3f",
   "Name": "Card",
-  "Nickname": "01187",
+  "Nickname": "Aquinnah",
   "Transform": {
     "rotY": 270,
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1
-  }
+  },
+  "Description": "A Filha Esquecida"
 }

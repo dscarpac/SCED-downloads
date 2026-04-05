@@ -1,5 +1,5 @@
 {
-  "CardID": 1049418,
+  "CardID": 1049412,
   "CustomDeck": {
     "10494": {
       "BackIsHidden": true,
@@ -10,10 +10,10 @@
       "Type": 0
     }
   },
-  "GMNotes": "{\"id\":\"01193\"}",
-  "GUID": "208471",
+  "GMNotes": "{\n  \"id\": \"01687\"\n}",
+  "GUID": "08d3f9",
   "Name": "Card",
-  "Nickname": "01193",
+  "Nickname": "Gazuas",
   "Transform": {
     "rotY": 270,
     "scaleX": 1,

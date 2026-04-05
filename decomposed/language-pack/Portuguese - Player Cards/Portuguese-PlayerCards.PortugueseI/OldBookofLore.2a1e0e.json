@@ -1,5 +1,5 @@
 {
-  "CardID": 1049409,
+  "CardID": 1049411,
   "CustomDeck": {
     "10494": {
       "BackIsHidden": true,
@@ -10,10 +10,10 @@
       "Type": 0
     }
   },
-  "GMNotes": "{\"id\":\"01184\"}",
-  "GUID": "402478",
+  "GMNotes": "{\n  \"id\": \"01686\"\n}",
+  "GUID": "2a1e0e",
   "Name": "Card",
-  "Nickname": "01184",
+  "Nickname": "Old Book of Lore",
   "Transform": {
     "rotY": 270,
     "scaleX": 1,

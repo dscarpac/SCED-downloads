@@ -1,5 +1,5 @@
 {
-  "CardID": 1049416,
+  "CardID": 1049413,
   "CustomDeck": {
     "10494": {
       "BackIsHidden": true,
@@ -10,10 +10,10 @@
       "Type": 0
     }
   },
-  "GMNotes": "{\"id\":\"01191\"}",
-  "GUID": "4fae3f",
+  "GMNotes": "{\n  \"id\": \"01688\"\n}",
+  "GUID": "9ef488",
   "Name": "Card",
-  "Nickname": "01191",
+  "Nickname": "Derringer .41",
   "Transform": {
     "rotY": 270,
     "scaleX": 1,

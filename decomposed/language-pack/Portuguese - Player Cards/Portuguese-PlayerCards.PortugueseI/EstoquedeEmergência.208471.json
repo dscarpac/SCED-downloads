@@ -1,5 +1,5 @@
 {
-  "CardID": 1049410,
+  "CardID": 1049418,
   "CustomDeck": {
     "10494": {
       "BackIsHidden": true,
@@ -10,10 +10,10 @@
       "Type": 0
     }
   },
-  "GMNotes": "{\"id\":\"01185\"}",
-  "GUID": "f050cc",
+  "GMNotes": "{\n  \"id\": \"01693\"\n}",
+  "GUID": "208471",
   "Name": "Card",
-  "Nickname": "01185",
+  "Nickname": "Estoque de Emergência",
   "Transform": {
     "rotY": 270,
     "scaleX": 1,

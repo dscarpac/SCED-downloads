@@ -1,5 +1,5 @@
 {
-  "CardID": 1049419,
+  "CardID": 1049414,
   "CustomDeck": {
     "10494": {
       "BackIsHidden": true,
@@ -10,10 +10,10 @@
       "Type": 0
     }
   },
-  "GMNotes": "{\"id\":\"01194\"}",
-  "GUID": "19369e",
+  "GMNotes": "{\n  \"id\": \"01689\"\n}",
+  "GUID": "7299ab",
   "Name": "Card",
-  "Nickname": "01194",
+  "Nickname": "Rite of Seeking",
   "Transform": {
     "rotY": 270,
     "scaleX": 1,
