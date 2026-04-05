@@ -1,0 +1,73 @@
+{
+  "ContainedObjects_order": [
+    "AriannaKuttner.e00002",
+    "NannyMagda.e00003",
+    "RobertHenley.e00004",
+    "SisterAdella.e00005",
+    "SisterAmelia.75550e"
+  ],
+  "ContainedObjects_path": "Bystanders.8f3bfa",
+  "CustomDeck": {
+    "3491": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/ccoUlRH.jpg",
+      "FaceURL": "https://i.imgur.com/ocaqzWF.jpg",
+      "NumHeight": 1,
+      "NumWidth": 1,
+      "Type": 0,
+      "UniqueBack": true
+    },
+    "3492": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/Vc2348Q.jpg",
+      "FaceURL": "https://i.imgur.com/ryh0zd0.jpg",
+      "NumHeight": 1,
+      "NumWidth": 1,
+      "Type": 0,
+      "UniqueBack": true
+    },
+    "3493": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/34Z51Iu.jpg",
+      "FaceURL": "https://i.imgur.com/jA6RWvS.jpg",
+      "NumHeight": 1,
+      "NumWidth": 1,
+      "Type": 0,
+      "UniqueBack": true
+    },
+    "3494": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/PQ2JJCL.jpg",
+      "FaceURL": "https://i.imgur.com/9jk9jyO.jpg",
+      "NumHeight": 1,
+      "NumWidth": 1,
+      "Type": 0,
+      "UniqueBack": true
+    },
+    "3495": {
+      "BackIsHidden": true,
+      "BackURL": "https://i.imgur.com/8wdBKon.jpg",
+      "FaceURL": "https://i.imgur.com/WrVid5H.jpg",
+      "NumHeight": 1,
+      "NumWidth": 1,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "DeckIDs": [
+    349200,
+    349100,
+    349400,
+    349300,
+    349500
+  ],
+  "GUID": "8f3bfa",
+  "Name": "Deck",
+  "Nickname": "Bystanders",
+  "Transform": {
+    "rotY": 270,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}

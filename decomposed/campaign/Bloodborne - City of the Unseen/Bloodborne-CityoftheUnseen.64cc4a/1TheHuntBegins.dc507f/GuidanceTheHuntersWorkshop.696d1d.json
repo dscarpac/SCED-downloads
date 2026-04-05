@@ -27,15 +27,6 @@
       "Type": 0,
       "UniqueBack": true
     },
-    "1002": {
-      "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-      "FaceURL": "https://i.imgur.com/knwninT.jpg",
-      "NumHeight": 1,
-      "NumWidth": 1,
-      "Type": 0,
-      "UniqueBack": true
-    },
     "1003": {
       "BackIsHidden": true,
       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
@@ -45,7 +36,7 @@
       "Type": 0,
       "UniqueBack": true
     },
-    "1004": {
+    "3275": {
       "BackIsHidden": true,
       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "FaceURL": "https://i.imgur.com/ckxBjFk.jpg",
@@ -54,7 +45,16 @@
       "Type": 0,
       "UniqueBack": true
     },
-    "1005": {
+    "3276": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+      "FaceURL": "https://i.imgur.com/knwninT.jpg",
+      "NumHeight": 1,
+      "NumWidth": 1,
+      "Type": 0,
+      "UniqueBack": true
+    },
+    "3277": {
       "BackIsHidden": true,
       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
       "FaceURL": "https://i.imgur.com/zd03akj.jpg",
@@ -66,9 +66,9 @@
   },
   "DeckIDs": [
     100000,
-    100200,
-    100400,
-    100500,
+    327600,
+    327500,
+    327700,
     100300,
     100100
   ],

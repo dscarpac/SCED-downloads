@@ -19,8 +19,7 @@
   "GUID": "eda22b",
   "Hands": false,
   "HideWhenFaceDown": false,
-  "LuaScriptState_path": "Bloodborne-CityoftheUnseen.64cc4a/Bloodborne-CampaignLog.eda22b.luascriptstate",
-  "LuaScript_path": "Bloodborne-CityoftheUnseen.64cc4a/Bloodborne-CampaignLog.eda22b.ttslua",
+  "LuaScript": "require(\"Bloodborne/CampaignLog\")",
   "Name": "Custom_Token",
   "Nickname": "Bloodborne - Campaign Log",
   "Tags": [
@@ -28,8 +27,8 @@
   ],
   "Transform": {
     "rotY": 270,
-    "scaleX": 3.5,
+    "scaleX": 3.25,
     "scaleY": 1,
-    "scaleZ": 3.5
+    "scaleZ": 3.25
   }
 }
