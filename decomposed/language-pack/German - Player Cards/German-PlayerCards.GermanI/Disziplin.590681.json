@@ -1,5 +1,5 @@
 {
-  "CardID": 1380706,
+  "CardID": 1380705,
   "CustomDeck": {
     "13807": {
       "BackIsHidden": true,
@@ -11,11 +11,12 @@
       "UniqueBack": true
     }
   },
-  "GMNotes": "{\"id\":\"08013\"}",
-  "GUID": "3c7d4d",
+  "Description": "Ruhe der Gedanken",
+  "GMNotes": "{\"id\":\"08012a\"}",
+  "GUID": "590681",
   "HideWhenFaceDown": true,
   "Name": "Card",
-  "Nickname": "08013",
+  "Nickname": "08012",
   "Transform": {
     "rotY": 270,
     "scaleX": 1,

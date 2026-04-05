@@ -1,5 +1,5 @@
 {
-  "CardID": 1380707,
+  "CardID": 1380706,
   "CustomDeck": {
     "13807": {
       "BackIsHidden": true,
@@ -11,11 +11,12 @@
       "UniqueBack": true
     }
   },
-  "GMNotes": "{\"id\":\"08014\"}",
-  "GUID": "954d0d",
+  "Description": "Vorahnung des Schicksals",
+  "GMNotes": "{\"id\":\"08013a\"}",
+  "GUID": "3c7d4d",
   "HideWhenFaceDown": true,
   "Name": "Card",
-  "Nickname": "08014",
+  "Nickname": "08013",
   "Transform": {
     "rotY": 270,
     "scaleX": 1,
