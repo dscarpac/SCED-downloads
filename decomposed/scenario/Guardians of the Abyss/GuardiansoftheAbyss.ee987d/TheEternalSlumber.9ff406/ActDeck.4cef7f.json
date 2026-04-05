@@ -6,7 +6,7 @@
   ],
   "ContainedObjects_path": "ActDeck.4cef7f",
   "CustomDeck": {
-    "2717": {
+    "2662": {
       "BackIsHidden": true,
       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
@@ -17,9 +17,9 @@
     }
   },
   "DeckIDs": [
-    271706,
-    271705,
-    271704
+    266206,
+    266205,
+    266204
   ],
   "Description": "The Eternal Slumber",
   "GUID": "4cef7f",

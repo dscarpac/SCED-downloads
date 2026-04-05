@@ -13,11 +13,20 @@
       "NumWidth": 5,
       "Type": 0,
       "UniqueBack": true
+    },
+    "2670": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1925869443020468991/83F6E30C0B811FEE20D5DC787B9302CD72D15CF3/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1925869443020435554/86F6B063BBA0441BA593685E144716950012CFCF/",
+      "NumHeight": 3,
+      "NumWidth": 5,
+      "Type": 0,
+      "UniqueBack": true
     }
   },
   "DeckIDs": [
     266919,
-    266913
+    267013
   ],
   "GUID": "1bed1f",
   "Hands": false,

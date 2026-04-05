@@ -97,6 +97,14 @@
       "NumHeight": 3,
       "NumWidth": 4,
       "Type": 0
+    },
+    "2728": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2458481611102376909/4BE45989BCF72E575145DDEFC4D61B14AE436989/",
+      "NumHeight": 3,
+      "NumWidth": 4,
+      "Type": 0
     }
   },
   "DeckIDs": [
@@ -105,7 +113,7 @@
     272702,
     272703,
     272704,
-    266707,
+    272807,
     266705,
     266706,
     266705,
