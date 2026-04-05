@@ -40,7 +40,7 @@ function sealToken(_, playerColor)
   if not Global.call("canTouchChaosTokens") then return end
   local chaosbag = Global.call("findChaosBag")
   for i, obj in ipairs(chaosbag.getObjects()) do
-    if obj.name == "Custom Tile" and obj.nickname == "Insight" then
+    if obj.nickname == "Insight" then
       chaosbag.takeObject({
         position          = self.positionToWorld(Vector(1.075 - 1.075 * #sealedTokens, 0.2, 0)),
         rotation          = self.getRotation(),
