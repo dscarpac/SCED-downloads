@@ -1,5 +1,5 @@
 {
-  "CardID": 369128,
+  "CardID": 369127,
   "CustomDeck": {
     "3691": {
       "BackIsHidden": true,
@@ -11,10 +11,10 @@
     }
   },
   "Description": "Power.",
-  "GMNotes_path": "TheCircleUndone.63e097/7IntheClutchesofChaos.1ee775/AnetteMasonisposessedbyevil.d14543/EncounterDeck.6c34a5/ChaosManifest.a7dd13.gmnotes",
-  "GUID": "a7dd13",
+  "GMNotes_path": "TheCircleUndone.63e097/7IntheClutchesofChaos.1ee775/EncounterDeck.8d1536/PrimordialGateway.a47dba.gmnotes",
+  "GUID": "a47dba",
   "Name": "Card",
-  "Nickname": "Chaos Manifest",
+  "Nickname": "Primordial Gateway",
   "Tags": [
     "ScenarioCard"
   ],

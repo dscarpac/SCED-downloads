@@ -1,3 +1,4 @@
+local GUIDReferenceApi     = require("core/GUIDReferenceApi")
 local PlayAreaApi          = require("playarea/PlayAreaApi")
 local SearchLib            = require("util/SearchLib")
 local TokenManagerApi      = require("tokens/TokenManagerApi")
@@ -58,6 +59,19 @@ local PLAYAREA             = {
   rotation = Vector(0, 90, 0),
   scale = { 37.63, 5.10, 37.19 }
 }
+
+local SETUP_POSITIONS = {
+  ["5f4d8a"] = { position = { -30.22, 1.53, 15.19 }, rotation = { 0, 270, 0 } },   -- Hangman's Hill
+  ["79a987"] = { position = { -30.22, 1.53, -15.28 }, rotation = { 0, 270, 0 } },  -- Lodge
+  ["cb41b0"] = { position = { -2.94, 1.61, -5.05 }, rotation = { 0, 180, 0 } },    -- Act Deck
+  ["7d1536"] = { position = { -3.927, 1.81, 5.76 }, rotation = { 0, 270, 180 } },  -- Encounter Deck
+  ["a21c5b"] = { position = { -30.22, 1.53, 15.19 }, rotation = { 0, 270, 0 } },
+  ["17e686"] = { position = { -30.22, 1.53, -15.28 }, rotation = { 0, 270, 0 } },
+  ["09377b"] = { position = { -2.94, 1.61, -5.05 }, rotation = { 0, 180, 0 } },
+  ["6c34a5"] = { position = { -3.927, 1.81, 5.76 }, rotation = { 0, 270, 180 } }
+}
+
+local trash = GUIDReferenceApi.getObjectByOwnerAndType(matColor, "Trash")
 
 function onSave()
   return JSON.encode({ beforeSetup = beforeSetup, locationData = locationData })
@@ -128,14 +142,27 @@ function setup(_, playerColor, _)
     function(_, index)
       if index == 1 then
         bag = getObjectFromGUID("92c6fc")
+        unused_bag = getObjectFromGUID("d14543")
       else
         bag = getObjectFromGUID("d14543")
+        unused_bag = getObjectFromGUID("92c6fc")
       end
-      bag.call("buttonClick_place")
+      trash.putObject(unused_bag)
+      placeSetupObjects(bag)
       findBagLocations()
       setup2(playerColor)
     end
   )
+end
+
+function placeSetupObjects(bag)
+  for _ = 1, #bag.getObjects() do
+    local object = bag.takeObject()
+    local guid = object.getGUID()
+    object.setPosition(SETUP_POSITIONS[guid].position)
+    object.setRotation(SETUP_POSITIONS[guid].rotation)
+  end
+  trash.putObject(bag)
 end
 
 function setup2(playerColor)
@@ -165,6 +192,8 @@ function setup2(playerColor)
           local locationCard = getObjectFromGUID(location.guid)
           TokenManagerApi.spawnTokenGroup(locationCard, "resourceCounter", 1)
         end
+        -- spawn clickable counter next to the act
+        TokenManagerApi.spawnToken({-2.94, 1.63, -7.49}, "resourceCounter")
       end
 
       local numPlayers   = PlayAreaApi.getInvestigatorCount()

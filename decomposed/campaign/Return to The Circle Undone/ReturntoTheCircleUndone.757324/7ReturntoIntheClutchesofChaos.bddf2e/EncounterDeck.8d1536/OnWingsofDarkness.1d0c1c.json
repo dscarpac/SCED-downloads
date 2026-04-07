@@ -1,5 +1,5 @@
 {
-  "CardID": 10015,
+  "CardID": 10016,
   "CustomDeck": {
     "100": {
       "BackIsHidden": true,
@@ -10,11 +10,10 @@
       "Type": 0
     }
   },
-  "Description": "Monster. Nightgaunt.",
-  "GMNotes_path": "TheCircleUndone.63e097/7IntheClutchesofChaos.1ee775/AnetteMasonisposessedbyevil.d14543/EncounterDeck.6c34a5/HuntingNightgaunt.ab3719.gmnotes",
-  "GUID": "ab3719",
+  "GMNotes_path": "ReturntoTheCircleUndone.757324/7ReturntoIntheClutchesofChaos.bddf2e/EncounterDeck.8d1536/OnWingsofDarkness.1d0c1c.gmnotes",
+  "GUID": "1d0c1c",
   "Name": "Card",
-  "Nickname": "Hunting Nightgaunt",
+  "Nickname": "On Wings of Darkness",
   "Tags": [
     "ScenarioCard"
   ],

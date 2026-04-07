@@ -1,5 +1,5 @@
 {
-  "CardID": 369128,
+  "CardID": 369122,
   "CustomDeck": {
     "3691": {
       "BackIsHidden": true,
@@ -10,11 +10,11 @@
       "Type": 0
     }
   },
-  "Description": "Power.",
-  "GMNotes_path": "ReturntoTheCircleUndone.757324/7ReturntoIntheClutchesofChaos.bddf2e/CarlSanfordpossessesthesecretsoftheuniverse.92c6fc/EncounterDeck.7d1536/ChaosManifest.a7dd13.gmnotes",
-  "GUID": "a7dd13",
+  "Description": "Curse.",
+  "GMNotes_path": "ReturntoTheCircleUndone.757324/7ReturntoIntheClutchesofChaos.bddf2e/EncounterDeck.8d1536/TerrorUnleashed.a71412.gmnotes",
+  "GUID": "a71412",
   "Name": "Card",
-  "Nickname": "Chaos Manifest",
+  "Nickname": "Terror Unleashed",
   "Tags": [
     "ScenarioCard"
   ],
