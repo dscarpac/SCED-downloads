@@ -1,5 +1,5 @@
 {
-  "CardID": 369127,
+  "CardID": 369122,
   "CustomDeck": {
     "3691": {
       "BackIsHidden": true,
@@ -10,11 +10,11 @@
       "Type": 0
     }
   },
-  "Description": "Power.",
-  "GMNotes_path": "TheCircleUndone.63e097/7IntheClutchesofChaos.1ee775/AnetteMasonisposessedbyevil.d14543/EncounterDeck.6c34a5/PrimordialGateway.a47dba.gmnotes",
-  "GUID": "a47dba",
+  "Description": "Curse.",
+  "GMNotes_path": "TheCircleUndone.63e097/7IntheClutchesofChaos.1ee775/EncounterDeck.8d1536/TerrorUnleashed.a71412.gmnotes",
+  "GUID": "a71412",
   "Name": "Card",
-  "Nickname": "Primordial Gateway",
+  "Nickname": "Terror Unleashed",
   "Tags": [
     "ScenarioCard"
   ],
