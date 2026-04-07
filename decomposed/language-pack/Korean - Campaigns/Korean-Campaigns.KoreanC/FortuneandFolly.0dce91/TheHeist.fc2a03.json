@@ -15,8 +15,6 @@
   "GUID": "fc2a03",
   "Hands": false,
   "HideWhenFaceDown": true,
-  "LuaScript": "require(\"FortuneAndFolly/TheHeist\")",
-  "LuaScriptState": "[0,0,0,0,0,0,0,0,0,0]",
   "Name": "CardCustom",
   "Nickname": "The Heist",
   "Transform": {

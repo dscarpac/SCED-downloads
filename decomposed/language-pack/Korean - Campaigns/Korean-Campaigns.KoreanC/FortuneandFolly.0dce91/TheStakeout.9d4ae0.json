@@ -15,8 +15,6 @@
   "GUID": "9d4ae0",
   "Hands": false,
   "HideWhenFaceDown": true,
-  "LuaScript": "require(\"FortuneAndFolly/TheStakeout\")",
-  "LuaScriptState": "[0,0,0,0,0,0,0,0,0,0]",
   "Name": "CardCustom",
   "Nickname": "The Stakeout",
   "Transform": {

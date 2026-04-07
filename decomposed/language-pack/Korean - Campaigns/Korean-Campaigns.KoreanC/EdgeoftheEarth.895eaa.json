@@ -237,7 +237,12 @@
     "WoodenSledge.991640",
     "Wuk!Wuk!Wuk!.89df3b",
     "ZeroVisibility.6a138c",
-    "EotECampaignGuide.cf2afe"
+    "EotECampaignGuide.cf2afe",
+    "CrashSite.950a8e",
+    "TreacherousPath.1baca2",
+    "PrecariousIceSheet.872219",
+    "TerroroftheStars.8d6274",
+    "TerroroftheStars.364411"
   ],
   "ContainedObjects_path": "EdgeoftheEarth.895eaa",
   "CustomMesh": {
@@ -264,6 +269,7 @@
   "Name": "Custom_Model_Bag",
   "Nickname": "Edge of the Earth",
   "Transform": {
+    "rotY": 270,
     "scaleX": 1,
     "scaleY": 0.14,
     "scaleZ": 1
