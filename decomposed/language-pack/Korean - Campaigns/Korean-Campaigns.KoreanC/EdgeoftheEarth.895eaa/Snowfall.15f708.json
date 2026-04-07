@@ -1,20 +1,19 @@
 {
-  "CardID": 536319,
+  "CardID": 449802,
   "CustomDeck": {
-    "5363": {
+    "4498": {
       "BackIsHidden": true,
       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
-      "FaceURL": "https://github.com/Forgotin/HLV/blob/main/HLV_03.jpg?raw=true",
-      "NumHeight": 5,
-      "NumWidth": 8,
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2495648990710035148/4EA04710C54625F0CB052E66CFF2BB3E4F31DAA9/",
+      "NumHeight": 7,
+      "NumWidth": 10,
       "Type": 0
     }
   },
-  "Description": "Power. Colour.",
-  "GMNotes": "{\n  \"id\": \"10741\"\n}",
-  "GUID": "02e557",
+  "GMNotes": "{\n  \"id\": \"08610\"\n}",
+  "GUID": "15f708",
   "Name": "Card",
-  "Nickname": "Sudden Mutation",
+  "Nickname": "Snowfall",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,
