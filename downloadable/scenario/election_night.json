@@ -239,7 +239,7 @@
       "Tags": [
         "Asset",
         "CardWithHelper",
-        "ScenarioCard"
+        "PlayerCard"
       ],
       "Transform": {
         "rotY": 270,
@@ -662,7 +662,7 @@
       "Tags": [
         "Asset",
         "CardWithHelper",
-        "ScenarioCard"
+        "PlayerCard"
       ],
       "Transform": {
         "rotY": 270,
