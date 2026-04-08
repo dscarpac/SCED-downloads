@@ -145,6 +145,61 @@ local LOCATION_DATA             = {
     pos = { -0.748, 0.11 , 0.012 },
     page = 33,
     orientation = "right"
+  },
+  ["Amazonia"] = {
+    pos = { -0.619, 0.11 , 0.041 },
+    page = 130,
+    orientation = "right"
+	},
+  ["Arkham"] = {
+    pos = { -0.628, 0.11 , -0.394 },
+    page = 92,
+    orientation = "right"
+	},
+  ["New Orleans"] = {
+    pos = { -0.808, 0.11 , -0.291 },
+    page = 103,
+    orientation = "right"
+	},
+  ["Antarctica"] = {
+    pos = { -0.12, 0.11 , 0.692 },
+    page = 153,
+    orientation = "right"
+	},
+  ["London"] = {
+    pos = { -0.077, 0.11 , -0.49 },
+    page = 47,
+    orientation = "left"
+	},
+  ["Kingsport"] = {
+    pos = { -0.611, 0.11 , -0.43 },
+    page = 112,
+    orientation = "left"
+	},
+  ["Paris"] = {
+    pos = { -0.042, 0.11 , -0.457 },
+    page = 141,
+    orientation = "right"
+	},
+  ["Venice"] = {
+    pos = { 0.023, 0.11 , -0.43 },
+    page = 122,
+    orientation = "right"
+	},
+  ["Monte Carlo"] = {
+    pos = { -0.025, 0.11 , -0.413 },
+    page = 116,
+    orientation = "left"
+	},
+  ["Cairo"] = {
+    pos = { 0.165, 0.11 , -0.263 },
+    page = 107,
+    orientation = "left"
+	},
+  ["Los Angeles"] = {
+    pos = { -1.017, 0.11 , -0.314 },
+    page = 146,
+    orientation = "left"
   }
 }
 
