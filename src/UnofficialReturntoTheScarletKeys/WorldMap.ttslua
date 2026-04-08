@@ -1,149 +1,149 @@
 local LOCATION_DATA             = {
   ["Anchorage"] = {
-    pos = { -1.303, 0.11, -0.7 },
-    page = 33,
+    pos = { -1.082, 0.11 , -0.568 },
+    page = 53,
     orientation = "left"
   },
   ["San Francisco"] = {
-    pos = { -1.254, 0.11, -0.44 },
-    page = 26,
+    pos = { -1.041, 0.11 , -0.364 },
+    page = 45,
     orientation = "left"
   },
   ["Ybor City"] = {
-    pos = { -0.907, 0.11, -0.329 },
-    page = 52,
+    pos = { -0.76, 0.11 , -0.253 },
+    page = 72,
     orientation = "left"
   },
   ["Havana]"] = {
-    pos = { -0.899, 0.11, -0.272 },
-    page = 28,
+    pos = { -0.754, 0.11 , -0.205 },
+    page = 48,
     orientation = "left"
   },
   ["Bermuda"] = {
-    pos = { -0.701, 0.11, -0.387 },
-    page = 20,
+    pos = { -0.581, 0.11 , -0.305 },
+    page = 39,
     orientation = "right"
   },
   ["Buenos Aires"] = {
-    pos = { -0.646, 0.11, 0.415 },
-    page = 16,
+    pos = { -0.551, 0.11 , 0.356 },
+    page = 35,
     orientation = "left"
   },
   ["Rio de Janeiro"] = {
     pos = { -0.514, 0.11, 0.265 },
-    page = 44,
+    page = 64,
     orientation = "left"
   },
   ["Marrakesh"] = {
-    pos = { -0.171, 0.11, -0.376 },
-    page = 11,
+    pos = { -0.144, 0.11 , -0.296 },
+    page = 30,
     orientation = "right"
   },
   ["Alexandria"] = {
-    pos = { 0.197, 0.11, -0.37 },
-    page = 38,
-    orientation = "left"
+    pos = { 0.16, 0.11 , -0.298 },
+    page = 58,
+    orientation = "right"
   },
   ["Rome"] = {
-    pos = { 0.027, 0.11, -0.493 },
-    page = 51,
+    pos = { 0.03, 0.11 , -0.387 },
+    page = 71,
     orientation = "right"
   },
   ["Stockholm"] = {
-    pos = { 0.072, 0.11, -0.697 },
-    page = 36,
+    pos = { 0.049, 0.11 , -0.562 },
+    page = 56,
     orientation = "left"
   },
   ["Moscow"] = {
-    pos = { 0.251, 0.11, -0.66 },
-    page = 26,
+    pos = { 0.204, 0.11 , -0.533 },
+    page = 45,
     orientation = "right"
   },
   ["Constantinople"] = {
-    pos = { 0.175, 0.11, -0.49 },
-    page = 21,
+    pos = { 0.144, 0.11 , -0.387 },
+    page = 40,
     orientation = "right"
   },
   ["Lagos"] = {
-    pos = { -0.068, 0.11, -0.08 },
-    page = 37,
+    pos = { -0.054, 0.11 , -0.048 },
+    page = 57,
     orientation = "right"
   },
   ["Nairobi"] = {
-    pos = { 0.287, 0.11, 0.015 },
-    page = 54,
+    pos = { 0.216, 0.11 , 0.021 },
+    page = 77,
     orientation = "left"
   },
   ["Bombay"] = {
-    pos = { 0.632, 0.11, -0.22 },
-    page = 36,
+    pos = { 0.522, 0.11 , -0.171 },
+    page = 56,
     orientation = "right"
   },
   ["Kathmandu"] = {
-    pos = { 0.755, 0.11, -0.315 },
-    page = 53,
+    pos = { 0.623, 0.11 , -0.242 },
+    page = 73,
     orientation = "right"
   },
   ["Shanghai"] = {
-    pos = { 1.092, 0.11, -0.369 },
-    page = 32,
+    pos = { 0.894, 0.11 , -0.289 },
+    page = 52,
     orientation = "left"
   },
   ["Tokyo"] = {
-    pos = { 1.242, 0.11, -0.416 },
-    page = 37,
+    pos = { 0.991, 0.11 , -0.354 },
+    page = 57,
     orientation = "right"
   },
   ["Perth"] = {
-    pos = { 1.025, 0.11, 0.373 },
-    page = 55,
+    pos = { 0.852, 0.11 , 0.323 },
+    page = 78,
     orientation = "right"
   },
   ["Sydney"] = {
-    pos = { 1.375, 0.11, 0.391 },
-    page = 49,
+    pos = { 1.123, 0.11 , 0.338 },
+    page = 69,
     orientation = "left"
   },
 
   -- bonus locations
   ["Reykjavik"] = {
-    pos = { -0.25, 0.11, -0.745 },
-    page = 14,
+    pos = { -0.201, 0.11 , -0.598 },
+    page = 33,
     orientation = "right"
   },
   ["Tunguska"] = {
-    pos = { 0.817, 0.11, -0.701 },
-    page = 59,
+    pos = { 0.674, 0.11 , -0.562 },
+    page = 82,
     orientation = "right"
   },
   ["Kabul"] = {
-    pos = { 0.574, 0.11, -0.421 },
-    page = 14,
+    pos = { 0.478, 0.11 , -0.333 },
+    page = 33,
     orientation = "right"
   },
   ["Kuala Lumpur"] = {
-    pos = { 0.933, 0.11, -0.037 },
-    page = 46,
-    orientation = "left"
+    pos = { 0.775, 0.11 , -0.018 },
+    page = 66,
+    orientation = "right"
   },
   ["Hong Kong"] = {
-    pos = { 1.042, 0.11, -0.267 },
-    page = 50,
+    pos = { 0.855, 0.11 , -0.204 },
+    page = 70,
     orientation = "left"
   },
   ["Manokwari"] = {
-    pos = { 1.269, 0.11, 0.008 },
-    page = 45,
+    pos = { 1.044, 0.11 , 0.022 },
+    page = 65,
     orientation = "left"
   },
   ["San Juan"] = {
-    pos = { -0.76, 0.11, -0.216 },
-    page = 14,
+    pos = { -0.63, 0.11 , -0.167 },
+    page = 33,
     orientation = "right"
   },
   ["Quito"] = {
-    pos = { -0.899, 0.11, 0 },
-    page = 14,
+    pos = { -0.748, 0.11 , 0.012 },
+    page = 33,
     orientation = "right"
   }
 }
