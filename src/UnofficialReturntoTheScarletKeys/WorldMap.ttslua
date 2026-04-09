@@ -207,8 +207,6 @@ local buttonParameters          = {}
 buttonParameters.function_owner = self
 buttonParameters.label          = ""
 buttonParameters.color          = { 0, 0, 0, 0 }
-buttonParameters.width          = 900
-buttonParameters.height         = 200
 buttonParameters.scale          = { 0.1, 0.1, 0.1 }
 
 function onLoad()
@@ -235,8 +233,10 @@ function pageButton(name, data)
     data.pos[1] = data.pos[1] + offset
   end
 
-  buttonParameters.tooltip = "open page (" .. name .. ")"
-  buttonParameters.position = data.pos
+  buttonParameters.tooltip        = "open page (" .. name .. ")"
+  buttonParameters.position       = data.pos
+  buttonParameters.width          = data.width or 900
+  buttonParameters.height         = data.height or 200
   buttonParameters.click_function = attachPage("buttonClick", data.page)
   self.createButton(buttonParameters)
 end
