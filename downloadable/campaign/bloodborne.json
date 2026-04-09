@@ -41331,12 +41331,9 @@
   "Name": "Custom_Model_Bag",
   "Nickname": "Bloodborne - City of the Unseen",
   "Transform": {
-    "posX": 50,
-    "posY": 1.5,
-    "posZ": 0,
     "rotY": 270,
-    "scaleX": 1.17523348,
-    "scaleY": 0.164532676,
-    "scaleZ": 1.17523348
+    "scaleX": 1.0,
+    "scaleY": 0.14,
+    "scaleZ": 1.0
   }
 }
