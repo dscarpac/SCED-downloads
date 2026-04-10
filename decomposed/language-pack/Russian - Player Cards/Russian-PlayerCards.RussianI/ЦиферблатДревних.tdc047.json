@@ -14,7 +14,6 @@
   "Description": "Знаки искажения",
   "GMNotes": "{\n  \"id\": \"11047\"\n}",
   "GUID": "tdc047",
-  "LuaScript": "require(\"playercards/cards/DialofAncients4Aberration\")",
   "Name": "CardCustom",
   "Nickname": "Циферблат Древних",
   "Transform": {

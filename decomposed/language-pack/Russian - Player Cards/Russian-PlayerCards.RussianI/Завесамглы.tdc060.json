@@ -14,7 +14,6 @@
   "Description": "Ритуал.",
   "GMNotes": "{\n  \"id\": \"11060\"\n}",
   "GUID": "tdc060",
-  "LuaScript": "require(\"playercards/cards/Obscure2\")",
   "Name": "CardCustom",
   "Nickname": "Завеса мглы",
   "Transform": {

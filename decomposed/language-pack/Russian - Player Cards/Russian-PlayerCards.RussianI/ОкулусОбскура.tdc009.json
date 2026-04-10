@@ -14,7 +14,6 @@
   "Description": "Эзотерический окуляр",
   "GMNotes": "{\n  \"id\": \"11009\"\n}",
   "GUID": "tdc009",
-  "LuaScript": "require(\"playercards/cards/OculaObscura\")",
   "Name": "CardCustom",
   "Nickname": "Окулус Обскура",
   "Transform": {

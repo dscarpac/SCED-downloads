@@ -14,7 +14,6 @@
   "Description": "Благословенное. Удача.",
   "GMNotes": "{\n  \"id\": \"11091\"\n}",
   "GUID": "tdc091",
-  "LuaScript": "require(\"playercards/SkillSelectionCard\")",
   "Name": "CardCustom",
   "Nickname": "Хорошая погода",
   "Transform": {

@@ -14,7 +14,6 @@
   "Description": "Вещь. Музыкальная. Редкая. Проклятая.",
   "GMNotes": "{\n  \"id\": \"07268-t\"\n}",
   "GUID": "453fd1",
-  "LuaScript": "require(\"playercards/cards/FluteoftheOuterGods4\")",
   "Name": "Card",
   "Nickname": "Флейта Внешних богов (4) (Табу)",
   "Transform": {

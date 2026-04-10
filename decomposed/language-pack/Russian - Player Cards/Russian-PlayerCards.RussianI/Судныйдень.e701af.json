@@ -14,7 +14,6 @@
   "Description": "Конец времён.",
   "GMNotes": "{\n  \"id\": \"07040\"\n}",
   "GUID": "e701af",
-  "LuaScript": "require(\"playercards/cards/DayofReckoning\")",
   "Name": "Card",
   "Nickname": "Судный день",
   "Transform": {

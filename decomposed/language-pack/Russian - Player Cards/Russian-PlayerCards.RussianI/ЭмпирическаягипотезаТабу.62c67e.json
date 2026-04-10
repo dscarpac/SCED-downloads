@@ -14,7 +14,6 @@
   "Description": "Талант. Наука.",
   "GMNotes": "{\n  \"id\": \"09041-t\"\n}",
   "GUID": "62c67e",
-  "LuaScript": "require(\"playercards/cards/EmpiricalHypothesis\")",
   "Name": "CardCustom",
   "Nickname": "Эмпирическая гипотеза (Табу)",
   "Transform": {

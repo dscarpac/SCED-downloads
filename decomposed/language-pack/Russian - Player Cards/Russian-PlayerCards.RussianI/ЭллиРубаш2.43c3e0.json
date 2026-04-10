@@ -14,13 +14,11 @@
   "Description": "Союзник. Ведьма.",
   "GMNotes": "{\n  \"id\": \"09092\"\n}",
   "GUID": "43c3e0",
-  "LuaScript": "require(\"playercards/cards/ElleRubash2\")",
   "Name": "Card",
   "Nickname": "Элли Рубаш (2)",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1
-  },
-  "XmlUI": "<Include src=\"playercards/ElleRubash2.xml\"/>"
+  }
 }

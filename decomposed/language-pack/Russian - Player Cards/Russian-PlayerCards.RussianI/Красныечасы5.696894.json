@@ -11,23 +11,14 @@
       "UniqueBack": false
     }
   },
-  "CustomUIAssets": [
-    {
-      "Name": "font_teutonic-arkham",
-      "Type": 1,
-      "URL": "https://steamusercontent-a.akamaihd.net/ugc/17294509164577022713/89328E273B4C5180BF491516CE998DE3C604E162/"
-    }
-  ],
   "Description": "Вещь. Редкая.",
   "GMNotes": "{\n  \"id\": \"08058\"\n}",
   "GUID": "696894",
-  "LuaScript": "require(\"playercards/cards/TheRedClock\")",
   "Name": "Card",
   "Nickname": "Красные часы (5)",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1
-  },
-  "XmlUI": "<Include src=\"playercards/TheRedClock.xml\"/>"
+  }
 }

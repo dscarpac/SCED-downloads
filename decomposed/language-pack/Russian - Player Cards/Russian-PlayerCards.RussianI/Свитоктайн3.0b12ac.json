@@ -14,7 +14,6 @@
   "Description": "Вещь. Книга.",
   "GMNotes": "{\n  \"id\": \"05188\"\n}",
   "GUID": "0b12ac",
-  "LuaScript": "require(\"playercards/cards/ScrollofSecrets\")",
   "Name": "Card",
   "Nickname": "Свиток тайн (3)",
   "Transform": {

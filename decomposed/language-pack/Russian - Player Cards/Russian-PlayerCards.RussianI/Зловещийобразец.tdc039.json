@@ -14,7 +14,6 @@
   "Description": "Существо. Наука.",
   "GMNotes": "{\n  \"id\": \"11039\"\n}",
   "GUID": "tdc039",
-  "LuaScript": "require(\"playercards/cards/UncannySpecimen\")",
   "Name": "CardCustom",
   "Nickname": "Зловещий образец",
   "Transform": {

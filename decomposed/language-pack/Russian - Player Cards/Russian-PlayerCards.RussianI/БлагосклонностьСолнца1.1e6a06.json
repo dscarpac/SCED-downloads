@@ -14,7 +14,6 @@
   "Description": "Сделка. Благословенная.",
   "GMNotes": "{\n  \"id\": \"07272\"\n}",
   "GUID": "1e6a06",
-  "LuaScript": "require(\"playercards/cards/FavoroftheSun1\")",
   "Name": "Card",
   "Nickname": "Благосклонность Солнца (1)",
   "Transform": {
