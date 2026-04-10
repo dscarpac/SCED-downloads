@@ -14,7 +14,6 @@
   "Description": "Предсказание.",
   "GMNotes": "{\n  \"id\": \"06028\"\n}",
   "GUID": "600a3c",
-  "LuaScript": "require(\"playercards/cards/TheStarsAreRight\")",
   "Name": "Card",
   "Nickname": "Звёзды сошлись",
   "Transform": {

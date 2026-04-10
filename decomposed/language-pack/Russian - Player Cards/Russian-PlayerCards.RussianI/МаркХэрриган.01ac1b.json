@@ -12,17 +12,9 @@
       "UniqueBack": true
     }
   },
-  "CustomUIAssets": [
-    {
-      "Name": "font_arkhamicons",
-      "Type": 1,
-      "URL": "https://steamusercontent-a.akamaihd.net/ugc/15027120756910078445/49B31DA9BD35FC54A6B33926EA220FBBB2CAD038/"
-    }
-  ],
   "Description": "Ветеран.",
   "GMNotes": "{\n  \"id\": \"03001\"\n}",
   "GUID": "01ac1b",
-  "LuaScript": "require(\"playercards/CardsWithPhaseButtons\")",
   "Name": "Card",
   "Nickname": "Марк Хэрриган",
   "SidewaysCard": true,

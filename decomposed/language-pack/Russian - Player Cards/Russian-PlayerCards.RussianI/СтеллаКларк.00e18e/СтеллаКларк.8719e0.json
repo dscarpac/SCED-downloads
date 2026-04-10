@@ -11,22 +11,9 @@
       "UniqueBack": true
     }
   },
-  "CustomUIAssets": [
-    {
-      "Name": "font_arkhamicons",
-      "Type": 1,
-      "URL": "https://steamusercontent-a.akamaihd.net/ugc/15027120756910078445/49B31DA9BD35FC54A6B33926EA220FBBB2CAD038/"
-    },
-    {
-      "Name": "token-blue",
-      "Type": 0,
-      "URL": "https://steamusercontent-a.akamaihd.net/ugc/17504007405478299050/DC8691C239014FE7DDABB886BB1D383C05DC490F/"
-    }
-  ],
   "Description": "Избранник. Клерк.",
   "GMNotes": "{\n  \"id\": \"60501\"\n}",
   "GUID": "8719e0",
-  "LuaScript": "require(\"playercards/cards/StellaClark\")",
   "Name": "Card",
   "Nickname": "Стелла Кларк",
   "SidewaysCard": true,
@@ -34,6 +21,5 @@
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15
-  },
-  "XmlUI": "<Include src=\"playercards/StellaClark.xml\"/>"
+  }
 }

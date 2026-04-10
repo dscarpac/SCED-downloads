@@ -14,7 +14,6 @@
   "Description": "Союзник. Благословенная.",
   "GMNotes": "{\n  \"id\": \"07262\"\n}",
   "GUID": "5659d1",
-  "LuaScript": "require(\"playercards/cards/Nephthys4\")",
   "Name": "Card",
   "Nickname": "Нефтида (4)",
   "Transform": {

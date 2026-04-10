@@ -14,7 +14,6 @@
   "Description": "Приобретённый.",
   "GMNotes": "{\n  \"id\": \"07196\"\n}",
   "GUID": "45386d",
-  "LuaScript": "require(\"playercards/cards/Unrelenting1\")",
   "Name": "Card",
   "Nickname": "Неотступный (1)",
   "Transform": {

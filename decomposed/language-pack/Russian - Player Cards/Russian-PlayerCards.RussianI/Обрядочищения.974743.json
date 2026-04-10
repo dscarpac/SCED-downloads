@@ -14,7 +14,6 @@
   "Description": "Ритуал. Благословенный.",
   "GMNotes": "{\n  \"id\": \"07019\"\n}",
   "GUID": "974743",
-  "LuaScript": "require(\"playercards/cards/RiteofSanctification\")",
   "Name": "Card",
   "Nickname": "Обряд очищения",
   "Transform": {

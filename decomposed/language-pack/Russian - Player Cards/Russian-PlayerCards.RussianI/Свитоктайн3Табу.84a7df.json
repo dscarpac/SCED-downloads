@@ -14,7 +14,6 @@
   "Description": "Вещь. Книга.",
   "GMNotes": "{\n  \"id\": \"05188-t\"\n}",
   "GUID": "84a7df",
-  "LuaScript": "require(\"playercards/cards/ScrollofSecrets\")",
   "Name": "Card",
   "Nickname": "Свиток тайн (3) (Табу)",
   "Transform": {

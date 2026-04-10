@@ -14,7 +14,6 @@
   "Description": "Ритуал.",
   "GMNotes": "{\n  \"id\": \"11094\"\n}",
   "GUID": "tdc094",
-  "LuaScript": "require(\"playercards/cards/GiftofNodens\")",
   "Name": "CardCustom",
   "Nickname": "Дар Ноденса",
   "Transform": {

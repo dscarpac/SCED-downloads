@@ -11,17 +11,9 @@
       "UniqueBack": true
     }
   },
-  "CustomUIAssets": [
-    {
-      "Name": "font_teutonic-arkham",
-      "Type": 1,
-      "URL": "https://steamusercontent-a.akamaihd.net/ugc/17294509164577022713/89328E273B4C5180BF491516CE998DE3C604E162/"
-    }
-  ],
   "Description": "Скиталец.",
   "GMNotes": "{\n  \"id\": \"01005\"\n}",
   "GUID": "08bc6d",
-  "LuaScript": "require(\"playercards/cards/WendyAdams\")",
   "Name": "Card",
   "Nickname": "Венди Адамс",
   "SidewaysCard": true,

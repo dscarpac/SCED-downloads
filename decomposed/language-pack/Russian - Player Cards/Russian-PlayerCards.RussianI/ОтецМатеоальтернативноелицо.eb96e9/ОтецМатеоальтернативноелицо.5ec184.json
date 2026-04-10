@@ -11,17 +11,9 @@
       "UniqueBack": true
     }
   },
-  "CustomUIAssets": [
-    {
-      "Name": "font_arkhamicons",
-      "Type": 1,
-      "URL": "https://steamusercontent-a.akamaihd.net/ugc/15027120756910078445/49B31DA9BD35FC54A6B33926EA220FBBB2CAD038/"
-    }
-  ],
   "Description": "Верующий. Служитель.",
   "GMNotes": "{\n  \"id\": \"04004-pf\"\n}",
   "GUID": "5ec184",
-  "LuaScript": "require(\"playercards/cards/FatherMateoParallel\")",
   "Name": "CardCustom",
   "Nickname": "Отец Матео (альтернативное лицо)",
   "SidewaysCard": true,
@@ -29,6 +21,5 @@
     "scaleX": 1.15,
     "scaleY": 1,
     "scaleZ": 1.15
-  },
-  "XmlUI": "<Include src=\"playercards/FatherMateoParallel.xml\"/>"
+  }
 }

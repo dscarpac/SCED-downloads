@@ -14,7 +14,6 @@
   "Description": "Гуманоид. Монстр. Змея.",
   "GMNotes": "{\n  \"id\": \"04014\"\n}",
   "GUID": "678391",
-  "LuaScript": "require(\"playercards/cards/SerpentsofYig\")",
   "Name": "Card",
   "Nickname": "Змеи Йига",
   "Transform": {

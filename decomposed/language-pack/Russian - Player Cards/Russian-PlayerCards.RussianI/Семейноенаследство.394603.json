@@ -11,23 +11,14 @@
       "UniqueBack": false
     }
   },
-  "CustomUIAssets": [
-    {
-      "Name": "font_teutonic-arkham",
-      "Type": 1,
-      "URL": "https://steamusercontent-a.akamaihd.net/ugc/17294509164577022713/89328E273B4C5180BF491516CE998DE3C604E162/"
-    }
-  ],
   "Description": "Дар.",
   "GMNotes": "{\n  \"id\": \"05011\"\n}",
   "GUID": "394603",
-  "LuaScript": "require(\"playercards/cards/FamilyInheritance\")",
   "Name": "Card",
   "Nickname": "Семейное наследство",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1
-  },
-  "XmlUI": "<Include src=\"playercards/FamilyInheritance.xml\"/>"
+  }
 }

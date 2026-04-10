@@ -11,17 +11,9 @@
       "UniqueBack": true
     }
   },
-  "CustomUIAssets": [
-    {
-      "Name": "font_arkhamicons",
-      "Type": 1,
-      "URL": "https://steamusercontent-a.akamaihd.net/ugc/15027120756910078445/49B31DA9BD35FC54A6B33926EA220FBBB2CAD038/"
-    }
-  ],
   "Description": "Чародей.",
   "GMNotes": "{\n  \"id\": \"01004\"\n}",
   "GUID": "a9b6e4",
-  "LuaScript": "require(\"playercards/CardsWithPhaseButtons\")",
   "Name": "Card",
   "Nickname": "Агнес Бейкер",
   "SidewaysCard": true,

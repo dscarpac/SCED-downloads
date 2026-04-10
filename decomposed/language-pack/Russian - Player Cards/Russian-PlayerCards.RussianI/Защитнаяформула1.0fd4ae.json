@@ -14,7 +14,6 @@
   "Description": "Ритуал. Благословенный.",
   "GMNotes": "{\n  \"id\": \"04031\"\n}",
   "GUID": "0fd4ae",
-  "LuaScript": "require(\"playercards/cards/ProtectiveIncantation1\")",
   "Name": "Card",
   "Nickname": "Защитная формула (1)",
   "Transform": {

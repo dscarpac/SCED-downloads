@@ -11,33 +11,14 @@
       "UniqueBack": false
     }
   },
-  "CustomUIAssets": [
-    {
-      "Name": "font_teutonic-arkham",
-      "Type": 1,
-      "URL": "https://steamusercontent-a.akamaihd.net/ugc/17294509164577022713/89328E273B4C5180BF491516CE998DE3C604E162/"
-    },
-    {
-      "Name": "token-bless",
-      "Type": 0,
-      "URL": "https://steamusercontent-a.akamaihd.net/ugc/9789346007703151704/AF58317B4B90FDBB2859D667717956A24F838F9E/"
-    },
-    {
-      "Name": "token-curse",
-      "Type": 0,
-      "URL": "https://steamusercontent-a.akamaihd.net/ugc/15101822659710471244/CA7EF7D227D3BD3001A52D6D1EC40F631752270C/"
-    }
-  ],
   "Description": "Вещь. Книга. Благословенная. Проклятая.",
   "GMNotes": "{\n  \"id\": \"10013\"\n}",
   "GUID": "c5fb1f",
-  "LuaScript": "require(\"playercards/cards/BookofLivingMyths\")",
   "Name": "Card",
   "Nickname": "Книга живых мифов",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1
-  },
-  "XmlUI": "<Include src=\"playercards/BookofLivingMyths.xml\"/>"
+  }
 }

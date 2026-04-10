@@ -15,8 +15,6 @@
   "GMNotes": "{\n  \"id\": \"09042-c\"\n}",
   "GUID": "23b96a",
   "Hands": false,
-  "LuaScript": "require(\"localization/ru/playercards/customizable/TheRavenQuillUpgradeSheet\")",
-  "LuaScriptState": "[[0,0,0,0,0,0,0,0,0,0],[\"\",\"\",\"\",\"\",\"\"]]",
   "Name": "CardCustom",
   "Nickname": "Вороново перо",
   "Transform": {

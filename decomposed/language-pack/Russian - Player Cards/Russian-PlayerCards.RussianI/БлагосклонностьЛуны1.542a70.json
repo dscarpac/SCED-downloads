@@ -14,7 +14,6 @@
   "Description": "Сделка. Проклятая.",
   "GMNotes": "{\n  \"id\": \"07271\"\n}",
   "GUID": "542a70",
-  "LuaScript": "require(\"playercards/cards/FavoroftheMoon1\")",
   "Name": "Card",
   "Nickname": "Благосклонность Луны (1)",
   "Transform": {

@@ -14,13 +14,11 @@
   "Description": "Вещь. Оружие. Огнестрельное. Незаконное.",
   "GMNotes": "{\n  \"id\": \"11050\"\n}",
   "GUID": "tdc050",
-  "LuaScript": "require(\"playercards/cards/LugerP08\")",
   "Name": "CardCustom",
   "Nickname": "«Парабеллум»",
   "Transform": {
     "scaleX": 1,
     "scaleY": 1,
     "scaleZ": 1
-  },
-  "XmlUI": "<Include src=\"playercards/Luger.xml\"/>"
+  }
 }
