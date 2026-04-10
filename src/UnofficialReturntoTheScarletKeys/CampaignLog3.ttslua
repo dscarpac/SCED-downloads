@@ -2,78 +2,78 @@
 interfaceScale    = { 0.13, 0.1, 0.13 }
 defaultButtonData = {
   checkbox = {},
-  counter = {},
-  textbox = {
+  counter  = {},
+  textbox  = {
     -- San Juan
     {
-      pos   = { -0.622, 0.11 , -1.525 },
+      pos   = { -0.622, 0.11, -1.525 },
       rot   = { 0, -10, 0 },
       width = 1000
     },
     -- Quito
     {
-      pos   = { -0.919, 0.11 , -0.961 },
+      pos   = { -0.919, 0.11, -0.961 },
       rot   = { 0, -9, 0 },
       width = 1000
     },
     -- Reykjavik
     {
-      pos   = { 0.079, 0.11 , -1.343 },
+      pos   = { 0.079, 0.11, -1.343 },
       rot   = { 0, -2, 0 },
       width = 1000
     },
     -- London
     {
-      pos   = { 0.263, 0.11 , -1.013 },
+      pos   = { 0.263, 0.11, -1.013 },
       rot   = { 0, 5, 0 },
       width = 1000
     },
     -- Hong Kong
     {
-      pos   = { -0.776, 0.11 , -0.063 },
+      pos   = { -0.776, 0.11, -0.063 },
       rot   = { 0, 1, 0 },
       width = 1000
     },
     -- Kuala Lumpur
     {
-      pos   = { -0.805, 0.11 , 0.429 },
+      pos   = { -0.805, 0.11, 0.429 },
       rot   = { 0, 9, 0 },
       width = 1000
     },
     -- Manokwari
     {
-      pos   = { -0.333, 0.11 , 0.584 },
+      pos   = { -0.333, 0.11, 0.584 },
       rot   = { 0, 11, 0 },
       width = 1000
     },
     -- Tunguska
     {
-      pos   = { 0.914, 0.11 , -0.009 },
+      pos   = { 0.914, 0.11, -0.009 },
       rot   = { 0, -16, 0 },
       width = 1000
     },
     -- Kabul
     {
-      pos = { 0.484, 0.11 , 0.723 },
-      rot = { 0, -7, 0 },
+      pos   = { 0.484, 0.11, 0.723 },
+      rot   = { 0, -7, 0 },
       width = 1000
     },
-	 -- New Orleans
+    -- New Orleans
     {
-      pos = { -1.002, 0.11 , -1.829 },
-      rot = { 0, -10, 0 },
+      pos   = { -1.002, 0.11, -1.829 },
+      rot   = { 0, -10, 0 },
       width = 1000
     },
-	 -- Amazonia
+    -- Amazonia
     {
-      pos = { -0.487, 0.11 , -0.945 },
-      rot = { 0, -7, 0 },
+      pos   = { -0.487, 0.11, -0.945 },
+      rot   = { 0, -7, 0 },
       width = 1000
     },
-	 -- Antarctica
+    -- Antarctica
     {
-      pos = { 0.457, 0.11 , 1.611 },
-      rot = { 0, 8, 0 },
+      pos   = { 0.457, 0.11, 1.611 },
+      rot   = { 0, 8, 0 },
       width = 1000
     },
     -- killed investigators
