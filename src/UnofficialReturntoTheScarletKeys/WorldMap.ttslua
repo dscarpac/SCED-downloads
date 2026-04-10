@@ -229,7 +229,7 @@ function pageButton(name, data)
 
   if data.orientation == "left" then
     data.pos[1] = data.pos[1] - offset
-  else
+  elseif data.orientation == "right" then
     data.pos[1] = data.pos[1] + offset
   end
 
