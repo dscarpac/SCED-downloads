@@ -14,7 +14,6 @@
   "Description": "Талант.",
   "GMNotes": "{\n  \"id\": \"08071\"\n}",
   "GUID": "e5f541",
-  "LuaScript": "require(\"playercards/cards/ShortSupply\")",
   "Name": "Card",
   "Nickname": "Скудные средства",
   "Transform": {

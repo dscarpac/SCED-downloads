@@ -14,7 +14,6 @@
   "Description": "Знаки катаклизма",
   "GMNotes": "{\n  \"id\": \"11046\"\n}",
   "GUID": "tdc046",
-  "LuaScript": "require(\"playercards/cards/DialofAncients4Cataclysm\")",
   "Name": "CardCustom",
   "Nickname": "Циферблат Древних",
   "Transform": {

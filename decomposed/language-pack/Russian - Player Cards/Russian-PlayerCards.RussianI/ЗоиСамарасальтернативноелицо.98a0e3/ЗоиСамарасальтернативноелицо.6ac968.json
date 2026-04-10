@@ -11,17 +11,9 @@
       "UniqueBack": true
     }
   },
-  "CustomUIAssets": [
-    {
-      "Name": "font_arkhamicons",
-      "Type": 1,
-      "URL": "https://steamusercontent-a.akamaihd.net/ugc/15027120756910078445/49B31DA9BD35FC54A6B33926EA220FBBB2CAD038/"
-    }
-  ],
   "Description": "Верующий. Охотник.",
   "GMNotes": "{\n  \"id\": \"02001-pf\"\n}",
   "GUID": "6ac968",
-  "LuaScript": "require(\"playercards/CardsWithPhaseButtons\")",
   "Name": "Card",
   "Nickname": "Зои Самарас (альтернативное лицо)",
   "SidewaysCard": true,

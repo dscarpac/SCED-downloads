@@ -14,7 +14,6 @@
   "Description": "Заклинание.",
   "GMNotes": "{\n  \"id\": \"04310\"\n}",
   "GUID": "b10a71",
-  "LuaScript": "require(\"playercards/cards/ShardsoftheVoid3\")",
   "Name": "Card",
   "Nickname": "Осколки пустоты (3)",
   "Transform": {

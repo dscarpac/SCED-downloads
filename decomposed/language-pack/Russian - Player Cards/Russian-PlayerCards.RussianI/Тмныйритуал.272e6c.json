@@ -14,7 +14,6 @@
   "Description": "Ритуал. Проклятый.",
   "GMNotes": "{\n  \"id\": \"07026\"\n}",
   "GUID": "272e6c",
-  "LuaScript": "require(\"playercards/cards/DarkRitual\")",
   "Name": "Card",
   "Nickname": "Тёмный ритуал",
   "Transform": {

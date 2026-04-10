@@ -15,8 +15,6 @@
   "GMNotes": "{\n  \"id\": \"09100-c\"\n}",
   "GUID": "64dfce",
   "Hands": false,
-  "LuaScript": "require(\"localization/ru/playercards/customizable/MakeshiftTrapUpgradeSheet\")",
-  "LuaScriptState": "[[0,0,0,0,0,0,0,0,0,0],[\"\",\"\",\"\",\"\",\"\"]]",
   "Name": "CardCustom",
   "Nickname": "Самодельная ловушка",
   "Transform": {
