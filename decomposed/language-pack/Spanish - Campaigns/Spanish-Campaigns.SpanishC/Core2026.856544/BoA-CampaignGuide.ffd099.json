@@ -1,0 +1,25 @@
+{
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomPDF": {
+    "PDFPage": 0,
+    "PDFPageOffset": 0,
+    "PDFPassword": "",
+    "PDFUrl": "https://steamusercontent-a.akamaihd.net/ugc/16323356464876528858/6E7EF91CA075F1A6A1B7295F31F87D07918BB207/"
+  },
+  "GMNotes": "{\"id\": \"CG12\"}",
+  "GUID": "ffd099",
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "Name": "Custom_PDF",
+  "Nickname": "BoA - Campaign Guide",
+  "Transform": {
+    "rotY": 270,
+    "scaleX": 3.7,
+    "scaleY": 1,
+    "scaleZ": 3.7
+  }
+}
