@@ -1,4 +1,4 @@
--- Campaign Log: Ages Unwound
+-- Campaign Log: Generic
 
 defaultButtonData = {
   checkbox = {},
@@ -62,7 +62,7 @@ defaultButtonData = {
     {
       pos    = { 1.407, 0.11, -1.010 },
       size   = 800
-    },
+    }
   },
   textbox = {
     --1st Player Name

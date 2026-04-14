@@ -16,13 +16,13 @@
     "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/965354846165100486/3DC8FCEF364B30758B09EF96AF9458F2B8E64D56/",
     "WidthScale": 0
   },
-  "Description": "click to initialize chaos bag",
+  "Description": "click to set chaos token difficulty",
   "GUID": "ef7c6b",
   "Hands": false,
   "HideWhenFaceDown": false,
-  "LuaScript_path": "NightofVespers-CampaignExpansion.0531f8/NightofVespers.ef7c6b.ttslua",
+  "LuaScript": "require(\"DifficultySelectors/X-NightOfVespers\")",
   "Name": "Custom_Tile",
-  "Nickname": "Night of Vespers",
+  "Nickname": "Night of Vespers - Difficulty Selector",
   "Transform": {
     "rotY": 270,
     "scaleX": 2.2,

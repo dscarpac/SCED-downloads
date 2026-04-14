@@ -19,9 +19,9 @@
   "GUID": "80170c",
   "Hands": false,
   "HideWhenFaceDown": false,
-  "LuaScript": "require(\"AgesUnwound/CampaignLog\")",
+  "LuaScript": "require(\"GenericCampaignLog\")",
   "Name": "Custom_Token",
-  "Nickname": "Campaign Log",
+  "Nickname": "Ages Unwound - Campaign Log",
   "Tags": [
     "CameraZoom_ignore",
     "CampaignLog",
