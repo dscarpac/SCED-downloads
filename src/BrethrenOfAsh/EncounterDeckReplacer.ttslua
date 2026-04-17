@@ -35,7 +35,7 @@ function onLoad()
 end
 
 function removeCh1()
-  local replacedSets = {}
+  local removedSets = {}
   local pos          = self.getPosition():setAt("y", 3.5) - Vector(4, 0, 0)
   local rot          = Vector(0, 270, 0)
   local deck         = MythosAreaApi.getEncounterDeckObjects().draw
@@ -47,7 +47,7 @@ function removeCh1()
     if CH1_CARD_MAP[md.id] then
       deck.setRotation(rot)
       deck.setPosition(pos)
-      table.insert(replacedSets, CH1_CARD_MAP[md.id].set)
+      table.insert(removedSets, CH1_CARD_MAP[md.id].set)
     end
   else
     local deckObjects = deck.getObjects()
@@ -63,26 +63,20 @@ function removeCh1()
           rotation = rot,
           smooth   = false
         })
-        table.insert(replacedSets, CH1_CARD_MAP[md.id].set)
+        table.insert(removedSets, CH1_CARD_MAP[md.id].set)
       end
     end
   end
 
-  if #replacedSets == 0 then
+  if #removedSets == 0 then
     broadcastToAll("Didn't find any cards to replace!", "Orange")
     return
   end
 
   -- create unique list
-  local uniqueSets = TableLib.removeDuplicates(replacedSets)
+  local uniqueSets = TableLib.removeDuplicates(removedSets)
   local result = table.concat(uniqueSets, ", ")
 
   broadcastToAll("Removed replaceable cards from the encounter deck.", "Green")
-
-  -- build feedback message
-  if #uniqueSets == 1 then
-    printToAll("Encounter set replaced was: " .. result .. ".", "White")
-  else
-    printToAll("Encounter sets replaced were: " .. result .. ".", "White")
-  end
+  printToAll("Removed encounter sets: " .. result .. ".", "White")
 end

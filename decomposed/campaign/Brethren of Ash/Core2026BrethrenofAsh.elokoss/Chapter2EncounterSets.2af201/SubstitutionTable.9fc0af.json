@@ -23,14 +23,9 @@
   "Name": "Custom_Tile",
   "Nickname": "Substitution Table",
   "Transform": {
-    "posX": 22.5,
-    "posY": 1.481,
-    "posZ": -80,
-    "rotX": 0,
     "rotY": 270,
-    "rotZ": 0,
-    "scaleX": 1.5,
+    "scaleX": 3,
     "scaleY": 1,
-    "scaleZ": 1.5
+    "scaleZ": 3
   }
 }
