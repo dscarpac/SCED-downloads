@@ -19,16 +19,19 @@
   "GUID": "eda22b",
   "Hands": false,
   "HideWhenFaceDown": false,
-  "LuaScript": "require(\"Bloodborne/CampaignLog\")",
+  "LuaScript": "require(\"GenericCampaignLog\")",
   "Name": "Custom_Token",
   "Nickname": "Bloodborne - Campaign Log",
   "Tags": [
-    "CampaignLog"
+    "CameraZoom_ignore",
+    "CampaignLog",
+    "CleanUpHelper_ignore",
+    "displacement_excluded"
   ],
   "Transform": {
     "rotY": 270,
-    "scaleX": 3.25,
+    "scaleX": 3.5,
     "scaleY": 1,
-    "scaleZ": 3.25
+    "scaleZ": 3.5
   }
 }

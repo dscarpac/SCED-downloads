@@ -82,11 +82,9 @@ do
   end
 
   local function rotateDirectionByCard(card, direction)
-    local cardRot = math.floor((card.getRotation().y + 45) / 90) % 4
-
-    local directions = { "north", "east", "south", "west" }
-    local index = ({ north = 4, east = 3, south = 2, west = 1 })[direction]
-
+    local cardRot      = math.floor((card.getRotation().y + 45) / 90) % 4
+    local directions   = { "north", "east", "south", "west" }
+    local index        = ({ north = 4, east = 3, south = 2, west = 1 })[direction]
     local rotatedIndex = (index - 1 + cardRot) % 4 + 1
     return directions[rotatedIndex]
   end
@@ -170,7 +168,6 @@ do
     local adjacentGrid     = LocationLib.getAdjacentGrid(currentGrid, direction)
     local currentPos       = PlayAreaApi.gridToWorld(currentGrid)
     local adjacentPos      = PlayAreaApi.gridToWorld(adjacentGrid)
-
     local sourceObjects    = LocationLib.getObjectsAt(currentGrid)
     local targetObjects    = LocationLib.getObjectsAt(adjacentGrid)
 
