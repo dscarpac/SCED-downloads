@@ -24,7 +24,8 @@
     "Bystanders.313aea",
     "BadWeather.00bdb0",
     "AshenPilgrims.2300ee",
-    "ArcaneLocks.40ee00"
+    "ArcaneLocks.40ee00",
+    "SubstitutionTable.9fc0af"
   ],
   "ContainedObjects_path": "Chapter2EncounterSets.2af201",
   "Description": "This bag contains all the reused chapter 2 encounter cards, organized by set.\n\nSince they can be used in old content too, there is a context menu entry included to automatically remove all replaceable encounter cards from the encounter deck.",

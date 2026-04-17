@@ -1,32 +1,33 @@
 local MythosAreaApi = require("mythos/MythosAreaApi")
+local TableLib          = require("util/TableLib")
 
 local CH1_CARD_MAP  = {
-  ["01135"] = true,
-  ["01136"] = true,
-  ["01159"] = true,
-  ["01160"] = true,
-  ["01161"] = true,
-  ["01162"] = true,
-  ["01163"] = true,
-  ["01164"] = true,
-  ["01165"] = true,
-  ["01166"] = true,
-  ["01167"] = true,
-  ["01168"] = true,
-  ["01169"] = true,
-  ["01170"] = true,
-  ["01171"] = true,
-  ["01172"] = true,
-  ["01173"] = true,
-  ["01174"] = true,
-  ["01175"] = true,
-  ["01176"] = true,
-  ["01177"] = true,
-  ["01178"] = true,
-  ["01179"] = true,
-  ["01180"] = true,
-  ["01181"] = true,
-  ["01182"] = true
+  ["01135"] = { set = "The Midnight Masks Treacheries"},
+  ["01136"] = { set = "The Midnight Masks Treacheries"},
+  ["01159"] = { set = "Rats"},
+  ["01160"] = { set = "Ghouls"},
+  ["01161"] = { set = "Ghouls"},
+  ["01162"] = { set = "Ghouls"},
+  ["01163"] = { set = "Striking Fear"},
+  ["01164"] = { set = "Striking Fear"},
+  ["01165"] = { set = "Striking Fear"},
+  ["01166"] = { set = "Ancient Evils"},
+  ["01167"] = { set = "Chilling Cold"},
+  ["01168"] = { set = "Chilling Cold"},
+  ["01169"] = { set = "Dark Cult"},
+  ["01170"] = { set = "Dark Cult"},
+  ["01171"] = { set = "Dark Cult"},
+  ["01172"] = { set = "Nightgaunts"},
+  ["01173"] = { set = "Nightgaunts"},
+  ["01174"] = { set = "Locked Doors"},
+  ["01175"] = { set = "Agents of Hastur"},
+  ["01176"] = { set = "Agents of Hastur"},
+  ["01177"] = { set = "Agents of Yog-Sothoth"},
+  ["01178"] = { set = "Agents of Yog-Sothoth"},
+  ["01179"] = { set = "Agents of Shub-Niggurath"},
+  ["01180"] = { set = "Agents of Shub-Niggurath"},
+  ["01181"] = { set = "Agents of Cthulhu"},
+  ["01182"] = { set = "Agents of Cthulhu"}
 }
 
 function onLoad()
@@ -34,6 +35,7 @@ function onLoad()
 end
 
 function removeCh1()
+  encounterSetsReplaced = {}
   local pos  = self.getPosition():setAt("y", 3.5) - Vector(4, 0, 0)
   local rot  = Vector(0, 270, 0)
   local deck = MythosAreaApi.getEncounterDeckObjects().draw
@@ -48,15 +50,31 @@ function removeCh1()
   for i = #deckObjects, 1, -1 do
     local cardInfo = deckObjects[i]
     local md       = JSON.decode(cardInfo.gm_notes) or {}
-    if CH1_CARD_MAP[md.id] then
+    if CH1_CARD_MAP[md.id] ~= nil then
       deck.takeObject({
         index    = cardInfo.index,
         position = pos,
         rotation = rot,
         smooth   = false
       })
+      table.insert(encounterSetsReplaced, CH1_CARD_MAP[md.id].set)
     end
   end
-
-  broadcastToAll("Removed replaceable cards from the encounter deck.", "Green")
+  local uniqueSets = TableLib.removeDuplicates(encounterSetsReplaced)
+  local result = " "
+  for i, v in ipairs(uniqueSets) do
+    result = result .. tostring(v)
+    if i == #uniqueSets - 1 then
+      result = result .. ", and "
+    elseif i < #uniqueSets then
+      result = result .. ", "
+    end
+  end
+  if #uniqueSets == 1 then 
+    messageStart = " replaced was"
+  else
+    messageStart = "s replaced were"
+  end
+  result = result .. "."
+  broadcastToAll("Removed replaceable cards from the encounter deck. Encounter set" .. messageStart .. result, "Green")
 end
