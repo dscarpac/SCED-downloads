@@ -1,0 +1,24 @@
+{
+  "CardID": 266918,
+  "CustomDeck": {
+    "2669": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/9671314506549328278/FA14BF807D48542A89F9C8D3EF5833AFF625B8CD/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/16262782614602520403/37ED129D1EC16002CD3E766EB8211CAA99FD39FD/",
+      "NumHeight": 4,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "First Bank of Arkham",
+  "GMNotes": "{\n  \"id\": \"12145\"\n}",
+  "GUID": "c4cfb8",
+  "Name": "Card",
+  "Nickname": "Downtown",
+  "Transform": {
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}
