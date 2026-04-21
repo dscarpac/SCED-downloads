@@ -1713,8 +1713,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1870695908503116279/0315498EC4E14E41E9C31770EA837C9C4690303C/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"35db194e-8ce7-4a72-9e9d-2468cb1f3c13\",\"type\":\"Asset\",\"permanent\":true,\"class\":\"Neutral\",\"traits\":\"Item.  Occult.\",\"id\":\"35db194e-8ce7-4a72-9e9d-2468cb1f3c13\"}",
@@ -1741,8 +1740,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1870695908503114360/3DBB0F9939EAF6576A3402D3010A7563BAC0CCEC/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"dcc21b85-58dc-4127-a097-a96d0702fa26\",\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Monster.  Ally.\",\"wildIcons\":2,\"cost\":2,\"id\":\"dcc21b85-58dc-4127-a097-a96d0702fa26\"}",
@@ -3534,12 +3532,7 @@
   "Name": "Custom_Model_Bag",
   "Nickname": "Don't Starve Scenario",
   "Transform": {
-    "posX": 29.5351963,
-    "posY": 1.481499,
-    "posZ": -31.3272038,
-    "rotX": -1.9536742e-07,
-    "rotY": 270.0031,
-    "rotZ": 4.864952e-08,
+    "rotY": 270,
     "scaleX": 2.21,
     "scaleY": 0.46,
     "scaleZ": 2.42

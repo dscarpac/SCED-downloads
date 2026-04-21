@@ -16,8 +16,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/59204222342339285/223D6CB4B84E6D50E4D38DDD354BAD8B7A239ACE/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"id\":\"60ff4894-0bee-4a45-af7f-2b48d15a9af9\",\"type\":\"Treachery\",\"traits\":\"Curse.\",\"weakness\":true,\"TtsZoopGuid\":\"60ff4894-0bee-4a45-af7f-2b48d15a9af9\"}",
@@ -43,8 +42,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/59204222342339435/DDBA6FCCAADE73F288AA600B496CB10D866F4536/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"id\":\"da0b58bb-4b54-4e8b-9f23-32e84d308e85\",\"type\":\"Event\",\"class\":\"Neutral\",\"traits\":\"Spell.\",\"cost\":3,\"wildIcons\":3,\"TtsZoopGuid\":\"da0b58bb-4b54-4e8b-9f23-32e84d308e85\"}",
@@ -69,8 +67,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/59204222342339285/223D6CB4B84E6D50E4D38DDD354BAD8B7A239ACE/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1018": {
           "BackIsHidden": true,
@@ -78,8 +75,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/59204222342339435/DDBA6FCCAADE73F288AA600B496CB10D866F4536/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "DeckIDs": [
@@ -108,8 +104,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/9634973856825700406/1965B3A2EA34F7172315F8595AC429705A89DA31/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"id\":\"fd993c4f-6f6f-474c-9a7a-e384ea9b754a\",\"type\":\"Enemy\",\"traits\":\"Humanoid. Criminal.\",\"weakness\":true,\"TtsZoopGuid\":\"fd993c4f-6f6f-474c-9a7a-e384ea9b754a\"}",
@@ -135,8 +130,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/59204222342340047/29FF4CD03A7DDAA71BA3F6F73EA9A3EEB702A023/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "Description": "Premeditated Assault",
@@ -164,8 +158,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/15858335111164666173/682A01DBA3799FBEC295FD0F5B40F2953441A788/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "Description": "Missing Items",
@@ -193,8 +186,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/59204222342340175/56CF6C32C3952079C599C1FDCEB997B4F63F1A11/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "Description": "Robbery",
@@ -222,8 +214,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/59204222342340420/9A321BDB3748C2D54F5179F1F73B9D1EF0BFCAFE/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "Description": "Fraud",
@@ -250,8 +241,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/59204222342340420/9A321BDB3748C2D54F5179F1F73B9D1EF0BFCAFE/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1005": {
           "BackIsHidden": true,
@@ -259,8 +249,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/59204222342340047/29FF4CD03A7DDAA71BA3F6F73EA9A3EEB702A023/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1006": {
           "BackIsHidden": true,
@@ -268,8 +257,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/15858335111164666173/682A01DBA3799FBEC295FD0F5B40F2953441A788/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1007": {
           "BackIsHidden": true,
@@ -277,8 +265,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/59204222342340175/56CF6C32C3952079C599C1FDCEB997B4F63F1A11/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1008": {
           "BackIsHidden": true,
@@ -286,8 +273,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/9634973856825700406/1965B3A2EA34F7172315F8595AC429705A89DA31/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "DeckIDs": [
@@ -323,8 +309,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/59204222342339668/3AA140F36E0ED8B3CE6C0F42F5E6C0E85373CFB1/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"id\":\"af992dfb-7ec1-42e7-9036-d5df56d3b2b5\",\"type\":\"Treachery\",\"traits\":\"Flaw.\",\"weakness\":true,\"TtsZoopGuid\":\"af992dfb-7ec1-42e7-9036-d5df56d3b2b5\"}",
@@ -350,8 +335,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/59204222342339764/5B5DBD6B0374724CA90B8AF8228D3A6E50DFEAE7/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"id\":\"79f0989e-865c-4090-a3ed-8d5b179b8478\",\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Item. Science.\",\"cost\":2,\"agilityIcons\":1,\"intellectIcons\":1,\"wildIcons\":1,\"TtsZoopGuid\":\"79f0989e-865c-4090-a3ed-8d5b179b8478\"}",
@@ -378,8 +362,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/59204222342339879/E8D2980B4C4547289413EAA9845376F35D6BF603/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"id\":\"38fa4050-d63d-4870-91cd-a076d642f192\",\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Item. Tool. Science.\",\"cost\":3,\"agilityIcons\":1,\"willpowerIcons\":1,\"uses\":[{\"count\":4,\"token\":\"resource\",\"type\":\"Supply\"}],\"TtsZoopGuid\":\"38fa4050-d63d-4870-91cd-a076d642f192\",\"slot\":\"Accessory\"}",
@@ -405,8 +388,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/59204222342339879/E8D2980B4C4547289413EAA9845376F35D6BF603/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1011": {
           "BackIsHidden": true,
@@ -414,8 +396,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/59204222342339764/5B5DBD6B0374724CA90B8AF8228D3A6E50DFEAE7/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1012": {
           "BackIsHidden": true,
@@ -423,8 +404,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/59204222342339668/3AA140F36E0ED8B3CE6C0F42F5E6C0E85373CFB1/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "DeckIDs": [
@@ -458,8 +438,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/59204222342340839/B79B50366E91BA0FB988881D03B2595D96A818AA/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"id\":\"6cd4e092-e2ac-4f8c-81ce-e4bd8cadbb9e\",\"type\":\"Treachery\",\"traits\":\"Omen.\",\"weakness\":true,\"TtsZoopGuid\":\"6cd4e092-e2ac-4f8c-81ce-e4bd8cadbb9e\"}",
@@ -485,8 +464,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11534404323491386248/7C8364456DC9CFB317C369C4351632CC4B84BE55/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "Description": "Man's Best Friend",
@@ -513,8 +491,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11534404323491386248/7C8364456DC9CFB317C369C4351632CC4B84BE55/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1002": {
           "BackIsHidden": true,
@@ -522,8 +499,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/59204222342340839/B79B50366E91BA0FB988881D03B2595D96A818AA/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "DeckIDs": [
@@ -552,8 +528,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11028779544924735685/FCDA7A916F1996BACAF131537105EAE2AA4336D1/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"id\":\"69657414-64e9-45a6-a0ac-429a6fad3815\",\"type\":\"Enemy\",\"traits\":\"Geist.\",\"weakness\":true,\"TtsZoopGuid\":\"69657414-64e9-45a6-a0ac-429a6fad3815\"}",
@@ -579,8 +554,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/9290113601883096305/5065890F38596B7545B9D58EA97EAA69478D8D34/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "Description": "English Standard Version",
@@ -607,8 +581,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11028779544924735685/FCDA7A916F1996BACAF131537105EAE2AA4336D1/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1021": {
           "BackIsHidden": true,
@@ -616,8 +589,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/9290113601883096305/5065890F38596B7545B9D58EA97EAA69478D8D34/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "DeckIDs": [
@@ -646,8 +618,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/59204222342341143/5189DACA42A16204F86D85DB27757D913EE32BFC/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"id\":\"8d4ffe74-53e6-4a83-91c9-1c1f6c4274ad\",\"type\":\"Treachery\",\"traits\":\"Omen.\",\"weakness\":true,\"TtsZoopGuid\":\"8d4ffe74-53e6-4a83-91c9-1c1f6c4274ad\"}",
@@ -673,8 +644,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14454202079864829871/B45B013CFC5B8310A09D25517122AF0576BAD01B/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "Description": "Source of All Power",
@@ -701,8 +671,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14454202079864829871/B45B013CFC5B8310A09D25517122AF0576BAD01B/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1015": {
           "BackIsHidden": true,
@@ -710,8 +679,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/59204222342341143/5189DACA42A16204F86D85DB27757D913EE32BFC/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "DeckIDs": [
@@ -1097,12 +1065,7 @@
   "Name": "Custom_Model_Bag",
   "Nickname": "Ordinary Citizens",
   "Transform": {
-    "posX": 25.845665,
-    "posY": 1.48149884,
-    "posZ": 19.2613564,
-    "rotX": 1.85209359e-07,
-    "rotY": 270.002747,
-    "rotZ": 5.05465e-08,
+    "rotY": 270,
     "scaleX": 1.0,
     "scaleY": 0.14,
     "scaleZ": 1.0

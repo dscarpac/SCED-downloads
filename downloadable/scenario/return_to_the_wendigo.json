@@ -959,8 +959,7 @@
               "FaceURL": "https://github.com/ArkhamDotCards/returntothewendigo/blob/main/img/enUS/no-bleed/69a.png?raw=true",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\n  \"id\": \"RTW69\",\n  \"class\": \"Neutral\",\n  \"type\": \"Asset\",\n  \"traits\": \"Condition. Occult.\",\n  \"permanent\": true,\n  \"cycle\": \"Return to the Wendigo\"\n}",
@@ -987,8 +986,7 @@
               "FaceURL": "https://github.com/ArkhamDotCards/returntothewendigo/blob/main/img/enUS/no-bleed/68a.png?raw=true",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\n  \"id\": \"RTW68\",\n  \"class\": \"Neutral\",\n  \"type\": \"Asset\",\n  \"traits\": \"Boon.\",\n  \"permanent\": true,\n  \"cycle\": \"Return to the Wendigo\"\n}",
@@ -1015,8 +1013,7 @@
               "FaceURL": "https://github.com/ArkhamDotCards/returntothewendigo/blob/main/img/enUS/no-bleed/67a.png?raw=true",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\n  \"id\": \"RTW67\",\n  \"class\": \"Neutral\",\n  \"type\": \"Asset\",\n  \"cost\": 3,\n  \"traits\": \"Item. Relic. Weapon. Melee.\",\n  \"combatIcons\": 1,\n  \"agilityIcons\": 1,\n  \"wildIcons\": 1,\n  \"cycle\": \"Return to the Wendigo\"\n}",
@@ -1128,8 +1125,7 @@
               "FaceURL": "https://github.com/ArkhamDotCards/returntothewendigo/blob/main/img/enUS/no-bleed/63a.png?raw=true",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\n  \"id\": \"RTW63\",\n  \"class\": \"Neutral\",\n  \"type\": \"Asset\",\n  \"traits\": \"Item. Tome. Occult.\",\n  \"cycle\": \"Return to the Wendigo\"\n}",
@@ -1610,8 +1606,7 @@
                   "FaceURL": "https://github.com/ArkhamDotCards/returntothewendigo/blob/main/img/enUS/no-bleed/71a.png?raw=true",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\n  \"id\": \"RTW71\",\n  \"class\": \"Mythos\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Curse.\",\n  \"weakness\": true,\n  \"cycle\": \"Return to the Wendigo\"\n}",
@@ -1637,8 +1632,7 @@
                   "FaceURL": "https://github.com/ArkhamDotCards/returntothewendigo/blob/main/img/enUS/no-bleed/72a.png?raw=true",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\n  \"id\": \"RTW72\",\n  \"class\": \"Mythos\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Curse.\",\n  \"weakness\": true,\n  \"cycle\": \"Return to the Wendigo\"\n}",
@@ -1664,8 +1658,7 @@
                   "FaceURL": "https://github.com/ArkhamDotCards/returntothewendigo/blob/main/img/enUS/no-bleed/73a.png?raw=true",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\n  \"id\": \"RTW73\",\n  \"class\": \"Mythos\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Curse.\",\n  \"weakness\": true,\n  \"cycle\": \"Return to the Wendigo\"\n}",
@@ -1691,8 +1684,7 @@
                   "FaceURL": "https://github.com/ArkhamDotCards/returntothewendigo/blob/main/img/enUS/no-bleed/74a.png?raw=true",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\n  \"id\": \"RTW74\",\n  \"class\": \"Mythos\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Curse.\",\n  \"weakness\": true,\n  \"cycle\": \"Return to the Wendigo\"\n}",
@@ -1717,8 +1709,7 @@
               "FaceURL": "https://github.com/ArkhamDotCards/returntothewendigo/blob/main/img/enUS/no-bleed/71a.png?raw=true",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "87147": {
               "BackIsHidden": true,
@@ -1726,8 +1717,7 @@
               "FaceURL": "https://github.com/ArkhamDotCards/returntothewendigo/blob/main/img/enUS/no-bleed/72a.png?raw=true",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "87148": {
               "BackIsHidden": true,
@@ -1735,8 +1725,7 @@
               "FaceURL": "https://github.com/ArkhamDotCards/returntothewendigo/blob/main/img/enUS/no-bleed/73a.png?raw=true",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "87149": {
               "BackIsHidden": true,
@@ -1744,8 +1733,7 @@
               "FaceURL": "https://github.com/ArkhamDotCards/returntothewendigo/blob/main/img/enUS/no-bleed/74a.png?raw=true",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "DeckIDs": [
@@ -3843,12 +3831,7 @@
   "Name": "Custom_Model_Bag",
   "Nickname": "Return to the Wendigo Scenario Pack",
   "Transform": {
-    "posX": 28.1121559,
-    "posY": 1.48149908,
-    "posZ": -3.44439888,
-    "rotX": 1.435525e-07,
-    "rotY": 270.022766,
-    "rotZ": -1.639172e-08,
+    "rotY": 270,
     "scaleX": 2.21,
     "scaleY": 0.46,
     "scaleZ": 2.42

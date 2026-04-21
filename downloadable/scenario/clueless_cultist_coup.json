@@ -199,8 +199,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/ljgf07cq84n3vijqz5o77/73671389-463c-4cd9-a4df-00f3d7cd118d-Front-Hilstara-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=fm8lek4a040al71z1dn5a1hld&raw=1&cachebust=1761492273149",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "Description": "Ardan Warrior",
@@ -656,8 +655,7 @@
                       "FaceURL": "https://www.dropbox.com/scl/fi/etns8iazsooxaang6em8i/12bd4ee4-c15f-478e-ab63-f56964498995-Front-Qums-Protective-Spell-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=h2wka4nq1qf3xw2451vkwa06v&raw=1&cachebust=1760548967783",
                       "NumHeight": 1,
                       "NumWidth": 1,
-                      "Type": 0,
-                      "UniqueBack": true
+                      "Type": 0
                     }
                   },
                   "GMNotes": "{\"TtsZoopGuid\":\"12bd4ee4-c15f-478e-ab63-f56964498995\",\"id\":\"12bd4ee4-c15f-478e-ab63-f56964498995\",\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Spell.\",\"cost\":1,\"combatIcons\":1,\"intellectIcons\":1,\"wildIcons\":1,\"uses\":[{\"count\":4,\"token\":\"resource\",\"type\":\"Charge\"}]}",
@@ -684,8 +682,7 @@
                       "FaceURL": "https://www.dropbox.com/scl/fi/px6952ltpm85aldm1dqi1/a16cca14-c3ad-4dc7-b96f-b5668482477d-Front-Hilstaras-Armor-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=77ye28ofh1khopoiy0cqcrr2d&raw=1&cachebust=1760456334735",
                       "NumHeight": 1,
                       "NumWidth": 1,
-                      "Type": 0,
-                      "UniqueBack": true
+                      "Type": 0
                     }
                   },
                   "GMNotes": "{\"TtsZoopGuid\":\"a16cca14-c3ad-4dc7-b96f-b5668482477d\",\"id\":\"a16cca14-c3ad-4dc7-b96f-b5668482477d\",\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Item. Armor. Relic.\",\"cost\":3,\"slot\":\"Body\",\"combatIcons\":1,\"willpowerIcons\":1,\"wildIcons\":1}",
@@ -712,8 +709,7 @@
                       "FaceURL": "https://www.dropbox.com/scl/fi/4mwva6evvi8vpqj52fo8r/4a623852-5b65-4002-ba92-17967a910067-Front-Robins-Magic-Tome-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=bqrivyx76nkvyoc55n732nr5s&raw=1&cachebust=1760548969210",
                       "NumHeight": 1,
                       "NumWidth": 1,
-                      "Type": 0,
-                      "UniqueBack": true
+                      "Type": 0
                     }
                   },
                   "GMNotes": "{\"TtsZoopGuid\":\"4a623852-5b65-4002-ba92-17967a910067\",\"id\":\"4a623852-5b65-4002-ba92-17967a910067\",\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Item. Tome.\",\"cost\":2,\"slot\":\"Hand\",\"intellectIcons\":2,\"wildIcons\":1,\"uses\":[{\"count\":4,\"token\":\"resource\",\"type\":\"Secret\"}]}",
@@ -740,8 +736,7 @@
                       "FaceURL": "https://www.dropbox.com/scl/fi/qg68xjz6dgck2cgy1mjyg/53e2f273-9277-4057-a7c1-77b194747fe6-Front-Yarras-Invigoration-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=y37hkmnfjxahkx487pu6r4aar&raw=1&cachebust=1760622481264",
                       "NumHeight": 1,
                       "NumWidth": 1,
-                      "Type": 0,
-                      "UniqueBack": true
+                      "Type": 0
                     }
                   },
                   "GMNotes": "{\"TtsZoopGuid\":\"53e2f273-9277-4057-a7c1-77b194747fe6\",\"id\":\"53e2f273-9277-4057-a7c1-77b194747fe6\",\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Spell.\",\"cost\":1,\"agilityIcons\":1,\"willpowerIcons\":1,\"wildIcons\":1,\"uses\":[{\"count\":3,\"token\":\"resource\",\"type\":\"Charge\"}]}",
@@ -769,8 +764,7 @@
                       "FaceURL": "https://www.dropbox.com/scl/fi/gxue148ggi6kird619i3f/1bf07bce-5813-4df1-8c97-39baff234292-Front-Megails-Boon-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=x2kprvhkablvtkrhkmyly4iiw&raw=1&cachebust=1760548966226",
                       "NumHeight": 1,
                       "NumWidth": 1,
-                      "Type": 0,
-                      "UniqueBack": true
+                      "Type": 0
                     }
                   },
                   "GMNotes": "{\"TtsZoopGuid\":\"1bf07bce-5813-4df1-8c97-39baff234292\",\"id\":\"1bf07bce-5813-4df1-8c97-39baff234292\",\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Boon.\",\"cost\":0,\"agilityIcons\":1,\"intellectIcons\":1,\"wildIcons\":1,\"uses\":[{\"count\":3,\"token\":\"resource\",\"type\":\"Resource\"}]}",
@@ -797,8 +791,7 @@
                       "FaceURL": "https://www.dropbox.com/scl/fi/x9mx4ofijewi22yksg4b3/6ba91a9a-a4bc-44e2-a763-46a7785a2466-Front-Akas-Custom-Dagger-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=qn5cearfotzjc9silvbllklpx&raw=1&cachebust=1760456332135",
                       "NumHeight": 1,
                       "NumWidth": 1,
-                      "Type": 0,
-                      "UniqueBack": true
+                      "Type": 0
                     }
                   },
                   "GMNotes": "{\"TtsZoopGuid\":\"6ba91a9a-a4bc-44e2-a763-46a7785a2466\",\"id\":\"6ba91a9a-a4bc-44e2-a763-46a7785a2466\",\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Item. Weapon. Melee.\",\"cost\":2,\"slot\":\"Hand\",\"combatIcons\":2,\"wildIcons\":1}",
@@ -825,8 +818,7 @@
                   "FaceURL": "https://www.dropbox.com/scl/fi/x9mx4ofijewi22yksg4b3/6ba91a9a-a4bc-44e2-a763-46a7785a2466-Front-Akas-Custom-Dagger-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=qn5cearfotzjc9silvbllklpx&raw=1&cachebust=1760456332135",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 },
                 "1081": {
                   "BackIsHidden": true,
@@ -834,8 +826,7 @@
                   "FaceURL": "https://www.dropbox.com/scl/fi/px6952ltpm85aldm1dqi1/a16cca14-c3ad-4dc7-b96f-b5668482477d-Front-Hilstaras-Armor-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=77ye28ofh1khopoiy0cqcrr2d&raw=1&cachebust=1760456334735",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 },
                 "1082": {
                   "BackIsHidden": true,
@@ -843,8 +834,7 @@
                   "FaceURL": "https://www.dropbox.com/scl/fi/gxue148ggi6kird619i3f/1bf07bce-5813-4df1-8c97-39baff234292-Front-Megails-Boon-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=x2kprvhkablvtkrhkmyly4iiw&raw=1&cachebust=1760548966226",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 },
                 "1083": {
                   "BackIsHidden": true,
@@ -852,8 +842,7 @@
                   "FaceURL": "https://www.dropbox.com/scl/fi/etns8iazsooxaang6em8i/12bd4ee4-c15f-478e-ab63-f56964498995-Front-Qums-Protective-Spell-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=h2wka4nq1qf3xw2451vkwa06v&raw=1&cachebust=1760548967783",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 },
                 "1084": {
                   "BackIsHidden": true,
@@ -861,8 +850,7 @@
                   "FaceURL": "https://www.dropbox.com/scl/fi/4mwva6evvi8vpqj52fo8r/4a623852-5b65-4002-ba92-17967a910067-Front-Robins-Magic-Tome-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=bqrivyx76nkvyoc55n732nr5s&raw=1&cachebust=1760548969210",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 },
                 "1085": {
                   "BackIsHidden": true,
@@ -870,8 +858,7 @@
                   "FaceURL": "https://www.dropbox.com/scl/fi/qg68xjz6dgck2cgy1mjyg/53e2f273-9277-4057-a7c1-77b194747fe6-Front-Yarras-Invigoration-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=y37hkmnfjxahkx487pu6r4aar&raw=1&cachebust=1760622481264",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "DeckIDs": [
@@ -921,8 +908,7 @@
                   "FaceURL": "https://www.dropbox.com/scl/fi/i04i8tbxg9nzgvl5n2d37/74afc16f-3efa-4905-ae60-b9584cef28d9-Front-Kingsmen-Scion-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=uwq03izt91uztnkxj1e730xdd&raw=1&cachebust=1760548930082",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"TtsZoopGuid\":\"74afc16f-3efa-4905-ae60-b9584cef28d9\",\"id\":\"74afc16f-3efa-4905-ae60-b9584cef28d9\",\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Humanoid. Kingsmen. Noble. Elite.\",\"victory\":1}",
@@ -948,8 +934,7 @@
                   "FaceURL": "https://www.dropbox.com/scl/fi/u27zi6g1l1hydbshq7dz9/c0f38e38-b4b8-4247-9bf2-decc83256501-Front-Kingsmen-Mage-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=go3vac04p27dngsbz18bycouo&raw=1&cachebust=1760548928688",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"TtsZoopGuid\":\"c0f38e38-b4b8-4247-9bf2-decc83256501\",\"id\":\"c0f38e38-b4b8-4247-9bf2-decc83256501\",\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Humanoid. Kingsmen. Mage.\",\"victory\":0}",
@@ -975,8 +960,7 @@
                   "FaceURL": "https://www.dropbox.com/scl/fi/u27zi6g1l1hydbshq7dz9/c0f38e38-b4b8-4247-9bf2-decc83256501-Front-Kingsmen-Mage-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=go3vac04p27dngsbz18bycouo&raw=1&cachebust=1760548928688",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"TtsZoopGuid\":\"c0f38e38-b4b8-4247-9bf2-decc83256501\",\"id\":\"c0f38e38-b4b8-4247-9bf2-decc83256501\",\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Humanoid. Kingsmen. Mage.\",\"victory\":0}",
@@ -1001,8 +985,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/u27zi6g1l1hydbshq7dz9/c0f38e38-b4b8-4247-9bf2-decc83256501-Front-Kingsmen-Mage-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=go3vac04p27dngsbz18bycouo&raw=1&cachebust=1760548928688",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1047": {
               "BackIsHidden": true,
@@ -1010,8 +993,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/u27zi6g1l1hydbshq7dz9/c0f38e38-b4b8-4247-9bf2-decc83256501-Front-Kingsmen-Mage-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=go3vac04p27dngsbz18bycouo&raw=1&cachebust=1760548928688",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1048": {
               "BackIsHidden": true,
@@ -1019,8 +1001,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/i04i8tbxg9nzgvl5n2d37/74afc16f-3efa-4905-ae60-b9584cef28d9-Front-Kingsmen-Scion-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=uwq03izt91uztnkxj1e730xdd&raw=1&cachebust=1760548930082",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "DeckIDs": [
@@ -1316,8 +1297,7 @@
                   "FaceURL": "https://www.dropbox.com/scl/fi/2qtwk3aoa3nws9odzmd7l/d532e15d-b4dd-48c5-bf04-d2694f828373-Front-Controlled-Yhilini-Soldier-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=ne0zpcihd0zhesh0fs6hf1pnq&raw=1&cachebust=1760622435438",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"TtsZoopGuid\":\"d532e15d-b4dd-48c5-bf04-d2694f828373\",\"id\":\"d532e15d-b4dd-48c5-bf04-d2694f828373\",\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Humanoid. Soldier.\"}",
@@ -1343,8 +1323,7 @@
                   "FaceURL": "https://www.dropbox.com/scl/fi/2qtwk3aoa3nws9odzmd7l/d532e15d-b4dd-48c5-bf04-d2694f828373-Front-Controlled-Yhilini-Soldier-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=ne0zpcihd0zhesh0fs6hf1pnq&raw=1&cachebust=1760622435438",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"TtsZoopGuid\":\"d532e15d-b4dd-48c5-bf04-d2694f828373\",\"id\":\"d532e15d-b4dd-48c5-bf04-d2694f828373\",\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Humanoid. Soldier.\"}",
@@ -1370,8 +1349,7 @@
                   "FaceURL": "https://www.dropbox.com/scl/fi/2qtwk3aoa3nws9odzmd7l/d532e15d-b4dd-48c5-bf04-d2694f828373-Front-Controlled-Yhilini-Soldier-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=ne0zpcihd0zhesh0fs6hf1pnq&raw=1&cachebust=1760622435438",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"TtsZoopGuid\":\"d532e15d-b4dd-48c5-bf04-d2694f828373\",\"id\":\"d532e15d-b4dd-48c5-bf04-d2694f828373\",\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Humanoid. Soldier.\"}",
@@ -1397,8 +1375,7 @@
                   "FaceURL": "https://www.dropbox.com/scl/fi/2qtwk3aoa3nws9odzmd7l/d532e15d-b4dd-48c5-bf04-d2694f828373-Front-Controlled-Yhilini-Soldier-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=ne0zpcihd0zhesh0fs6hf1pnq&raw=1&cachebust=1760622435438",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"TtsZoopGuid\":\"d532e15d-b4dd-48c5-bf04-d2694f828373\",\"id\":\"d532e15d-b4dd-48c5-bf04-d2694f828373\",\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Humanoid. Soldier.\"}",
@@ -1424,8 +1401,7 @@
                   "FaceURL": "https://www.dropbox.com/scl/fi/2qtwk3aoa3nws9odzmd7l/d532e15d-b4dd-48c5-bf04-d2694f828373-Front-Controlled-Yhilini-Soldier-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=ne0zpcihd0zhesh0fs6hf1pnq&raw=1&cachebust=1760622435438",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"TtsZoopGuid\":\"d532e15d-b4dd-48c5-bf04-d2694f828373\",\"id\":\"d532e15d-b4dd-48c5-bf04-d2694f828373\",\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Humanoid. Soldier.\"}",
@@ -1451,8 +1427,7 @@
                   "FaceURL": "https://www.dropbox.com/scl/fi/2qtwk3aoa3nws9odzmd7l/d532e15d-b4dd-48c5-bf04-d2694f828373-Front-Controlled-Yhilini-Soldier-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=ne0zpcihd0zhesh0fs6hf1pnq&raw=1&cachebust=1760622435438",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"TtsZoopGuid\":\"d532e15d-b4dd-48c5-bf04-d2694f828373\",\"id\":\"d532e15d-b4dd-48c5-bf04-d2694f828373\",\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Humanoid. Soldier.\"}",
@@ -1478,8 +1453,7 @@
                   "FaceURL": "https://www.dropbox.com/scl/fi/xkmpvtovjne5hedv5ev7k/d9edddff-b470-4e78-ae30-3b75e2ff3c81-Front-Trin-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=qsbryubj76y6zkdgc7k0tuio5&raw=1&cachebust=1760622446729",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"TtsZoopGuid\":\"d9edddff-b470-4e78-ae30-3b75e2ff3c81\",\"id\":\"d9edddff-b470-4e78-ae30-3b75e2ff3c81\",\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Humanoid. Mage. Elite.\",\"victory\":1}",
@@ -1504,8 +1478,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/2qtwk3aoa3nws9odzmd7l/d532e15d-b4dd-48c5-bf04-d2694f828373-Front-Controlled-Yhilini-Soldier-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=ne0zpcihd0zhesh0fs6hf1pnq&raw=1&cachebust=1760622435438",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1021": {
               "BackIsHidden": true,
@@ -1513,8 +1486,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/2qtwk3aoa3nws9odzmd7l/d532e15d-b4dd-48c5-bf04-d2694f828373-Front-Controlled-Yhilini-Soldier-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=ne0zpcihd0zhesh0fs6hf1pnq&raw=1&cachebust=1760622435438",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1022": {
               "BackIsHidden": true,
@@ -1522,8 +1494,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/2qtwk3aoa3nws9odzmd7l/d532e15d-b4dd-48c5-bf04-d2694f828373-Front-Controlled-Yhilini-Soldier-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=ne0zpcihd0zhesh0fs6hf1pnq&raw=1&cachebust=1760622435438",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1023": {
               "BackIsHidden": true,
@@ -1531,8 +1502,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/2qtwk3aoa3nws9odzmd7l/d532e15d-b4dd-48c5-bf04-d2694f828373-Front-Controlled-Yhilini-Soldier-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=ne0zpcihd0zhesh0fs6hf1pnq&raw=1&cachebust=1760622435438",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1024": {
               "BackIsHidden": true,
@@ -1540,8 +1510,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/2qtwk3aoa3nws9odzmd7l/d532e15d-b4dd-48c5-bf04-d2694f828373-Front-Controlled-Yhilini-Soldier-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=ne0zpcihd0zhesh0fs6hf1pnq&raw=1&cachebust=1760622435438",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1025": {
               "BackIsHidden": true,
@@ -1549,8 +1518,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/2qtwk3aoa3nws9odzmd7l/d532e15d-b4dd-48c5-bf04-d2694f828373-Front-Controlled-Yhilini-Soldier-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=ne0zpcihd0zhesh0fs6hf1pnq&raw=1&cachebust=1760622435438",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1061": {
               "BackIsHidden": true,
@@ -1558,8 +1526,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/xkmpvtovjne5hedv5ev7k/d9edddff-b470-4e78-ae30-3b75e2ff3c81-Front-Trin-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=qsbryubj76y6zkdgc7k0tuio5&raw=1&cachebust=1760622446729",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "DeckIDs": [
@@ -1697,8 +1664,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/yvevpu2qfo7mupzymrwg8/d2b98b11-c954-4db8-8ae4-5137bf2a2480-Front-Hank-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=eghge7alt8lp2kecwu4v4uow9&raw=1&cachebust=1760548974700",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"d2b98b11-c954-4db8-8ae4-5137bf2a2480\",\"id\":\"d2b98b11-c954-4db8-8ae4-5137bf2a2480\",\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Humanoid. Drunk.\"}",
@@ -1725,8 +1691,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/q2cf6m9ktkog7zy1w0gju/3257e70c-d4ba-4c27-bc00-51b12ce1905b-Front-Black-Market-Fence-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=gr6054daaocpzgva5yoj8avzi&raw=1&cachebust=1760622483970",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"3257e70c-d4ba-4c27-bc00-51b12ce1905b\",\"id\":\"3257e70c-d4ba-4c27-bc00-51b12ce1905b\",\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Humanoid. Criminal.\"}",
@@ -1755,8 +1720,7 @@
                   "FaceURL": "https://www.dropbox.com/scl/fi/el6yr9y5y647vtxuu5cfl/5c818054-3019-4838-b19d-77e5461a674f-Front-Loud-Local-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=vq7vo4d0uuw7xc3gow5rjliz3&raw=1&cachebust=1760548978139",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"TtsZoopGuid\":\"5c818054-3019-4838-b19d-77e5461a674f\",\"id\":\"5c818054-3019-4838-b19d-77e5461a674f\",\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Humanoid. Civilian.\"}",
@@ -1783,8 +1747,7 @@
                   "FaceURL": "https://www.dropbox.com/scl/fi/vqndxww5scvb4q8jirub9/957ada84-d6a5-41ca-a1e2-c88a3fa6cbb4-Front-Sarai-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=ior807x5k2mbidu4qidud1i55&raw=1&cachebust=1760622491635",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "Description": "High Priestess of Ivala",
@@ -1812,8 +1775,7 @@
                   "FaceURL": "https://www.dropbox.com/scl/fi/d6y1ejvijw5z00bb2owur/d0597f0c-2ef0-47f0-bd36-de06b1fa6139-Front-Ex-Reval-Mercenary-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=qqn8uorbd7y11wv4bxjktld5l&raw=1&cachebust=1760622486503",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"TtsZoopGuid\":\"d0597f0c-2ef0-47f0-bd36-de06b1fa6139\",\"id\":\"d0597f0c-2ef0-47f0-bd36-de06b1fa6139\",\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Humanoid. Mercenary.\"}",
@@ -1840,8 +1802,7 @@
                   "FaceURL": "https://www.dropbox.com/scl/fi/yr4ks3cb5yne9eayam5fr/5741d660-f7b3-4138-b8cf-c9772775f564-Front-Iron-Cudgel-Mercenary-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=wq9sl0yirbw7wmddo91k3x13a&raw=1&cachebust=1760622489063",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"TtsZoopGuid\":\"5741d660-f7b3-4138-b8cf-c9772775f564\",\"id\":\"5741d660-f7b3-4138-b8cf-c9772775f564\",\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Humanoid. Mercenary.\"}",
@@ -1867,8 +1828,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/d6y1ejvijw5z00bb2owur/d0597f0c-2ef0-47f0-bd36-de06b1fa6139-Front-Ex-Reval-Mercenary-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=qqn8uorbd7y11wv4bxjktld5l&raw=1&cachebust=1760622486503",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1090": {
               "BackIsHidden": true,
@@ -1876,8 +1836,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/yr4ks3cb5yne9eayam5fr/5741d660-f7b3-4138-b8cf-c9772775f564-Front-Iron-Cudgel-Mercenary-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=wq9sl0yirbw7wmddo91k3x13a&raw=1&cachebust=1760622489063",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1091": {
               "BackIsHidden": true,
@@ -1885,8 +1844,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/el6yr9y5y647vtxuu5cfl/5c818054-3019-4838-b19d-77e5461a674f-Front-Loud-Local-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=vq7vo4d0uuw7xc3gow5rjliz3&raw=1&cachebust=1760548978139",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1092": {
               "BackIsHidden": true,
@@ -1894,8 +1852,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/vqndxww5scvb4q8jirub9/957ada84-d6a5-41ca-a1e2-c88a3fa6cbb4-Front-Sarai-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=ior807x5k2mbidu4qidud1i55&raw=1&cachebust=1760622491635",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "DeckIDs": [
@@ -2033,8 +1990,7 @@
                   "FaceURL": "https://www.dropbox.com/scl/fi/qrex9dsxv1exyijeny1vz/e588a92e-16d2-4f5a-9506-ed99da5e5375-Front-Kingsmen-Enforcer-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=xwy466sp8jehynjqb3h8u39i5&raw=1&cachebust=1760548927304",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"TtsZoopGuid\":\"e588a92e-16d2-4f5a-9506-ed99da5e5375\",\"id\":\"e588a92e-16d2-4f5a-9506-ed99da5e5375\",\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Humanoid. Kingsmen. Elite.\",\"victory\":1}",
@@ -2060,8 +2016,7 @@
                   "FaceURL": "https://www.dropbox.com/scl/fi/qrex9dsxv1exyijeny1vz/e588a92e-16d2-4f5a-9506-ed99da5e5375-Front-Kingsmen-Enforcer-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=xwy466sp8jehynjqb3h8u39i5&raw=1&cachebust=1760548927304",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"TtsZoopGuid\":\"e588a92e-16d2-4f5a-9506-ed99da5e5375\",\"id\":\"e588a92e-16d2-4f5a-9506-ed99da5e5375\",\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Humanoid. Kingsmen. Elite.\",\"victory\":1}",
@@ -2087,8 +2042,7 @@
                   "FaceURL": "https://www.dropbox.com/scl/fi/qpf0xh36ifbo3rdwcr9lz/cdeb0be5-ab19-4e49-8c0e-c2e2be1b36d5-Front-Kingsmen-Lackey-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=mucfw3h66pbqrls15750jidg6&raw=1&cachebust=1760456310844",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"TtsZoopGuid\":\"cdeb0be5-ab19-4e49-8c0e-c2e2be1b36d5\",\"id\":\"cdeb0be5-ab19-4e49-8c0e-c2e2be1b36d5\",\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Humanoid. Kingsmen.\"}",
@@ -2114,8 +2068,7 @@
                   "FaceURL": "https://www.dropbox.com/scl/fi/qpf0xh36ifbo3rdwcr9lz/cdeb0be5-ab19-4e49-8c0e-c2e2be1b36d5-Front-Kingsmen-Lackey-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=mucfw3h66pbqrls15750jidg6&raw=1&cachebust=1760456310844",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"TtsZoopGuid\":\"cdeb0be5-ab19-4e49-8c0e-c2e2be1b36d5\",\"id\":\"cdeb0be5-ab19-4e49-8c0e-c2e2be1b36d5\",\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Humanoid. Kingsmen.\"}",
@@ -2141,8 +2094,7 @@
                   "FaceURL": "https://www.dropbox.com/scl/fi/qpf0xh36ifbo3rdwcr9lz/cdeb0be5-ab19-4e49-8c0e-c2e2be1b36d5-Front-Kingsmen-Lackey-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=mucfw3h66pbqrls15750jidg6&raw=1&cachebust=1760456310844",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"TtsZoopGuid\":\"cdeb0be5-ab19-4e49-8c0e-c2e2be1b36d5\",\"id\":\"cdeb0be5-ab19-4e49-8c0e-c2e2be1b36d5\",\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Humanoid. Kingsmen.\"}",
@@ -2168,8 +2120,7 @@
                   "FaceURL": "https://www.dropbox.com/scl/fi/qpf0xh36ifbo3rdwcr9lz/cdeb0be5-ab19-4e49-8c0e-c2e2be1b36d5-Front-Kingsmen-Lackey-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=mucfw3h66pbqrls15750jidg6&raw=1&cachebust=1760456310844",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"TtsZoopGuid\":\"cdeb0be5-ab19-4e49-8c0e-c2e2be1b36d5\",\"id\":\"cdeb0be5-ab19-4e49-8c0e-c2e2be1b36d5\",\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Humanoid. Kingsmen.\"}",
@@ -2195,8 +2146,7 @@
                   "FaceURL": "https://www.dropbox.com/scl/fi/4qgmakyo2hwt80xz0ebz1/6122356c-87ee-4633-b018-8ab4561e8ed8-Front-A-Noble-Outburst-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=e16e24xknco24z13rrgc9zw7z&raw=1&cachebust=1760456297132",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"TtsZoopGuid\":\"6122356c-87ee-4633-b018-8ab4561e8ed8\",\"id\":\"6122356c-87ee-4633-b018-8ab4561e8ed8\",\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Tactic.\"}",
@@ -2222,8 +2172,7 @@
                   "FaceURL": "https://www.dropbox.com/scl/fi/4qgmakyo2hwt80xz0ebz1/6122356c-87ee-4633-b018-8ab4561e8ed8-Front-A-Noble-Outburst-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=e16e24xknco24z13rrgc9zw7z&raw=1&cachebust=1760456297132",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"TtsZoopGuid\":\"6122356c-87ee-4633-b018-8ab4561e8ed8\",\"id\":\"6122356c-87ee-4633-b018-8ab4561e8ed8\",\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Tactic.\"}",
@@ -2249,8 +2198,7 @@
                   "FaceURL": "https://www.dropbox.com/scl/fi/n254qvlae537wlqthsjff/8ecd3ad1-ec2b-4507-9be5-74fd9d3b16f8-Front-Road-Block-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=o27qq1wppu5bhcxw2kovs166e&raw=1&cachebust=1760548931519",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"TtsZoopGuid\":\"8ecd3ad1-ec2b-4507-9be5-74fd9d3b16f8\",\"id\":\"8ecd3ad1-ec2b-4507-9be5-74fd9d3b16f8\",\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Obstacle.\"}",
@@ -2276,8 +2224,7 @@
                   "FaceURL": "https://www.dropbox.com/scl/fi/n254qvlae537wlqthsjff/8ecd3ad1-ec2b-4507-9be5-74fd9d3b16f8-Front-Road-Block-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=o27qq1wppu5bhcxw2kovs166e&raw=1&cachebust=1760548931519",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"TtsZoopGuid\":\"8ecd3ad1-ec2b-4507-9be5-74fd9d3b16f8\",\"id\":\"8ecd3ad1-ec2b-4507-9be5-74fd9d3b16f8\",\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Obstacle.\"}",
@@ -2303,8 +2250,7 @@
                   "FaceURL": "https://www.dropbox.com/scl/fi/n254qvlae537wlqthsjff/8ecd3ad1-ec2b-4507-9be5-74fd9d3b16f8-Front-Road-Block-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=o27qq1wppu5bhcxw2kovs166e&raw=1&cachebust=1760548931519",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"TtsZoopGuid\":\"8ecd3ad1-ec2b-4507-9be5-74fd9d3b16f8\",\"id\":\"8ecd3ad1-ec2b-4507-9be5-74fd9d3b16f8\",\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Obstacle.\"}",
@@ -2329,8 +2275,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/4qgmakyo2hwt80xz0ebz1/6122356c-87ee-4633-b018-8ab4561e8ed8-Front-A-Noble-Outburst-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=e16e24xknco24z13rrgc9zw7z&raw=1&cachebust=1760456297132",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1018": {
               "BackIsHidden": true,
@@ -2338,8 +2283,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/4qgmakyo2hwt80xz0ebz1/6122356c-87ee-4633-b018-8ab4561e8ed8-Front-A-Noble-Outburst-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=e16e24xknco24z13rrgc9zw7z&raw=1&cachebust=1760456297132",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1040": {
               "BackIsHidden": true,
@@ -2347,8 +2291,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/qrex9dsxv1exyijeny1vz/e588a92e-16d2-4f5a-9506-ed99da5e5375-Front-Kingsmen-Enforcer-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=xwy466sp8jehynjqb3h8u39i5&raw=1&cachebust=1760548927304",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1041": {
               "BackIsHidden": true,
@@ -2356,8 +2299,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/qrex9dsxv1exyijeny1vz/e588a92e-16d2-4f5a-9506-ed99da5e5375-Front-Kingsmen-Enforcer-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=xwy466sp8jehynjqb3h8u39i5&raw=1&cachebust=1760548927304",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1042": {
               "BackIsHidden": true,
@@ -2365,8 +2307,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/qpf0xh36ifbo3rdwcr9lz/cdeb0be5-ab19-4e49-8c0e-c2e2be1b36d5-Front-Kingsmen-Lackey-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=mucfw3h66pbqrls15750jidg6&raw=1&cachebust=1760456310844",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1043": {
               "BackIsHidden": true,
@@ -2374,8 +2315,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/qpf0xh36ifbo3rdwcr9lz/cdeb0be5-ab19-4e49-8c0e-c2e2be1b36d5-Front-Kingsmen-Lackey-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=mucfw3h66pbqrls15750jidg6&raw=1&cachebust=1760456310844",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1044": {
               "BackIsHidden": true,
@@ -2383,8 +2323,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/qpf0xh36ifbo3rdwcr9lz/cdeb0be5-ab19-4e49-8c0e-c2e2be1b36d5-Front-Kingsmen-Lackey-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=mucfw3h66pbqrls15750jidg6&raw=1&cachebust=1760456310844",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1045": {
               "BackIsHidden": true,
@@ -2392,8 +2331,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/qpf0xh36ifbo3rdwcr9lz/cdeb0be5-ab19-4e49-8c0e-c2e2be1b36d5-Front-Kingsmen-Lackey-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=mucfw3h66pbqrls15750jidg6&raw=1&cachebust=1760456310844",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1052": {
               "BackIsHidden": true,
@@ -2401,8 +2339,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/n254qvlae537wlqthsjff/8ecd3ad1-ec2b-4507-9be5-74fd9d3b16f8-Front-Road-Block-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=o27qq1wppu5bhcxw2kovs166e&raw=1&cachebust=1760548931519",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1053": {
               "BackIsHidden": true,
@@ -2410,8 +2347,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/n254qvlae537wlqthsjff/8ecd3ad1-ec2b-4507-9be5-74fd9d3b16f8-Front-Road-Block-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=o27qq1wppu5bhcxw2kovs166e&raw=1&cachebust=1760548931519",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1054": {
               "BackIsHidden": true,
@@ -2419,8 +2355,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/n254qvlae537wlqthsjff/8ecd3ad1-ec2b-4507-9be5-74fd9d3b16f8-Front-Road-Block-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=o27qq1wppu5bhcxw2kovs166e&raw=1&cachebust=1760548931519",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "DeckIDs": [
@@ -2479,8 +2414,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/ph48qempyfu9p1xun4f9i/a86e1253-0770-4a5d-8dde-2bfa63159a0e-Front-Yarra-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=5h3g5rxdeoeuxsip7efqbucd5&raw=1&cachebust=1761492278636",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "Description": "Unbiasedly Best Succubus",
@@ -2611,8 +2545,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/hyqef2pq0qp6q42ure3ho/47e2b402-6923-41b7-ad6c-31c1b06d6900-Front-Aka-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=922b218uhb46d152xuccrb63h&raw=1&cachebust=1761492272244",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "Description": "Ardan Bounty Hunter",
@@ -2807,8 +2740,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/opnw7z8zcfbjic3okvwsm/c9a5501e-09e6-4c8f-960a-023c49bf01ed-Front-Inconspicuos-Wagon-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=krr6km34f0o69n7v23tulzjc1&raw=1&cachebust=1760456347442",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"TtsZoopGuid\":\"c9a5501e-09e6-4c8f-960a-023c49bf01ed\",\"id\":\"c9a5501e-09e6-4c8f-960a-023c49bf01ed\",\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Vehicle.\"}",
@@ -2938,8 +2870,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/iqv0al1s0qw9ramb73f0u/7012f0ca-45b1-4833-a2ac-7927c7e5c0a3-Front-Qum-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=5akml48f6h3coxk89lbbd2onf&raw=1&cachebust=1761492276455",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "Description": "Adorable Succubus",
@@ -2996,8 +2927,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/luk4w1pinj8qh97vizauj/06496c7f-754f-4e36-9ebe-54e6df07bb14-Front-Fanatic-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=ydflzsl12ifd1e9gkx50z0bk3&raw=1&cachebust=1760548923539",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"06496c7f-754f-4e36-9ebe-54e6df07bb14\",\"id\":\"06496c7f-754f-4e36-9ebe-54e6df07bb14\",\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Humanoid. Cultist.\"}",
@@ -3023,8 +2953,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/iye6qwes8nzrrkh25gq1m/028961fd-66fd-4ea6-84ab-607b56711f44-Front-Shady-Mercenary-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=5e5dnx7pu32ercvzi930r0i5t&raw=1&cachebust=1760456315376",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"028961fd-66fd-4ea6-84ab-607b56711f44\",\"id\":\"028961fd-66fd-4ea6-84ab-607b56711f44\",\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Humanoid. Criminal. Mercenary.\"}",
@@ -3050,8 +2979,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/ew90188amh2si9mdu71na/c894b198-b8d4-440f-aebc-d9cae7d43996-Front-Grime-and-Filth-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=pc4zhvsk1bjm1f4fko70x7vzg&raw=1&cachebust=1760548925530",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"c894b198-b8d4-440f-aebc-d9cae7d43996\",\"id\":\"c894b198-b8d4-440f-aebc-d9cae7d43996\",\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Hazard.\"}",
@@ -3077,8 +3005,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/qdy4j0yz86tdkdbfj0yom/5e1cb5e1-085c-420f-a382-1e65a72c964e-Front-Creeping-Suspicions-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=4s4bs1ejaa95cqhb1ftaqw4nl&raw=1&cachebust=1760622438286",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"5e1cb5e1-085c-420f-a382-1e65a72c964e\",\"id\":\"5e1cb5e1-085c-420f-a382-1e65a72c964e\",\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Obstacle.\"}",
@@ -3104,8 +3031,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/luk4w1pinj8qh97vizauj/06496c7f-754f-4e36-9ebe-54e6df07bb14-Front-Fanatic-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=ydflzsl12ifd1e9gkx50z0bk3&raw=1&cachebust=1760548923539",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"06496c7f-754f-4e36-9ebe-54e6df07bb14\",\"id\":\"06496c7f-754f-4e36-9ebe-54e6df07bb14\",\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Humanoid. Cultist.\"}",
@@ -3131,8 +3057,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/luk4w1pinj8qh97vizauj/06496c7f-754f-4e36-9ebe-54e6df07bb14-Front-Fanatic-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=ydflzsl12ifd1e9gkx50z0bk3&raw=1&cachebust=1760548923539",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"06496c7f-754f-4e36-9ebe-54e6df07bb14\",\"id\":\"06496c7f-754f-4e36-9ebe-54e6df07bb14\",\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Humanoid. Cultist.\"}",
@@ -3158,8 +3083,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/xvlbjp1a2s9wo72hhlopj/ddb311b1-c254-4c3b-942c-ec77be2f7952-Front-Stalking-Shadow-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=gu09mpmj0g2mh7o0zgo0bg139&raw=1&cachebust=1760456316866",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"ddb311b1-c254-4c3b-942c-ec77be2f7952\",\"id\":\"ddb311b1-c254-4c3b-942c-ec77be2f7952\",\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Curse.\"}",
@@ -3185,8 +3109,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/iye6qwes8nzrrkh25gq1m/028961fd-66fd-4ea6-84ab-607b56711f44-Front-Shady-Mercenary-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=5e5dnx7pu32ercvzi930r0i5t&raw=1&cachebust=1760456315376",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"028961fd-66fd-4ea6-84ab-607b56711f44\",\"id\":\"028961fd-66fd-4ea6-84ab-607b56711f44\",\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Humanoid. Criminal. Mercenary.\"}",
@@ -3212,8 +3135,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/6rjkcy61a293yq3m7ftd5/5134190d-1418-47ee-949c-805bcd87092a-Front-False-Lead-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=l4no2oklpgs08p2jworri1c37&raw=1&cachebust=1761492280149",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"5134190d-1418-47ee-949c-805bcd87092a\",\"id\":\"5134190d-1418-47ee-949c-805bcd87092a\",\"type\":\"Treachery\",\"class\":\"Mythos\"}",
@@ -3239,8 +3161,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/xvlbjp1a2s9wo72hhlopj/ddb311b1-c254-4c3b-942c-ec77be2f7952-Front-Stalking-Shadow-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=gu09mpmj0g2mh7o0zgo0bg139&raw=1&cachebust=1760456316866",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"ddb311b1-c254-4c3b-942c-ec77be2f7952\",\"id\":\"ddb311b1-c254-4c3b-942c-ec77be2f7952\",\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Curse.\"}",
@@ -3266,8 +3187,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/zfj0ez8r348ijzhba3ynf/30e631f7-4a72-428b-bbab-e92aeefbe6fa-Front-Resurgent-Evils-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=4qne1m2tgobb29dfpv7p8icwv&raw=1&cachebust=1760456312258",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"30e631f7-4a72-428b-bbab-e92aeefbe6fa\",\"id\":\"30e631f7-4a72-428b-bbab-e92aeefbe6fa\",\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Omen.\"}",
@@ -3293,8 +3213,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/ew90188amh2si9mdu71na/c894b198-b8d4-440f-aebc-d9cae7d43996-Front-Grime-and-Filth-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=pc4zhvsk1bjm1f4fko70x7vzg&raw=1&cachebust=1760548925530",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"c894b198-b8d4-440f-aebc-d9cae7d43996\",\"id\":\"c894b198-b8d4-440f-aebc-d9cae7d43996\",\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Hazard.\"}",
@@ -3320,8 +3239,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/ew90188amh2si9mdu71na/c894b198-b8d4-440f-aebc-d9cae7d43996-Front-Grime-and-Filth-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=pc4zhvsk1bjm1f4fko70x7vzg&raw=1&cachebust=1760548925530",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"c894b198-b8d4-440f-aebc-d9cae7d43996\",\"id\":\"c894b198-b8d4-440f-aebc-d9cae7d43996\",\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Hazard.\"}",
@@ -3347,8 +3265,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/xvlbjp1a2s9wo72hhlopj/ddb311b1-c254-4c3b-942c-ec77be2f7952-Front-Stalking-Shadow-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=gu09mpmj0g2mh7o0zgo0bg139&raw=1&cachebust=1760456316866",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"ddb311b1-c254-4c3b-942c-ec77be2f7952\",\"id\":\"ddb311b1-c254-4c3b-942c-ec77be2f7952\",\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Curse.\"}",
@@ -3374,8 +3291,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/iye6qwes8nzrrkh25gq1m/028961fd-66fd-4ea6-84ab-607b56711f44-Front-Shady-Mercenary-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=5e5dnx7pu32ercvzi930r0i5t&raw=1&cachebust=1760456315376",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"028961fd-66fd-4ea6-84ab-607b56711f44\",\"id\":\"028961fd-66fd-4ea6-84ab-607b56711f44\",\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Humanoid. Criminal. Mercenary.\"}",
@@ -3401,8 +3317,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/6rjkcy61a293yq3m7ftd5/5134190d-1418-47ee-949c-805bcd87092a-Front-False-Lead-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=l4no2oklpgs08p2jworri1c37&raw=1&cachebust=1761492280149",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"5134190d-1418-47ee-949c-805bcd87092a\",\"id\":\"5134190d-1418-47ee-949c-805bcd87092a\",\"type\":\"Treachery\",\"class\":\"Mythos\"}",
@@ -3428,8 +3343,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/hnkqkhofkkxh5i8b3a8b5/74420c24-1eec-47a2-abe7-c53ae2370157-Front-Grasping-Hands-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=b6g8on1sihigvs8vywx5zbpjh&raw=1&cachebust=1760622443996",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"74420c24-1eec-47a2-abe7-c53ae2370157\",\"id\":\"74420c24-1eec-47a2-abe7-c53ae2370157\",\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Hazard.\"}",
@@ -3455,8 +3369,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/zfj0ez8r348ijzhba3ynf/30e631f7-4a72-428b-bbab-e92aeefbe6fa-Front-Resurgent-Evils-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=4qne1m2tgobb29dfpv7p8icwv&raw=1&cachebust=1760456312258",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"30e631f7-4a72-428b-bbab-e92aeefbe6fa\",\"id\":\"30e631f7-4a72-428b-bbab-e92aeefbe6fa\",\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Omen.\"}",
@@ -3482,8 +3395,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/qdy4j0yz86tdkdbfj0yom/5e1cb5e1-085c-420f-a382-1e65a72c964e-Front-Creeping-Suspicions-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=4s4bs1ejaa95cqhb1ftaqw4nl&raw=1&cachebust=1760622438286",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"5e1cb5e1-085c-420f-a382-1e65a72c964e\",\"id\":\"5e1cb5e1-085c-420f-a382-1e65a72c964e\",\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Obstacle.\"}",
@@ -3509,8 +3421,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/hnkqkhofkkxh5i8b3a8b5/74420c24-1eec-47a2-abe7-c53ae2370157-Front-Grasping-Hands-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=b6g8on1sihigvs8vywx5zbpjh&raw=1&cachebust=1760622443996",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"74420c24-1eec-47a2-abe7-c53ae2370157\",\"id\":\"74420c24-1eec-47a2-abe7-c53ae2370157\",\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Hazard.\"}",
@@ -3536,8 +3447,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/ovpzujzz90e20ae8iamcr/913192c9-cbb3-4bb9-a407-134605b5bd54-Front-Agent-of-the-King-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=ml1p7x8k4g7iv2qoauja5h9fi&raw=1&cachebust=1760622432841",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"913192c9-cbb3-4bb9-a407-134605b5bd54\",\"id\":\"913192c9-cbb3-4bb9-a407-134605b5bd54\",\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Humanoid. Cultist.\",\"victory\":1}",
@@ -3563,8 +3473,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/zfj0ez8r348ijzhba3ynf/30e631f7-4a72-428b-bbab-e92aeefbe6fa-Front-Resurgent-Evils-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=4qne1m2tgobb29dfpv7p8icwv&raw=1&cachebust=1760456312258",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"30e631f7-4a72-428b-bbab-e92aeefbe6fa\",\"id\":\"30e631f7-4a72-428b-bbab-e92aeefbe6fa\",\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Omen.\"}",
@@ -3590,8 +3499,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/hnkqkhofkkxh5i8b3a8b5/74420c24-1eec-47a2-abe7-c53ae2370157-Front-Grasping-Hands-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=b6g8on1sihigvs8vywx5zbpjh&raw=1&cachebust=1760622443996",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"74420c24-1eec-47a2-abe7-c53ae2370157\",\"id\":\"74420c24-1eec-47a2-abe7-c53ae2370157\",\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Hazard.\"}",
@@ -3617,8 +3525,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/qdy4j0yz86tdkdbfj0yom/5e1cb5e1-085c-420f-a382-1e65a72c964e-Front-Creeping-Suspicions-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=4s4bs1ejaa95cqhb1ftaqw4nl&raw=1&cachebust=1760622438286",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"5e1cb5e1-085c-420f-a382-1e65a72c964e\",\"id\":\"5e1cb5e1-085c-420f-a382-1e65a72c964e\",\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Obstacle.\"}",
@@ -3643,8 +3550,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/ovpzujzz90e20ae8iamcr/913192c9-cbb3-4bb9-a407-134605b5bd54-Front-Agent-of-the-King-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=ml1p7x8k4g7iv2qoauja5h9fi&raw=1&cachebust=1760622432841",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1026": {
           "BackIsHidden": true,
@@ -3652,8 +3558,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/qdy4j0yz86tdkdbfj0yom/5e1cb5e1-085c-420f-a382-1e65a72c964e-Front-Creeping-Suspicions-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=4s4bs1ejaa95cqhb1ftaqw4nl&raw=1&cachebust=1760622438286",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1027": {
           "BackIsHidden": true,
@@ -3661,8 +3566,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/qdy4j0yz86tdkdbfj0yom/5e1cb5e1-085c-420f-a382-1e65a72c964e-Front-Creeping-Suspicions-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=4s4bs1ejaa95cqhb1ftaqw4nl&raw=1&cachebust=1760622438286",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1028": {
           "BackIsHidden": true,
@@ -3670,8 +3574,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/qdy4j0yz86tdkdbfj0yom/5e1cb5e1-085c-420f-a382-1e65a72c964e-Front-Creeping-Suspicions-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=4s4bs1ejaa95cqhb1ftaqw4nl&raw=1&cachebust=1760622438286",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1029": {
           "BackIsHidden": true,
@@ -3679,8 +3582,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/6rjkcy61a293yq3m7ftd5/5134190d-1418-47ee-949c-805bcd87092a-Front-False-Lead-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=l4no2oklpgs08p2jworri1c37&raw=1&cachebust=1761492280149",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1030": {
           "BackIsHidden": true,
@@ -3688,8 +3590,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/6rjkcy61a293yq3m7ftd5/5134190d-1418-47ee-949c-805bcd87092a-Front-False-Lead-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=l4no2oklpgs08p2jworri1c37&raw=1&cachebust=1761492280149",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1031": {
           "BackIsHidden": true,
@@ -3697,8 +3598,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/luk4w1pinj8qh97vizauj/06496c7f-754f-4e36-9ebe-54e6df07bb14-Front-Fanatic-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=ydflzsl12ifd1e9gkx50z0bk3&raw=1&cachebust=1760548923539",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1032": {
           "BackIsHidden": true,
@@ -3706,8 +3606,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/luk4w1pinj8qh97vizauj/06496c7f-754f-4e36-9ebe-54e6df07bb14-Front-Fanatic-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=ydflzsl12ifd1e9gkx50z0bk3&raw=1&cachebust=1760548923539",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1033": {
           "BackIsHidden": true,
@@ -3715,8 +3614,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/luk4w1pinj8qh97vizauj/06496c7f-754f-4e36-9ebe-54e6df07bb14-Front-Fanatic-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=ydflzsl12ifd1e9gkx50z0bk3&raw=1&cachebust=1760548923539",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1034": {
           "BackIsHidden": true,
@@ -3724,8 +3622,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/hnkqkhofkkxh5i8b3a8b5/74420c24-1eec-47a2-abe7-c53ae2370157-Front-Grasping-Hands-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=b6g8on1sihigvs8vywx5zbpjh&raw=1&cachebust=1760622443996",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1035": {
           "BackIsHidden": true,
@@ -3733,8 +3630,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/hnkqkhofkkxh5i8b3a8b5/74420c24-1eec-47a2-abe7-c53ae2370157-Front-Grasping-Hands-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=b6g8on1sihigvs8vywx5zbpjh&raw=1&cachebust=1760622443996",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1036": {
           "BackIsHidden": true,
@@ -3742,8 +3638,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/hnkqkhofkkxh5i8b3a8b5/74420c24-1eec-47a2-abe7-c53ae2370157-Front-Grasping-Hands-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=b6g8on1sihigvs8vywx5zbpjh&raw=1&cachebust=1760622443996",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1037": {
           "BackIsHidden": true,
@@ -3751,8 +3646,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/ew90188amh2si9mdu71na/c894b198-b8d4-440f-aebc-d9cae7d43996-Front-Grime-and-Filth-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=pc4zhvsk1bjm1f4fko70x7vzg&raw=1&cachebust=1760548925530",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1038": {
           "BackIsHidden": true,
@@ -3760,8 +3654,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/ew90188amh2si9mdu71na/c894b198-b8d4-440f-aebc-d9cae7d43996-Front-Grime-and-Filth-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=pc4zhvsk1bjm1f4fko70x7vzg&raw=1&cachebust=1760548925530",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1039": {
           "BackIsHidden": true,
@@ -3769,8 +3662,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/ew90188amh2si9mdu71na/c894b198-b8d4-440f-aebc-d9cae7d43996-Front-Grime-and-Filth-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=pc4zhvsk1bjm1f4fko70x7vzg&raw=1&cachebust=1760548925530",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1049": {
           "BackIsHidden": true,
@@ -3778,8 +3670,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/zfj0ez8r348ijzhba3ynf/30e631f7-4a72-428b-bbab-e92aeefbe6fa-Front-Resurgent-Evils-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=4qne1m2tgobb29dfpv7p8icwv&raw=1&cachebust=1760456312258",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1050": {
           "BackIsHidden": true,
@@ -3787,8 +3678,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/zfj0ez8r348ijzhba3ynf/30e631f7-4a72-428b-bbab-e92aeefbe6fa-Front-Resurgent-Evils-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=4qne1m2tgobb29dfpv7p8icwv&raw=1&cachebust=1760456312258",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1051": {
           "BackIsHidden": true,
@@ -3796,8 +3686,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/zfj0ez8r348ijzhba3ynf/30e631f7-4a72-428b-bbab-e92aeefbe6fa-Front-Resurgent-Evils-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=4qne1m2tgobb29dfpv7p8icwv&raw=1&cachebust=1760456312258",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1055": {
           "BackIsHidden": true,
@@ -3805,8 +3694,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/iye6qwes8nzrrkh25gq1m/028961fd-66fd-4ea6-84ab-607b56711f44-Front-Shady-Mercenary-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=5e5dnx7pu32ercvzi930r0i5t&raw=1&cachebust=1760456315376",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1056": {
           "BackIsHidden": true,
@@ -3814,8 +3702,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/iye6qwes8nzrrkh25gq1m/028961fd-66fd-4ea6-84ab-607b56711f44-Front-Shady-Mercenary-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=5e5dnx7pu32ercvzi930r0i5t&raw=1&cachebust=1760456315376",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1057": {
           "BackIsHidden": true,
@@ -3823,8 +3710,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/iye6qwes8nzrrkh25gq1m/028961fd-66fd-4ea6-84ab-607b56711f44-Front-Shady-Mercenary-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=5e5dnx7pu32ercvzi930r0i5t&raw=1&cachebust=1760456315376",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1058": {
           "BackIsHidden": true,
@@ -3832,8 +3718,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/xvlbjp1a2s9wo72hhlopj/ddb311b1-c254-4c3b-942c-ec77be2f7952-Front-Stalking-Shadow-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=gu09mpmj0g2mh7o0zgo0bg139&raw=1&cachebust=1760456316866",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1059": {
           "BackIsHidden": true,
@@ -3841,8 +3726,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/xvlbjp1a2s9wo72hhlopj/ddb311b1-c254-4c3b-942c-ec77be2f7952-Front-Stalking-Shadow-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=gu09mpmj0g2mh7o0zgo0bg139&raw=1&cachebust=1760456316866",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1060": {
           "BackIsHidden": true,
@@ -3850,8 +3734,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/xvlbjp1a2s9wo72hhlopj/ddb311b1-c254-4c3b-942c-ec77be2f7952-Front-Stalking-Shadow-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=gu09mpmj0g2mh7o0zgo0bg139&raw=1&cachebust=1760456316866",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "DeckIDs": [
@@ -3900,8 +3783,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/i8nlpygpy2miv5ccd9z6o/67c867de-e118-4e4f-8477-4ca0354290bc-Front-Megail-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=2vwg5ac8kplzn1lzbz5fuc0a6&raw=1&cachebust=1761492274293",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "Description": "Yhilini Merchant",
@@ -3929,8 +3811,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/yibzf1361fy0h4jice1xf/c5b78b7a-4c54-45a4-8226-9f5290a75aaa-Front-Robin-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=aqymbary69xg4jdedgcvdhusz&raw=1&cachebust=1761492277671",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "Description": "Best Daughter",

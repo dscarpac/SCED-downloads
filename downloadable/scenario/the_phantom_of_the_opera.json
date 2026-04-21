@@ -2618,12 +2618,7 @@
   "Name": "Custom_Model_Bag",
   "Nickname": "The Phantom of the Opera",
   "Transform": {
-    "posX": 29.37319,
-    "posY": 1.48149908,
-    "posZ": 0.323083431,
-    "rotX": -1.70647709e-08,
-    "rotY": 270.0293,
-    "rotZ": 9.206409e-07,
+    "rotY": 270,
     "scaleX": 2.21,
     "scaleY": 0.46,
     "scaleZ": 2.42

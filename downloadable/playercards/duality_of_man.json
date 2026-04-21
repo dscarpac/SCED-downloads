@@ -82,7 +82,6 @@
         "PlayerCard"
       ],
       "LayoutGroupSortIndex": 1,
-      "HideWhenFaceDown": true,
       "CardID": 102000,
       "CustomDeck": {
         "1020": {
@@ -91,7 +90,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -112,7 +110,6 @@
         "PlayerCard"
       ],
       "LayoutGroupSortIndex": 2,
-      "HideWhenFaceDown": true,
       "CardID": 101800,
       "CustomDeck": {
         "1018": {
@@ -121,7 +118,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -141,7 +137,6 @@
         "PlayerCard"
       ],
       "LayoutGroupSortIndex": 5,
-      "HideWhenFaceDown": true,
       "CardID": 101700,
       "CustomDeck": {
         "1017": {
@@ -150,7 +145,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -201,7 +195,6 @@
         "PlayerCard"
       ],
       "LayoutGroupSortIndex": 3,
-      "HideWhenFaceDown": true,
       "CardID": 101900,
       "CustomDeck": {
         "1019": {
@@ -210,7 +203,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -230,7 +222,6 @@
         "PlayerCard"
       ],
       "LayoutGroupSortIndex": 4,
-      "HideWhenFaceDown": true,
       "CardID": 101600,
       "CustomDeck": {
         "1016": {
@@ -239,7 +230,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -347,7 +337,6 @@
       "Tags": [
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 101300,
       "CustomDeck": {
         "1013": {
@@ -356,7 +345,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -375,7 +363,6 @@
       "Tags": [
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 102400,
       "CustomDeck": {
         "1024": {
@@ -384,7 +371,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -403,7 +389,6 @@
       "Tags": [
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 102500,
       "CustomDeck": {
         "1025": {
@@ -412,7 +397,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -431,7 +415,6 @@
       "Tags": [
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 102300,
       "CustomDeck": {
         "1023": {
@@ -440,7 +423,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -488,7 +470,6 @@
       "Tags": [
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 105900,
       "CustomDeck": {
         "1059": {
@@ -497,7 +478,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -516,7 +496,6 @@
       "Tags": [
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 106000,
       "CustomDeck": {
         "1060": {
@@ -525,7 +504,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -575,7 +553,6 @@
         "Asset",
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 101000,
       "CustomDeck": {
         "1010": {
@@ -584,7 +561,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -632,7 +608,6 @@
       "Tags": [
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 100900,
       "CustomDeck": {
         "1009": {
@@ -641,7 +616,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -660,7 +634,6 @@
       "Tags": [
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 101100,
       "CustomDeck": {
         "1011": {
@@ -669,7 +642,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -689,7 +661,6 @@
         "Asset",
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 102700,
       "CustomDeck": {
         "1027": {
@@ -698,7 +669,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -718,7 +688,6 @@
         "Asset",
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 102600,
       "CustomDeck": {
         "1026": {
@@ -727,7 +696,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -747,7 +715,6 @@
         "Asset",
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 102800,
       "CustomDeck": {
         "1028": {
@@ -756,7 +723,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -776,7 +742,6 @@
         "Asset",
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 106100,
       "CustomDeck": {
         "1061": {
@@ -785,7 +750,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -804,7 +768,6 @@
       "Tags": [
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 106300,
       "CustomDeck": {
         "1063": {
@@ -813,7 +776,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -832,7 +794,6 @@
       "Tags": [
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 106200,
       "CustomDeck": {
         "1062": {
@@ -841,7 +802,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -860,7 +820,6 @@
       "Tags": [
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 101200,
       "CustomDeck": {
         "1012": {
@@ -869,7 +828,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -889,7 +847,6 @@
         "Asset",
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 105200,
       "CustomDeck": {
         "1052": {
@@ -898,7 +855,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -917,7 +873,6 @@
       "Tags": [
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 105500,
       "CustomDeck": {
         "1055": {
@@ -926,7 +881,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -978,7 +932,6 @@
       "Tags": [
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 105600,
       "CustomDeck": {
         "1056": {
@@ -987,7 +940,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -1007,7 +959,6 @@
         "Asset",
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 100500,
       "CustomDeck": {
         "1005": {
@@ -1016,7 +967,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -1064,7 +1014,6 @@
       "Tags": [
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 105300,
       "CustomDeck": {
         "1053": {
@@ -1073,7 +1022,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -1092,7 +1040,6 @@
       "Tags": [
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 105400,
       "CustomDeck": {
         "1054": {
@@ -1101,7 +1048,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -1273,7 +1219,6 @@
         "Asset",
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 100200,
       "CustomDeck": {
         "1002": {
@@ -1282,7 +1227,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -1301,7 +1245,6 @@
       "Tags": [
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 100400,
       "CustomDeck": {
         "1004": {
@@ -1310,7 +1253,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -1329,7 +1271,6 @@
       "Tags": [
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 103800,
       "CustomDeck": {
         "1038": {
@@ -1338,7 +1279,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -1358,7 +1298,6 @@
         "Asset",
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 103900,
       "CustomDeck": {
         "1039": {
@@ -1367,7 +1306,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -1386,7 +1324,6 @@
       "Tags": [
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 104500,
       "CustomDeck": {
         "1045": {
@@ -1395,7 +1332,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -1414,7 +1350,6 @@
       "Tags": [
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 104600,
       "CustomDeck": {
         "1046": {
@@ -1423,7 +1358,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -1474,7 +1408,6 @@
         "Asset",
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 103100,
       "CustomDeck": {
         "1031": {
@@ -1483,7 +1416,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -1531,7 +1463,6 @@
       "Tags": [
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 100300,
       "CustomDeck": {
         "1003": {
@@ -1540,7 +1471,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -1560,7 +1490,6 @@
         "Asset",
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 100600,
       "CustomDeck": {
         "1006": {
@@ -1569,7 +1498,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -1617,7 +1545,6 @@
       "Tags": [
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 103200,
       "CustomDeck": {
         "1032": {
@@ -1626,7 +1553,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -1645,7 +1571,6 @@
       "Tags": [
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 106900,
       "CustomDeck": {
         "1069": {
@@ -1654,7 +1579,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -1707,7 +1631,6 @@
       "Tags": [
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 106600,
       "CustomDeck": {
         "1066": {
@@ -1716,7 +1639,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -1736,7 +1658,6 @@
         "Asset",
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 104100,
       "CustomDeck": {
         "1041": {
@@ -1745,7 +1666,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -1766,7 +1686,6 @@
         "Asset",
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 104200,
       "CustomDeck": {
         "1042": {
@@ -1775,7 +1694,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -1795,7 +1713,6 @@
         "Asset",
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 104000,
       "CustomDeck": {
         "1040": {
@@ -1804,7 +1721,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -1823,7 +1739,6 @@
       "Tags": [
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 104900,
       "CustomDeck": {
         "1049": {
@@ -1832,7 +1747,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -1851,7 +1765,6 @@
       "Tags": [
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 104800,
       "CustomDeck": {
         "1048": {
@@ -1860,7 +1773,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -1879,7 +1791,6 @@
       "Tags": [
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 104700,
       "CustomDeck": {
         "1047": {
@@ -1888,7 +1799,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -1907,7 +1817,6 @@
       "Tags": [
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 103400,
       "CustomDeck": {
         "1034": {
@@ -1916,7 +1825,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -1935,7 +1843,6 @@
       "Tags": [
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 103500,
       "CustomDeck": {
         "1035": {
@@ -1944,7 +1851,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -1963,7 +1869,6 @@
       "Tags": [
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 103300,
       "CustomDeck": {
         "1033": {
@@ -1972,7 +1877,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -2021,7 +1925,6 @@
         "Asset",
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 107000,
       "CustomDeck": {
         "1070": {
@@ -2030,7 +1933,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -2049,7 +1951,6 @@
       "Tags": [
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 106700,
       "CustomDeck": {
         "1067": {
@@ -2058,7 +1959,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }
@@ -2078,7 +1978,6 @@
         "Asset",
         "PlayerCard"
       ],
-      "HideWhenFaceDown": true,
       "CardID": 106800,
       "CustomDeck": {
         "1068": {
@@ -2087,7 +1986,6 @@
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
-          "UniqueBack": true,
           "Type": 0
         }
       }

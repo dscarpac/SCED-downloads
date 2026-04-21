@@ -3664,12 +3664,7 @@
   "Name": "Custom_Model_Bag",
   "Nickname": "Borderless Vol. 3",
   "Transform": {
-    "posX": 31.6513729,
-    "posY": 1.481499,
-    "posZ": 26.8993416,
-    "rotX": 1.41097694e-08,
-    "rotY": 270.0639,
-    "rotZ": -5.022189e-08,
+    "rotY": 270,
     "scaleX": 2.17743635,
     "scaleY": 0.453221977,
     "scaleZ": 2.38434219

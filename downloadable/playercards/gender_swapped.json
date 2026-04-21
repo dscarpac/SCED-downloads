@@ -1285,8 +1285,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1500215618033531975/716148281BAF39E8297B86614A2694CE21429FD9/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GUID": "77ba63",
@@ -1855,8 +1854,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1500215618033517434/A7ABD7EAE382973E3DABDEB821E26D441D82FA8B/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GUID": "b5091c",

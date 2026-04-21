@@ -1848,8 +1848,7 @@
               "FaceURL": "https://github.com/ArkhamDotCards/thebloodofdrakul/blob/main/img/enUS/no-bleed/250a.png?raw=true",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\n  \"id\": \"MD250\",\n  \"type\": \"Asset\",\n  \"class\": \"Neutral\",\n  \"traits\": \"Item. Charm.\",\n  \"permanent\": true,\n  \"cycle\": \"The Blood of Drakul\"\n}",
@@ -1876,8 +1875,7 @@
               "FaceURL": "https://github.com/ArkhamDotCards/thebloodofdrakul/blob/main/img/enUS/no-bleed/251a.png?raw=true",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\n  \"id\": \"MD251\",\n  \"type\": \"Asset\",\n  \"class\": \"Neutral\",\n  \"traits\": \"Ally. Templar. Blessed.\",\n  \"combatIcons\": 1,\n  \"agilityIcons\": 1,\n  \"wildIcons\": 1,\n  \"cycle\": \"The Blood of Drakul\"\n}",
@@ -4592,8 +4590,7 @@
                       "FaceURL": "https://github.com/ArkhamDotCards/thebloodofdrakul/blob/main/img/enUS/no-bleed/234a.png?raw=true",
                       "NumHeight": 1,
                       "NumWidth": 1,
-                      "Type": 0,
-                      "UniqueBack": true
+                      "Type": 0
                     }
                   },
                   "GMNotes": "{\n  \"id\":\"MD234\",\n  \"type\": \"Asset\",\n  \"class\": \"Neutral\",\n  \"cost\": 3,\n  \"wildIcons\": 1,\n  \"combatIcons\": 1,\n  \"traits\": \"Item. Weapon. Firearm. Blessed.\",\n  \"cycle\": \"The Blood of Drakul\",\n  \"uses\": [\n    {\n      \"count\": 5,\n      \"type\": \"Ammo\",\n      \"token\": \"resource\"\n    }\n  ]\n}",
@@ -4621,8 +4618,7 @@
                       "FaceURL": "https://github.com/ArkhamDotCards/thebloodofdrakul/blob/main/img/enUS/no-bleed/235a.png?raw=true",
                       "NumHeight": 1,
                       "NumWidth": 1,
-                      "Type": 0,
-                      "UniqueBack": true
+                      "Type": 0
                     }
                   },
                   "GMNotes": "{\n  \"id\":\"MD235\",\n  \"type\": \"Asset\",\n  \"class\": \"Neutral\",\n  \"cost\": 2,\n  \"wildIcons\": 2,\n  \"traits\": \"Item. Relic. Mask. Blessed.\",\n  \"cycle\": \"The Blood of Drakul\"\n}",
@@ -4650,8 +4646,7 @@
                       "FaceURL": "https://github.com/ArkhamDotCards/thebloodofdrakul/blob/main/img/enUS/no-bleed/236a.png?raw=true",
                       "NumHeight": 1,
                       "NumWidth": 1,
-                      "Type": 0,
-                      "UniqueBack": true
+                      "Type": 0
                     }
                   },
                   "GMNotes": "{\n  \"id\":\"MD236\",\n  \"type\": \"Asset\",\n  \"class\": \"Neutral\",\n  \"cost\": 2,\n  \"wildIcons\": 2,\n  \"traits\": \"Item. Charm. Blessed.\",\n  \"cycle\": \"The Blood of Drakul\"\n}",
@@ -4679,8 +4674,7 @@
                       "FaceURL": "https://github.com/ArkhamDotCards/thebloodofdrakul/blob/main/img/enUS/no-bleed/237a.png?raw=true",
                       "NumHeight": 1,
                       "NumWidth": 1,
-                      "Type": 0,
-                      "UniqueBack": true
+                      "Type": 0
                     }
                   },
                   "GMNotes": "{\n  \"id\":\"MD237\",\n  \"type\": \"Asset\",\n  \"class\": \"Neutral\",\n  \"cost\": 2,\n  \"wildIcons\": 2,\n  \"traits\": \"Item. Tome.\",\n  \"cycle\": \"The Blood of Drakul\",\n  \"uses\": [\n    {\n      \"count\": 3,\n      \"type\": \"Secret\",\n      \"token\": \"resource\"\n    }\n  ]\n}",
@@ -4707,8 +4701,7 @@
                   "FaceURL": "https://github.com/ArkhamDotCards/thebloodofdrakul/blob/main/img/enUS/no-bleed/237a.png?raw=true",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 },
                 "86579": {
                   "BackIsHidden": true,
@@ -4716,8 +4709,7 @@
                   "FaceURL": "https://github.com/ArkhamDotCards/thebloodofdrakul/blob/main/img/enUS/no-bleed/236a.png?raw=true",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 },
                 "86580": {
                   "BackIsHidden": true,
@@ -4725,8 +4717,7 @@
                   "FaceURL": "https://github.com/ArkhamDotCards/thebloodofdrakul/blob/main/img/enUS/no-bleed/235a.png?raw=true",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 },
                 "86581": {
                   "BackIsHidden": true,
@@ -4734,8 +4725,7 @@
                   "FaceURL": "https://github.com/ArkhamDotCards/thebloodofdrakul/blob/main/img/enUS/no-bleed/234a.png?raw=true",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "DeckIDs": [
@@ -10081,8 +10071,7 @@
                   "FaceURL": "https://github.com/ArkhamDotCards/thebloodofdrakul/blob/main/img/enUS/no-bleed/222a.png?raw=true",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\n  \"id\":\"MD222\",\n  \"type\": \"Event\",\n  \"class\": \"Neutral\",\n  \"cost\": 0,\n  \"wildIcons\": 1,\n  \"intellectIcons\": 1,\n  \"willpowerIcons\": 1,\n  \"traits\": \"Trivium. Spirit.\",\n  \"cycle\": \"The Blood of Drakul\"\n}",
@@ -10108,8 +10097,7 @@
                   "FaceURL": "https://github.com/ArkhamDotCards/thebloodofdrakul/blob/main/img/enUS/no-bleed/223a.png?raw=true",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\n  \"id\":\"MD223\",\n  \"type\": \"Event\",\n  \"class\": \"Neutral\",\n  \"cost\": 0,\n  \"wildIcons\": 1,\n  \"intellectIcons\": 1,\n  \"willpowerIcons\": 1,\n  \"traits\": \"Trivium. Spirit.\",\n  \"cycle\": \"The Blood of Drakul\"\n}",
@@ -10135,8 +10123,7 @@
                   "FaceURL": "https://github.com/ArkhamDotCards/thebloodofdrakul/blob/main/img/enUS/no-bleed/224a.png?raw=true",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\n  \"id\":\"MD224\",\n  \"type\": \"Event\",\n  \"class\": \"Neutral\",\n  \"cost\": 0,\n  \"wildIcons\": 1,\n  \"intellectIcons\": 1,\n  \"willpowerIcons\": 1,\n  \"traits\": \"Trivium. Spirit.\",\n  \"cycle\": \"The Blood of Drakul\"\n}",
@@ -10162,8 +10149,7 @@
                   "FaceURL": "https://github.com/ArkhamDotCards/thebloodofdrakul/blob/main/img/enUS/no-bleed/225a.png?raw=true",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\n  \"id\":\"MD225\",\n  \"type\": \"Event\",\n  \"class\": \"Neutral\",\n  \"cost\": 0,\n  \"wildIcons\": 1,\n  \"intellectIcons\": 1,\n  \"willpowerIcons\": 1,\n  \"traits\": \"Trivium. Spirit.\",\n  \"cycle\": \"The Blood of Drakul\"\n}",
@@ -10189,8 +10175,7 @@
                   "FaceURL": "https://github.com/ArkhamDotCards/thebloodofdrakul/blob/main/img/enUS/no-bleed/226a.png?raw=true",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\n  \"id\":\"MD226\",\n  \"type\": \"Event\",\n  \"class\": \"Neutral\",\n  \"cost\": 1,\n  \"combatIcons\": 1,\n  \"agilityIcons\": 1,\n  \"wildIcons\": 1,\n  \"traits\": \"Trivium. Tactic.\",\n  \"cycle\": \"The Blood of Drakul\"\n}",
@@ -10216,8 +10201,7 @@
                   "FaceURL": "https://github.com/ArkhamDotCards/thebloodofdrakul/blob/main/img/enUS/no-bleed/227a.png?raw=true",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\n  \"id\":\"MD227\",\n  \"type\": \"Event\",\n  \"class\": \"Neutral\",\n  \"cost\": 1,\n  \"combatIcons\": 1,\n  \"agilityIcons\": 1,\n  \"wildIcons\": 1,\n  \"traits\": \"Trivium. Tactic.\",\n  \"cycle\": \"The Blood of Drakul\"\n}",
@@ -10243,8 +10227,7 @@
                   "FaceURL": "https://github.com/ArkhamDotCards/thebloodofdrakul/blob/main/img/enUS/no-bleed/228a.png?raw=true",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\n  \"id\":\"MD228\",\n  \"type\": \"Event\",\n  \"class\": \"Neutral\",\n  \"cost\": 1,\n  \"combatIcons\": 1,\n  \"agilityIcons\": 1,\n  \"wildIcons\": 1,\n  \"traits\": \"Trivium. Tactic.\",\n  \"cycle\": \"The Blood of Drakul\"\n}",
@@ -10270,8 +10253,7 @@
                   "FaceURL": "https://github.com/ArkhamDotCards/thebloodofdrakul/blob/main/img/enUS/no-bleed/229a.png?raw=true",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\n  \"id\":\"MD229\",\n  \"type\": \"Event\",\n  \"class\": \"Neutral\",\n  \"cost\": 1,\n  \"combatIcons\": 1,\n  \"agilityIcons\": 1,\n  \"wildIcons\": 1,\n  \"traits\": \"Trivium. Tactic.\",\n  \"cycle\": \"The Blood of Drakul\"\n}",
@@ -10297,8 +10279,7 @@
                   "FaceURL": "https://github.com/ArkhamDotCards/thebloodofdrakul/blob/main/img/enUS/no-bleed/230a.png?raw=true",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\n  \"id\":\"MD230\",\n  \"type\": \"Event\",\n  \"class\": \"Neutral\",\n  \"cost\": 2,\n  \"intellectIcons\": 1,\n  \"agilityIcons\": 1,\n  \"wildIcons\": 1,\n  \"traits\": \"Trivium. Supply.\",\n  \"cycle\": \"The Blood of Drakul\"\n}",
@@ -10324,8 +10305,7 @@
                   "FaceURL": "https://github.com/ArkhamDotCards/thebloodofdrakul/blob/main/img/enUS/no-bleed/231a.png?raw=true",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\n  \"id\":\"MD231\",\n  \"type\": \"Event\",\n  \"class\": \"Neutral\",\n  \"cost\": 2,\n  \"intellectIcons\": 1,\n  \"agilityIcons\": 1,\n  \"wildIcons\": 1,\n  \"traits\": \"Trivium. Supply.\",\n  \"cycle\": \"The Blood of Drakul\"\n}",
@@ -10351,8 +10331,7 @@
                   "FaceURL": "https://github.com/ArkhamDotCards/thebloodofdrakul/blob/main/img/enUS/no-bleed/232a.png?raw=true",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\n  \"id\":\"MD232\",\n  \"type\": \"Event\",\n  \"class\": \"Neutral\",\n  \"cost\": 2,\n  \"intellectIcons\": 1,\n  \"agilityIcons\": 1,\n  \"wildIcons\": 1,\n  \"traits\": \"Trivium. Supply.\",\n  \"cycle\": \"The Blood of Drakul\"\n}",
@@ -10378,8 +10357,7 @@
                   "FaceURL": "https://github.com/ArkhamDotCards/thebloodofdrakul/blob/main/img/enUS/no-bleed/233a.png?raw=true",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\n  \"id\":\"MD233\",\n  \"type\": \"Event\",\n  \"class\": \"Neutral\",\n  \"cost\": 2,\n  \"intellectIcons\": 1,\n  \"agilityIcons\": 1,\n  \"wildIcons\": 1,\n  \"traits\": \"Trivium. Supply.\",\n  \"cycle\": \"The Blood of Drakul\"\n}",
@@ -10404,8 +10382,7 @@
               "FaceURL": "https://github.com/ArkhamDotCards/thebloodofdrakul/blob/main/img/enUS/no-bleed/222a.png?raw=true",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "86579": {
               "BackIsHidden": true,
@@ -10413,8 +10390,7 @@
               "FaceURL": "https://github.com/ArkhamDotCards/thebloodofdrakul/blob/main/img/enUS/no-bleed/223a.png?raw=true",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "86580": {
               "BackIsHidden": true,
@@ -10422,8 +10398,7 @@
               "FaceURL": "https://github.com/ArkhamDotCards/thebloodofdrakul/blob/main/img/enUS/no-bleed/224a.png?raw=true",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "86581": {
               "BackIsHidden": true,
@@ -10431,8 +10406,7 @@
               "FaceURL": "https://github.com/ArkhamDotCards/thebloodofdrakul/blob/main/img/enUS/no-bleed/225a.png?raw=true",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "86582": {
               "BackIsHidden": true,
@@ -10440,8 +10414,7 @@
               "FaceURL": "https://github.com/ArkhamDotCards/thebloodofdrakul/blob/main/img/enUS/no-bleed/226a.png?raw=true",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "86583": {
               "BackIsHidden": true,
@@ -10449,8 +10422,7 @@
               "FaceURL": "https://github.com/ArkhamDotCards/thebloodofdrakul/blob/main/img/enUS/no-bleed/227a.png?raw=true",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "86585": {
               "BackIsHidden": true,
@@ -10458,8 +10430,7 @@
               "FaceURL": "https://github.com/ArkhamDotCards/thebloodofdrakul/blob/main/img/enUS/no-bleed/228a.png?raw=true",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "86586": {
               "BackIsHidden": true,
@@ -10467,8 +10438,7 @@
               "FaceURL": "https://github.com/ArkhamDotCards/thebloodofdrakul/blob/main/img/enUS/no-bleed/229a.png?raw=true",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "86587": {
               "BackIsHidden": true,
@@ -10476,8 +10446,7 @@
               "FaceURL": "https://github.com/ArkhamDotCards/thebloodofdrakul/blob/main/img/enUS/no-bleed/230a.png?raw=true",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "86588": {
               "BackIsHidden": true,
@@ -10485,8 +10454,7 @@
               "FaceURL": "https://github.com/ArkhamDotCards/thebloodofdrakul/blob/main/img/enUS/no-bleed/231a.png?raw=true",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "86589": {
               "BackIsHidden": true,
@@ -10494,8 +10462,7 @@
               "FaceURL": "https://github.com/ArkhamDotCards/thebloodofdrakul/blob/main/img/enUS/no-bleed/232a.png?raw=true",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "86590": {
               "BackIsHidden": true,
@@ -10503,8 +10470,7 @@
               "FaceURL": "https://github.com/ArkhamDotCards/thebloodofdrakul/blob/main/img/enUS/no-bleed/233a.png?raw=true",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "DeckIDs": [

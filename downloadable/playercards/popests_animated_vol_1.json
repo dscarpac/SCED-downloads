@@ -6198,14 +6198,9 @@
   "Name": "Custom_Model_Bag",
   "Nickname": "Animated Vol. 1",
   "Transform": {
-    "posX": 33.36228,
-    "posY": 1.48149884,
-    "posZ": 25.0729485,
-    "rotX": 2.08737809e-08,
-    "rotY": 270.021057,
-    "rotZ": -6.155914e-08,
-    "scaleX": 2.17743635,
-    "scaleY": 0.453221977,
-    "scaleZ": 2.38434219
+    "rotY": 270,
+    "scaleX": 2.177,
+    "scaleY": 0.453,
+    "scaleZ": 2.384
   }
 }

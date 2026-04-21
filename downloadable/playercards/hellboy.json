@@ -584,8 +584,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/50196299371741646/30D614ECBC72CD5AE44D692FC4E2EB1764E1E830/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"TtsZoopGuid\":\"dba71195-2aed-4ca2-b35f-ce90811e8278\",\"id\":\"dba71195-2aed-4ca2-b35f-ce90811e8278\",\"type\":\"Enemy\",\"traits\":\"Humanoid.  Monster.\",\"weakness\":true}",

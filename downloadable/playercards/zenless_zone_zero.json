@@ -60,8 +60,7 @@
           "FaceURL": "https://i.imgur.com/Y2rqh0m.jpeg",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"7290db3e-be46-4dca-aa00-80144cb2d076\",\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Item. Science. Melee. Weapon.\",\"cost\":2,\"TtsZoopGuid\":\"7290db3e-be46-4dca-aa00-80144cb2d076\"}",
@@ -88,8 +87,7 @@
           "FaceURL": "https://i.imgur.com/yz0Xcrd.jpeg",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"b00d86f6-6d41-4dae-add1-d931eeb3f6c2\",\"type\":\"Treachery\",\"traits\":\"Terror.\",\"weakness\":true,\"TtsZoopGuid\":\"b00d86f6-6d41-4dae-add1-d931eeb3f6c2\"}",
@@ -200,8 +198,7 @@
           "FaceURL": "https://i.imgur.com/UoW98K1.jpeg",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"0ebeead8-8b3a-4b46-8e1d-6aa14f4fec1c\",\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Item. Science. Upgrade.\",\"permanent\":true,\"TtsZoopGuid\":\"0ebeead8-8b3a-4b46-8e1d-6aa14f4fec1c\"}",
@@ -228,8 +225,7 @@
           "FaceURL": "https://i.imgur.com/6uaRC0h.jpeg",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"575c9a3d-bf21-4505-98f4-1e542d88484b\",\"type\":\"Enemy\",\"traits\":\"Humanoid. Criminal. \",\"weakness\":true,\"TtsZoopGuid\":\"575c9a3d-bf21-4505-98f4-1e542d88484b\"}",
@@ -255,8 +251,7 @@
           "FaceURL": "https://i.imgur.com/dlIAoFQ.jpeg",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"eff130c0-67ce-4d96-baba-561e60f3686d\",\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Item. Science. Tool. Weapon. Melee.\",\"cost\":2,\"agilityIcons\":1,\"combatIcons\":1,\"wildIcons\":1,\"TtsZoopGuid\":\"eff130c0-67ce-4d96-baba-561e60f3686d\"}",
@@ -283,8 +278,7 @@
           "FaceURL": "https://i.imgur.com/2zncymg.png",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"9c0b2480-89de-4106-a1d6-96a730f3b530\",\"type\":\"Treachery\",\"traits\":\"Flaw.\",\"weakness\":true,\"TtsZoopGuid\":\"9c0b2480-89de-4106-a1d6-96a730f3b530\"}",
@@ -396,8 +390,7 @@
           "FaceURL": "https://i.imgur.com/TrT3bos.png",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ec1c08a6-36b7-403a-9be0-6f1700660c62\",\"type\":\"Treachery\",\"traits\":\"Science. Scheme.\",\"weakness\":true,\"TtsZoopGuid\":\"ec1c08a6-36b7-403a-9be0-6f1700660c62\"}",
@@ -537,8 +530,7 @@
           "FaceURL": "https://i.imgur.com/hgT9J8M.jpeg",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"e7a12a53-932a-47f1-b164-cc71dfbbf3be\",\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Item. Melee. Weapon.\",\"cost\":2,\"TtsZoopGuid\":\"e7a12a53-932a-47f1-b164-cc71dfbbf3be\"}",
@@ -565,8 +557,7 @@
           "FaceURL": "https://i.imgur.com/x9EVzm3.jpeg",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"525a55f9-2b42-40bd-b3d7-18784168ec3a\",\"type\":\"Enemy\",\"traits\":\"Humanoid. Criminal.\",\"weakness\":true,\"TtsZoopGuid\":\"525a55f9-2b42-40bd-b3d7-18784168ec3a\"}",
@@ -649,8 +640,7 @@
           "FaceURL": "https://i.imgur.com/oBTWX1X.jpeg",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"7c773e58-cd04-46c7-ba06-228c925b41ea\",\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Talent. Trick.\",\"cost\":4,\"intellectIcons\":1,\"willpowerIcons\":1,\"wildIcons\":2,\"TtsZoopGuid\":\"7c773e58-cd04-46c7-ba06-228c925b41ea\"}",
@@ -677,8 +667,7 @@
           "FaceURL": "https://i.imgur.com/pcVcRjg.png",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"29c0deec-c591-47da-b46c-29924e29f56e\",\"type\":\"Treachery\",\"traits\":\"Blunder.\",\"weakness\":true,\"TtsZoopGuid\":\"29c0deec-c591-47da-b46c-29924e29f56e\"}",
@@ -704,8 +693,7 @@
           "FaceURL": "https://i.imgur.com/zyoyo27.jpeg",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "Description": "Ghostly Puppet",
@@ -733,8 +721,7 @@
           "FaceURL": "https://i.imgur.com/IrSJnN6.jpeg",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"6669b283-d428-4979-bd50-7e55ef112d97\",\"type\":\"Enemy\",\"traits\":\"Monster. Geist.\",\"weakness\":true,\"TtsZoopGuid\":\"6669b283-d428-4979-bd50-7e55ef112d97\"}",
@@ -874,8 +861,7 @@
           "FaceURL": "https://i.imgur.com/eWwWzA2.jpeg",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"f8b03bbb-d3a1-4e97-9844-d8521a751b97\",\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Item. Tool. Weapon. Melee.\",\"cost\":4,\"combatIcons\":1,\"wildIcons\":1,\"uses\":[{\"count\":3,\"token\":\"resource\",\"type\":\"Supply\"}],\"TtsZoopGuid\":\"f8b03bbb-d3a1-4e97-9844-d8521a751b97\"}",
@@ -902,8 +888,7 @@
           "FaceURL": "https://i.imgur.com/1h2NHXq.jpeg",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"6841d053-d4d9-4644-88b9-f168823e0127\",\"type\":\"Treachery\",\"traits\":\"Power. Encounter.\",\"weakness\":true,\"TtsZoopGuid\":\"6841d053-d4d9-4644-88b9-f168823e0127\"}",
@@ -929,8 +914,7 @@
           "FaceURL": "https://i.imgur.com/lTyi4Ze.jpeg",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"7789b57f-611e-4cf2-99f4-8c3098a1f0e3\",\"type\":\"Treachery\",\"traits\":\"Blunder.\",\"weakness\":true,\"TtsZoopGuid\":\"7789b57f-611e-4cf2-99f4-8c3098a1f0e3\"}",
@@ -956,8 +940,7 @@
           "FaceURL": "https://i.imgur.com/zZ6oBKQ.jpeg",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"6981ba42-b26a-4927-8c28-fe6510600923\",\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Item. Weapon. Firearm.\",\"cost\":2,\"agilityIcons\":1,\"combatIcons\":1,\"wildIcons\":1,\"uses\":[{\"count\":6,\"token\":\"resource\",\"type\":\"Ammo\"}],\"TtsZoopGuid\":\"6981ba42-b26a-4927-8c28-fe6510600923\"}",
@@ -1041,8 +1024,7 @@
           "FaceURL": "https://i.imgur.com/76xDCPQ.jpeg",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"aac6f45b-c1fb-4605-9b8d-207cf3b46af4\",\"type\":\"Treachery\",\"traits\":\"Madness.\",\"weakness\":true,\"TtsZoopGuid\":\"aac6f45b-c1fb-4605-9b8d-207cf3b46af4\"}",
@@ -1068,8 +1050,7 @@
           "FaceURL": "https://i.imgur.com/uzpHuBw.jpeg",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "Description": "Partner in Crime",

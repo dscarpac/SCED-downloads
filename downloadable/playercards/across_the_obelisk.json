@@ -32,8 +32,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427770459721816/754196B99F0A569B8335E41E66E4FC1467AEDC69/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"id\":\"ATO29\",\"type\":\"Skill\",\"class\":\"Rogue\",\"traits\":\"Practiced. Expert.\",\"level\":0,\"wildIcons\":3,\"TtsZoopGuid\":\"ATO29\"}",
@@ -59,8 +58,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427770459721816/754196B99F0A569B8335E41E66E4FC1467AEDC69/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"id\":\"ATO29\",\"type\":\"Skill\",\"class\":\"Rogue\",\"traits\":\"Practiced. Expert.\",\"level\":0,\"wildIcons\":3,\"TtsZoopGuid\":\"ATO29\"}",
@@ -86,8 +84,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427770459568138/9A36C60A98ED148A406EBAA8A0A26E29A84136FA/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"id\":\"ATO91\",\"type\":\"Asset\",\"class\":\"Rogue\",\"traits\":\"Talent. Trick.\",\"permanent\":true,\"uses\":[{\"count\":0,\"token\":\"resource\",\"type\":\"Secret\"}],\"TtsZoopGuid\":\"ATO91\"}",
@@ -113,8 +110,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427770459567033/BD2C5F75CA3953153F465B0CEE5096DDB4B649B0/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "66125": {
           "BackIsHidden": true,
@@ -122,8 +118,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427770459568138/9A36C60A98ED148A406EBAA8A0A26E29A84136FA/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "DeckIDs": [
@@ -296,8 +291,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176580604/0D694965A634812052A5639DF3ADAED623F3BF58/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"id\":\"ATO61\",\"type\":\"Skill\",\"class\":\"Survivor\",\"traits\":\"Supply.\",\"wildIcons\":3,\"TtsZoopGuid\":\"ATO61\"}",
@@ -323,8 +317,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176580627/08282C58EC0815C7154863C505D2A2C4AA686F40/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"id\":\"ATO60\",\"type\":\"Skill\",\"class\":\"Survivor\",\"traits\":\"Supply.\",\"wildIcons\":2,\"TtsZoopGuid\":\"ATO60\"}",
@@ -350,8 +343,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176580660/C68D73A7408F644A3502AA3E2A3F80CC83C9D41C/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"id\":\"ATO59\",\"type\":\"Skill\",\"class\":\"Survivor\",\"traits\":\"Supply.\",\"wildIcons\":1,\"TtsZoopGuid\":\"ATO59\"}",
@@ -376,8 +368,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176580627/08282C58EC0815C7154863C505D2A2C4AA686F40/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1063": {
           "BackIsHidden": true,
@@ -385,8 +376,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176580604/0D694965A634812052A5639DF3ADAED623F3BF58/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1064": {
           "BackIsHidden": true,
@@ -394,8 +384,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176580660/C68D73A7408F644A3502AA3E2A3F80CC83C9D41C/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "DeckIDs": [
@@ -566,8 +555,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226180935825/ECBC21C07E8C10737E2449158AC5C8DA3D36416F/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO08\",\"type\":\"Asset\",\"class\":\"Guardian\",\"traits\":\"Ritual.\",\"cost\":2,\"intellectIcons\":1,\"willpowerIcons\":1,\"wildIcons\":1,\"TtsZoopGuid\":\"ATO08\"}",
@@ -594,8 +582,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176581316/3C5CCF1A3DC3658F89D13B3C98A6921B18BFD2D4/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO09\",\"type\":\"Asset\",\"traits\":\"Item. Task.\",\"cost\":2,\"weakness\":true,\"TtsZoopGuid\":\"ATO09\"}",
@@ -736,8 +723,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176582065/E834626BF43A0FDEE3DED56644D6F269B727DBFF/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO12\",\"type\":\"Treachery\",\"traits\":\"Task.\",\"weakness\":true,\"permanent\":true,\"TtsZoopGuid\":\"ATO12\"}",
@@ -763,8 +749,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176582111/828202C0AD609321F749EB79490BABF533830AD4/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO11\",\"type\":\"Event\",\"class\":\"Guardian\",\"traits\":\"Ritual. Blessed. Upgrade.\",\"cost\":2,\"combatIcons\":1,\"willpowerIcons\":2,\"TtsZoopGuid\":\"ATO11\"}",
@@ -846,8 +831,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176582333/31CA4AD339B2FD7A0AA1ACFAE7E72B1BED7C8F2D/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO03\",\"type\":\"Treachery\",\"traits\":\"Injury.\",\"weakness\":true,\"TtsZoopGuid\":\"ATO03\"}",
@@ -873,8 +857,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176582405/7C3BD85A1A2B9329B3ABAA2A55D4A96114DB667E/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO02\",\"type\":\"Asset\",\"class\":\"Guardian\",\"traits\":\"Item. Armor.\",\"cost\":2,\"agilityIcons\":1,\"combatIcons\":1,\"TtsZoopGuid\":\"ATO02\"}",
@@ -1015,8 +998,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176582869/3D9B6BBACA68D9A0B782C19554F58CE64BCC8775/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO06\",\"type\":\"Treachery\",\"traits\":\"Injury.\",\"weakness\":true,\"TtsZoopGuid\":\"ATO06\"}",
@@ -1042,8 +1024,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176582926/616E8D1EF8884C24967721207E58802D2F8223AF/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO05\",\"type\":\"Asset\",\"class\":\"Guardian\",\"traits\":\"Ritual. Blessed.\",\"cost\":2,\"intellectIcons\":1,\"willpowerIcons\":1,\"TtsZoopGuid\":\"ATO05\"}",
@@ -1156,8 +1137,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176583255/1CF85D5AC9F940F5FD4A8259659B16FAF11E0DBF/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO38\",\"type\":\"Event\",\"class\":\"Mystic\",\"traits\":\"Spell.\",\"TtsZoopGuid\":\"ATO38\"}",
@@ -1183,8 +1163,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176583302/77F4820D90B97E89C5C1D0376E5CB78F14AC72EB/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO39\",\"type\":\"Treachery\",\"traits\":\"Madness. Omen.\",\"weakness\":true,\"TtsZoopGuid\":\"ATO39\"}",
@@ -1268,8 +1247,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176583549/AC102D01D4FFDC35AC3FCC8C7D8844203A5A8C2E/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO42\",\"type\":\"Asset\",\"traits\":\"Item. Task.\",\"cost\":2,\"weakness\":true,\"TtsZoopGuid\":\"ATO42\"}",
@@ -1296,8 +1274,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176583577/4A1C1173E4870C468AAB28FCBD0659BDEE19CF96/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO41\",\"type\":\"Asset\",\"uses\":[{\"count\":0,\"token\":\"resource\",\"type\":\"Charge\"}],\"class\":\"Mystic\",\"traits\":\"Item. Charm. Blessed.\",\"cost\":1,\"willpowerIcons\":2,\"TtsZoopGuid\":\"ATO41\"}",
@@ -1353,8 +1330,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176583766/8A0EBAD59FA65C819D886B7DC577415AEC27B39A/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO48\",\"type\":\"Treachery\",\"traits\":\"Curse.\",\"weakness\":true,\"permanent\":true,\"TtsZoopGuid\":\"ATO48\"}",
@@ -1380,8 +1356,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176583884/E7E3A318B6B3966BFC976521655319C6EC76A89D/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO47\",\"type\":\"Asset\",\"class\":\"Mystic\",\"traits\":\"Ritual.\",\"cost\":2,\"combatIcons\":1,\"willpowerIcons\":1,\"TtsZoopGuid\":\"ATO47\"}",
@@ -1437,8 +1412,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176584137/F18991C6BFE8F85EC70FBA0C498B1F3FAECD098B/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO44\",\"type\":\"Event\",\"class\":\"Mystic\",\"traits\":\"Augury.\",\"cost\":1,\"wildIcons\":1,\"TtsZoopGuid\":\"ATO44\"}",
@@ -1464,8 +1438,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176682905/389BCB0D4C664E947DAB914BA075C3D248F2ADEC/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO45\",\"type\":\"Treachery\",\"traits\":\"Task.\",\"weakness\":true,\"TtsZoopGuid\":\"ATO45\"}",
@@ -1520,8 +1493,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427770454995217/304EF4238C2C7BD12315E70485AD4A92929F655B/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO65\",\"type\":\"Treachery\",\"traits\":\"Injury.\",\"weakness\":true,\"TtsZoopGuid\":\"ATO65\"}",
@@ -1547,8 +1519,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176584523/C0027CCC58A3AFE34FED4843E59472AB28A0372B/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO27\",\"type\":\"Treachery\",\"traits\":\"Flaw.\",\"weakness\":true,\"TtsZoopGuid\":\"ATO27\"}",
@@ -1574,8 +1545,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176584608/78BF9729AFF2E5D253F4DDF95E3F5D5ABF748562/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO26\",\"type\":\"Event\",\"class\":\"Rogue\",\"traits\":\"Tactic.\",\"cost\":0,\"agilityIcons\":2,\"TtsZoopGuid\":\"ATO26\"}",
@@ -1659,8 +1629,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176584894/D0C668DC76F0E362002FFBF0685086D19B975E94/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO33\",\"type\":\"Treachery\",\"traits\":\"Blunder.\",\"weakness\":true,\"TtsZoopGuid\":\"ATO33\"}",
@@ -1686,8 +1655,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176584926/6C88FC38B3F85A0BF90AE1456B31F726921D7CCC/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO32\",\"type\":\"Event\",\"class\":\"Rogue\",\"traits\":\"Spell. Song.\",\"cost\":2,\"agilityIcons\":1,\"willpowerIcons\":1,\"wildIcons\":1,\"TtsZoopGuid\":\"ATO32\"}",
@@ -1742,8 +1710,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176585104/4A25D35C837D419135505666C92EBF69447106F9/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO36\",\"type\":\"Treachery\",\"traits\":\"Endtimes.\",\"weakness\":true,\"TtsZoopGuid\":\"ATO36\"}",
@@ -1769,8 +1736,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176585130/BA3FC8560083D3C8C4504AA554545463B96478DF/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO35\",\"type\":\"Asset\",\"class\":\"Rogue\",\"traits\":\"Ally. Creature.\",\"cost\":3,\"agilityIcons\":1,\"combatIcons\":1,\"willpowerIcons\":1,\"TtsZoopGuid\":\"ATO35\"}",
@@ -1826,8 +1792,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176585384/A395D59C2EC9C16D5AAD1AA5CCD5714FC6B48653/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO30\",\"type\":\"Enemy\",\"traits\":\"Humanoid. Spider.\",\"weakness\":true,\"TtsZoopGuid\":\"ATO30\"}",
@@ -1853,8 +1818,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176585454/B5D5872601C7133111C7588628C68ABEE6CC90B2/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO20\",\"type\":\"Event\",\"class\":\"Seeker\",\"traits\":\"Spell. Paradox.\",\"cost\":0,\"intellectIcons\":1,\"wildIcons\":1,\"TtsZoopGuid\":\"ATO20\"}",
@@ -1880,8 +1844,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176585508/FD8682547D291AF3538AA0AD5F32E5F157CA2918/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO21\",\"type\":\"Treachery\",\"traits\":\"Terror.\",\"weakness\":true,\"TtsZoopGuid\":\"ATO21\"}",
@@ -1965,8 +1928,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176585749/79A7D2FFAA987047EBD1F0903914B2B3DCBD3D1E/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO24\",\"type\":\"Treachery\",\"traits\":\"Hazard.\",\"weakness\":true,\"TtsZoopGuid\":\"ATO24\"}",
@@ -1992,8 +1954,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176585784/5BF94798B1FDACC5FBCF0CC9DB570CD64FFDD743/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO23\",\"type\":\"Asset\",\"class\":\"Seeker\",\"traits\":\"Item. Armor. Footwear.\",\"cost\":3,\"agilityIcons\":1,\"combatIcons\":1,\"intellectIcons\":1,\"TtsZoopGuid\":\"ATO23\"}",
@@ -2049,8 +2010,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25428404422872452/5A82FA8BB6A6C11F9D7CAA9DCA2EBF9E700926DE/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO14\",\"type\":\"Asset\",\"class\":\"Seeker\",\"traits\":\"Talent.\",\"cost\":2,\"intellectIcons\":2,\"TtsZoopGuid\":\"ATO14\"}",
@@ -2077,8 +2037,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176585981/58A13A5C115FE57F47DF22F2FC85C723E39848BC/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO15\",\"type\":\"Treachery\",\"traits\":\"Mystery.\",\"weakness\":true,\"TtsZoopGuid\":\"ATO15\"}",
@@ -2133,8 +2092,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176586158/B62904E737ACAC5E4A6A4E2BC89AD7036B489B2A/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO17\",\"type\":\"Event\",\"class\":\"Seeker\",\"traits\":\"Ritual. Cursed. Upgrade.\",\"cost\":2,\"agilityIcons\":1,\"intellectIcons\":2,\"TtsZoopGuid\":\"ATO17\"}",
@@ -2160,8 +2118,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176586215/2AA6461AAD85CC89E91C0FD0BC79DD10A188CA21/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO18\",\"type\":\"Treachery\",\"traits\":\"Obstacle.\",\"weakness\":true,\"TtsZoopGuid\":\"ATO18\"}",
@@ -2187,8 +2144,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176683430/B3F8036A8AC86B0EB2568456024AA550EE991256/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO54\",\"type\":\"Enemy\",\"traits\":\"Humanoid. Cultist.\",\"weakness\":true,\"TtsZoopGuid\":\"ATO54\"}",
@@ -2214,8 +2170,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176586360/17C9C7AF13BF12BE55F6697669E69D5F92961F95/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO53\",\"type\":\"Event\",\"class\":\"Survivor\",\"traits\":\"Spell.\",\"cost\":1,\"wildIcons\":2,\"TtsZoopGuid\":\"ATO53\"}",
@@ -2299,8 +2254,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176586749/6E659EBB53EF2A95171AAFD578516C676E94B400/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO57\",\"type\":\"Treachery\",\"traits\":\"Injury.\",\"weakness\":true,\"TtsZoopGuid\":\"ATO57\"}",
@@ -2326,8 +2280,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176586808/6E32166EC1BFB07A2A8E430C196836992C44A859/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO56\",\"type\":\"Asset\",\"class\":\"Survivor\",\"traits\":\"Talent.\",\"permanent\":true,\"uses\":[{\"count\":0,\"token\":\"resource\",\"type\":\"Charge\"}],\"TtsZoopGuid\":\"ATO56\"}",
@@ -2383,8 +2336,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25428404422872991/AEDC523309DAB063F589A2F0C0D76BB1E4F93DAE/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO50\",\"type\":\"Event\",\"class\":\"Survivor\",\"traits\":\"Spell. Improvised.\",\"cost\":1,\"TtsZoopGuid\":\"ATO50\"}",
@@ -2410,8 +2362,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176683141/27034C7FDF3A948718C23FD40A6E64C6DF2BCCC5/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO51\",\"type\":\"Enemy\",\"traits\":\"Humanoid. Monster.\",\"weakness\":true,\"TtsZoopGuid\":\"ATO51\"}",
@@ -2466,8 +2417,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427226176587217/394AAA9A33467D2D96531AC80F0892B3DC662A14/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ATO62\",\"type\":\"Event\",\"traits\":\"Scheme.\",\"cost\":2,\"weakness\":true,\"TtsZoopGuid\":\"ATO62\"}",
@@ -2495,8 +2445,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427770454994722/DB01D6B2D254039E23FD1F768E52B26FC397330C/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "Description": "Reinforce",
@@ -2524,8 +2473,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427770454994673/44A491ABF4720B933222B4746CB4CC7D4A65421A/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "Description": "Fortify",
@@ -2553,8 +2501,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427770454994617/5EE2A63FB243242E903CD9E3180781786BFDF8E3/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "Description": "Insulate",
@@ -2582,8 +2529,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427770454994578/74BB3B864CB1BB067AFBF2A64B9D946C647FFF01/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "Description": "Courage",
@@ -2611,8 +2557,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427770454995383/DF3FA2FD761523EF5302AD9222143C4AE483540F/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"id\":\"ATO64\",\"type\":\"Asset\",\"class\":\"Survivor\",\"traits\":\"Talent.\",\"permanent\":true,\"TtsZoopGuid\":\"ATO64\"}",
@@ -2639,8 +2584,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427770454995383/DF3FA2FD761523EF5302AD9222143C4AE483540F/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "66121": {
           "BackIsHidden": true,
@@ -2648,8 +2592,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427770454994617/5EE2A63FB243242E903CD9E3180781786BFDF8E3/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "66122": {
           "BackIsHidden": true,
@@ -2657,8 +2600,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427770454994673/44A491ABF4720B933222B4746CB4CC7D4A65421A/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "66123": {
           "BackIsHidden": true,
@@ -2666,8 +2608,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427770454994578/74BB3B864CB1BB067AFBF2A64B9D946C647FFF01/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "66124": {
           "BackIsHidden": true,
@@ -2675,8 +2616,7 @@
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/25427770454994722/DB01D6B2D254039E23FD1F768E52B26FC397330C/",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "DeckIDs": [
@@ -2782,12 +2722,7 @@
   "Name": "Custom_Model_Bag",
   "Nickname": "Across the Obelisk",
   "Transform": {
-    "posX": 45.4602966,
-    "posY": 1.48149908,
-    "posZ": 14.6941032,
-    "rotX": 6.41586553e-08,
-    "rotY": 269.0856,
-    "rotZ": -2.14492772e-07,
+    "rotY": 270,
     "scaleX": 2.21,
     "scaleY": 0.46,
     "scaleZ": 2.42

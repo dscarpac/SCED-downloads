@@ -71,8 +71,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/jye744chdqo1qwh9xfb1i/Searchlight-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=9c9gsoacrl87j6jih6ksyrmo3&raw=1&cachebust=1732664930702",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"d9f82673-37d9-4f90-a523-9af0baecb072\",\"type\":\"Event\",\"class\":\"Neutral\",\"traits\":\"Tactic.\",\"cost\":3,\"combatIcons\":1,\"willpowerIcons\":1,\"wildIcons\":1,\"TtsZoopGuid\":\"d9f82673-37d9-4f90-a523-9af0baecb072\"}",
@@ -98,8 +97,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/v7btpbw2ayksk3193iiuh/Rationing-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=1f6jg7xvv4fi5aclz2i6piw8a&raw=1&cachebust=1732664929140",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"724c722a-7554-445a-ab71-f9fd0b9860a1\",\"type\":\"Treachery\",\"traits\":\"Hardship.\",\"weakness\":true,\"TtsZoopGuid\":\"724c722a-7554-445a-ab71-f9fd0b9860a1\"}",
@@ -182,8 +180,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/yo9xf6gcd7qvz43y2liqd/Kyoufuu-Kai-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=5avawrimxrx9vrf7u7bbac4ss&raw=1&cachebust=1732664924593",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "Description": "Seaplane Fighter",
@@ -211,8 +208,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/78xqvjtyyuwetod7z3u02/Abyssal-Recon-Flying-Boat-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=zxeb83xuaryv6ldtx4lge738p&raw=1&cachebust=1732664923034",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"91ea40c0-6760-494d-adb0-53838469f23e\",\"type\":\"Treachery\",\"traits\":\"Abyssal. Vehicle. Monster.\",\"weakness\":true,\"TtsZoopGuid\":\"91ea40c0-6760-494d-adb0-53838469f23e\"}",
@@ -295,8 +291,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/33fba7410g5iczrj0gvxy/Submarine-Radar-Passive-Radiolocator-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=gqn0oh2lsi6jf6ocvyiu2xhes&raw=1&cachebust=1732664896834",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "Description": "Improved late-model verison",
@@ -324,8 +319,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/991wi7xwr4fe36vn4adh0/Destroyer-I-Class-Elite-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=lnjl3ig65acdthwndaaqkhdj7&raw=1&cachebust=1732664895047",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"48f5a3ce-5c20-400c-b491-914dd418fa65\",\"type\":\"Enemy\",\"traits\":\"Abyssal. Destroyer. Monster.\",\"weakness\":true,\"TtsZoopGuid\":\"48f5a3ce-5c20-400c-b491-914dd418fa65\"}",
@@ -410,8 +404,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/so1tq65fsbow2yuzmnz5r/Shoukaku-Air-Wing-1-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=sbxohbr48cpwrdcoib2cohgjk&raw=1&cachebust=1732940611412",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "Description": "Type 97 Torpedo Bomber",
@@ -439,8 +432,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/qela9dpr8xygx52mv0btz/Shoukaku-Air-Wing-2-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=pkqv03hfnv5708yb8qf3qmrqw&raw=1&cachebust=1732940613336",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "Description": "Shiden Kai 2",
@@ -467,8 +459,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/so1tq65fsbow2yuzmnz5r/Shoukaku-Air-Wing-1-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=sbxohbr48cpwrdcoib2cohgjk&raw=1&cachebust=1732940611412",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "2737": {
           "BackIsHidden": true,
@@ -476,8 +467,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/qela9dpr8xygx52mv0btz/Shoukaku-Air-Wing-2-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=pkqv03hfnv5708yb8qf3qmrqw&raw=1&cachebust=1732940613336",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "DeckIDs": [
@@ -508,8 +498,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/ry72zz8u54j0n3sdsru0n/Skilled-Pilots-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=upvrwu2ntg2s49npo7zmy518p&raw=1&cachebust=1732074581282",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"fdc4cbfc-4790-4fd5-92b5-c04084b831d5\",\"type\":\"Skill\",\"class\":\"Neutral\",\"traits\":\"Ally. Veteran.\",\"willpowerIcons\":1,\"TtsZoopGuid\":\"fdc4cbfc-4790-4fd5-92b5-c04084b831d5\"}",
@@ -591,8 +580,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/gi8rw0pupm1dpbsv644rb/Hard-landing-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=jdhud0gzth6s5ms88k6ndif06&raw=1&cachebust=1732664911194",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"ed8645b1-989f-4e30-a0ed-ab6b3c7568fa\",\"type\":\"Treachery\",\"traits\":\"Blunder.\",\"weakness\":true,\"TtsZoopGuid\":\"ed8645b1-989f-4e30-a0ed-ab6b3c7568fa\"}",
@@ -706,8 +694,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/olbb665qddqd3e11u5oz3/41cm-Twin-Gun-Mount-Kai-2-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=yyasm16753e1rrj14xidnzq0k&raw=1&cachebust=1732667226905",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "Description": "Modernised Battleship Main Gun",
@@ -735,8 +722,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/olbb665qddqd3e11u5oz3/41cm-Twin-Gun-Mount-Kai-2-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=yyasm16753e1rrj14xidnzq0k&raw=1&cachebust=1732667226905",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "Description": "Modernised Battleship Main Gun",
@@ -763,8 +749,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/olbb665qddqd3e11u5oz3/41cm-Twin-Gun-Mount-Kai-2-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=yyasm16753e1rrj14xidnzq0k&raw=1&cachebust=1732667226905",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "DeckIDs": [
@@ -795,8 +780,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/96695jo9j4drs9z9hk86c/Battleship-Princess-resolution-300-compressionquality-1.00-bleed-1.0-Front.png?rlkey=pdjp4ltbpf1u9yroa1e70r8m2&raw=1&cachebust=1732667229447",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"id\":\"75e388a1-4a1c-4fdd-9032-449f9b8ccde4\",\"type\":\"Enemy\",\"traits\":\"Abyssal. Battleship. Humanoid.\",\"weakness\":true,\"TtsZoopGuid\":\"75e388a1-4a1c-4fdd-9032-449f9b8ccde4\"}",

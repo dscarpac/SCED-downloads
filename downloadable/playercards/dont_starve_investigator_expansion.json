@@ -1400,12 +1400,7 @@
   "Name": "Custom_Model_Bag",
   "Nickname": "Don't Starve Investigators",
   "Transform": {
-    "posX": 29.3326645,
-    "posY": 1.481499,
-    "posZ": -23.5705433,
-    "rotX": 7.156686e-08,
-    "rotY": 270.0217,
-    "rotZ": 1.16416494e-07,
+    "rotY": 270,
     "scaleX": 2.21,
     "scaleY": 0.46,
     "scaleZ": 2.42

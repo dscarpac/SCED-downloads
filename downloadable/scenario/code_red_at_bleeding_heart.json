@@ -131,8 +131,7 @@
                       "FaceURL": "https://github.com/ArkhamDotCards/coderedatbleedingheart/blob/main/img/enUS/no-bleed/71a.png?raw=true",
                       "NumHeight": 1,
                       "NumWidth": 1,
-                      "Type": 0,
-                      "UniqueBack": true
+                      "Type": 0
                     }
                   },
                   "GMNotes": "{\n  \"id\": \"MCR71\",\n  \"class\": \"Mythos\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Injury.\",\n  \"weakness\": true,\n  \"cycle\": \"Code Red at Bleeding Heart\"\n}",
@@ -159,8 +158,7 @@
                       "FaceURL": "https://github.com/ArkhamDotCards/coderedatbleedingheart/blob/main/img/enUS/no-bleed/72a.png?raw=true",
                       "NumHeight": 1,
                       "NumWidth": 1,
-                      "Type": 0,
-                      "UniqueBack": true
+                      "Type": 0
                     }
                   },
                   "GMNotes": "{\n  \"id\": \"MCR72\",\n  \"class\": \"Mythos\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Injury.\",\n  \"weakness\": true,\n  \"cycle\": \"Code Red at Bleeding Heart\"\n}",
@@ -187,8 +185,7 @@
                       "FaceURL": "https://github.com/ArkhamDotCards/coderedatbleedingheart/blob/main/img/enUS/no-bleed/73a.png?raw=true",
                       "NumHeight": 1,
                       "NumWidth": 1,
-                      "Type": 0,
-                      "UniqueBack": true
+                      "Type": 0
                     }
                   },
                   "GMNotes": "{\n  \"id\": \"MCR73\",\n  \"class\": \"Mythos\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Injury.\",\n  \"weakness\": true,\n  \"cycle\": \"Code Red at Bleeding Heart\"\n}",
@@ -215,8 +212,7 @@
                       "FaceURL": "https://github.com/ArkhamDotCards/coderedatbleedingheart/blob/main/img/enUS/no-bleed/74a.png?raw=true",
                       "NumHeight": 1,
                       "NumWidth": 1,
-                      "Type": 0,
-                      "UniqueBack": true
+                      "Type": 0
                     }
                   },
                   "GMNotes": "{\n  \"id\": \"MCR74\",\n  \"class\": \"Mythos\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Injury.\",\n  \"weakness\": true,\n  \"cycle\": \"Code Red at Bleeding Heart\"\n}",
@@ -242,8 +238,7 @@
                   "FaceURL": "https://github.com/ArkhamDotCards/coderedatbleedingheart/blob/main/img/enUS/no-bleed/72a.png?raw=true",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 },
                 "87459": {
                   "BackIsHidden": true,
@@ -251,8 +246,7 @@
                   "FaceURL": "https://github.com/ArkhamDotCards/coderedatbleedingheart/blob/main/img/enUS/no-bleed/73a.png?raw=true",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 },
                 "87460": {
                   "BackIsHidden": true,
@@ -260,8 +254,7 @@
                   "FaceURL": "https://github.com/ArkhamDotCards/coderedatbleedingheart/blob/main/img/enUS/no-bleed/71a.png?raw=true",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 },
                 "87461": {
                   "BackIsHidden": true,
@@ -269,8 +262,7 @@
                   "FaceURL": "https://github.com/ArkhamDotCards/coderedatbleedingheart/blob/main/img/enUS/no-bleed/74a.png?raw=true",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "DeckIDs": [
@@ -306,8 +298,7 @@
                       "FaceURL": "https://github.com/ArkhamDotCards/coderedatbleedingheart/blob/main/img/enUS/no-bleed/75a.png?raw=true",
                       "NumHeight": 1,
                       "NumWidth": 1,
-                      "Type": 0,
-                      "UniqueBack": true
+                      "Type": 0
                     }
                   },
                   "GMNotes": "{\n  \"id\": \"MCR75\",\n  \"class\": \"Neutral\",\n  \"type\": \"Event\",\n  \"traits\": \"Insight. Spirit.\",\n  \"cycle\": \"Code Red at Bleeding Heart\"\n}",
@@ -334,8 +325,7 @@
                       "FaceURL": "https://github.com/ArkhamDotCards/coderedatbleedingheart/blob/main/img/enUS/no-bleed/76a.png?raw=true",
                       "NumHeight": 1,
                       "NumWidth": 1,
-                      "Type": 0,
-                      "UniqueBack": true
+                      "Type": 0
                     }
                   },
                   "GMNotes": "{\n  \"id\": \"MCR76\",\n  \"class\": \"Neutral\",\n  \"type\": \"Event\",\n  \"traits\": \"Insight. Spirit.\",\n  \"cycle\": \"Code Red at Bleeding Heart\"\n}",
@@ -362,8 +352,7 @@
                       "FaceURL": "https://github.com/ArkhamDotCards/coderedatbleedingheart/blob/main/img/enUS/no-bleed/77a.png?raw=true",
                       "NumHeight": 1,
                       "NumWidth": 1,
-                      "Type": 0,
-                      "UniqueBack": true
+                      "Type": 0
                     }
                   },
                   "GMNotes": "{\n  \"id\": \"MCR77\",\n  \"class\": \"Neutral\",\n  \"type\": \"Event\",\n  \"traits\": \"Insight. Spirit.\",\n  \"cycle\": \"Code Red at Bleeding Heart\"\n}",
@@ -390,8 +379,7 @@
                       "FaceURL": "https://github.com/ArkhamDotCards/coderedatbleedingheart/blob/main/img/enUS/no-bleed/78a.png?raw=true",
                       "NumHeight": 1,
                       "NumWidth": 1,
-                      "Type": 0,
-                      "UniqueBack": true
+                      "Type": 0
                     }
                   },
                   "GMNotes": "{\n  \"id\": \"MCR78\",\n  \"class\": \"Neutral\",\n  \"type\": \"Event\",\n  \"traits\": \"Insight. Spirit.\",\n  \"cycle\": \"Code Red at Bleeding Heart\"\n}",
@@ -417,8 +405,7 @@
                   "FaceURL": "https://github.com/ArkhamDotCards/coderedatbleedingheart/blob/main/img/enUS/no-bleed/75a.png?raw=true",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 },
                 "87468": {
                   "BackIsHidden": true,
@@ -426,8 +413,7 @@
                   "FaceURL": "https://github.com/ArkhamDotCards/coderedatbleedingheart/blob/main/img/enUS/no-bleed/76a.png?raw=true",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 },
                 "87469": {
                   "BackIsHidden": true,
@@ -435,8 +421,7 @@
                   "FaceURL": "https://github.com/ArkhamDotCards/coderedatbleedingheart/blob/main/img/enUS/no-bleed/77a.png?raw=true",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 },
                 "87470": {
                   "BackIsHidden": true,
@@ -444,8 +429,7 @@
                   "FaceURL": "https://github.com/ArkhamDotCards/coderedatbleedingheart/blob/main/img/enUS/no-bleed/78a.png?raw=true",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "DeckIDs": [
@@ -477,8 +461,7 @@
                   "FaceURL": "https://github.com/ArkhamDotCards/coderedatbleedingheart/blob/main/img/enUS/no-bleed/70a.png?raw=true",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\n  \"id\": \"MCR70\",\n  \"class\": \"Neutral\",\n  \"type\": \"Asset\",\n  \"cost\": 3,\n  \"traits\": \"Item. Charm. Occult.\",\n  \"wildIcons\": 1,\n  \"willpowerIcons\": 1,\n  \"cycle\": \"Code Red at Bleeding Heart\"\n}",
@@ -505,8 +488,7 @@
                   "FaceURL": "https://github.com/ArkhamDotCards/coderedatbleedingheart/blob/main/img/enUS/no-bleed/69a.png?raw=true",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\n  \"id\": \"MCR69\",\n  \"class\": \"Neutral\",\n  \"type\": \"Asset\",\n  \"cost\": 2,\n  \"traits\": \"Ally. Medic.\",\n  \"wildIcons\": 1,\n  \"willpowerIcons\": 1,\n  \"intellectIcons\": 1,\n  \"cycle\": \"Code Red at Bleeding Heart\"\n}",
@@ -4869,8 +4851,7 @@
               "FaceURL": "https://github.com/ArkhamDotCards/coderedatbleedingheart/blob/main/img/enUS/no-bleed/81a.png?raw=true",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\n  \"id\": \"MCR81\",\n  \"class\": \"Mythos\",\n  \"type\": \"Asset\",\n  \"traits\": \"Item. Science.\",\n  \"weakness\": true,\n  \"cycle\": \"Code Red at Bleeding Heart\"\n}",
@@ -4897,8 +4878,7 @@
               "FaceURL": "https://github.com/ArkhamDotCards/coderedatbleedingheart/blob/main/img/enUS/no-bleed/80a.png?raw=true",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\n  \"id\": \"MCR80\",\n  \"class\": \"Neutral\",\n  \"type\": \"Asset\",\n  \"cost\": 2,\n  \"traits\": \"Talent.\",\n  \"willpowerIcons\": 1,\n  \"intellectIcons\": 1,\n  \"cycle\": \"Code Red at Bleeding Heart\"\n}",
@@ -5018,12 +4998,7 @@
   "Name": "Custom_Model_Bag",
   "Nickname": "Code Red at Bleeding Heart",
   "Transform": {
-    "posX": -59.3181229,
-    "posY": 1.48149908,
-    "posZ": -61.0834465,
-    "rotX": 1.74210939e-08,
-    "rotY": 270.012634,
-    "rotZ": -5.131845e-07,
+    "rotY": 270,
     "scaleX": 2.21,
     "scaleY": 0.46,
     "scaleZ": 2.42

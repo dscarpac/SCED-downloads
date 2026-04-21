@@ -563,8 +563,7 @@
                   "FaceURL": "https://i.imgur.com/u4OKGHL.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Terror\",\"TtsZoopGuid\":\"41795ec8-882f-4b62-8a24-c318c2e35474\"}",
@@ -590,8 +589,7 @@
                   "FaceURL": "https://i.imgur.com/IO3DG71.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Hex\",\"TtsZoopGuid\":\"a92b3907-71d1-436a-a5ff-c499ef75bbf1\"}",
@@ -617,8 +615,7 @@
                   "FaceURL": "https://i.imgur.com/MgQiEhn.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Terror\",\"TtsZoopGuid\":\"675b3141-eb43-4f83-bd8e-b1637c65d4fc\"}",
@@ -645,8 +642,7 @@
                   "FaceURL": "https://i.imgur.com/ZUSIIM4.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Power\",\"TtsZoopGuid\":\"bd96d081-0de3-4bee-b840-781899b7a1ae\"}",
@@ -672,8 +668,7 @@
                   "FaceURL": "https://i.imgur.com/ZUSIIM4.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Power\",\"TtsZoopGuid\":\"bd96d081-0de3-4bee-b840-781899b7a1ae\"}",
@@ -699,8 +694,7 @@
                   "FaceURL": "https://i.imgur.com/1uUbWED.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Summon\",\"TtsZoopGuid\":\"718e3c99-e806-4c5b-a569-ee491afdcbd9\"}",
@@ -726,8 +720,7 @@
                   "FaceURL": "https://i.imgur.com/bBSAskz.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Omen\",\"TtsZoopGuid\":\"47336d38-aae7-4c83-9a61-13251499c719\"}",
@@ -753,8 +746,7 @@
                   "FaceURL": "https://i.imgur.com/0idCahi.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Humanoid. Creep. Flora\",\"TtsZoopGuid\":\"346dc388-1e0e-45bf-a7b7-8aa7bb4c0982\"}",
@@ -780,8 +772,7 @@
                   "FaceURL": "https://i.imgur.com/ILPD56R.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Obstacle. Scheme\",\"TtsZoopGuid\":\"a9e1905d-da85-412c-b9a9-f131f744afed\"}",
@@ -807,8 +798,7 @@
                   "FaceURL": "https://i.imgur.com/u4OKGHL.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Terror\",\"TtsZoopGuid\":\"41795ec8-882f-4b62-8a24-c318c2e35474\"}",
@@ -834,8 +824,7 @@
                   "FaceURL": "https://i.imgur.com/MgQiEhn.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Terror\",\"TtsZoopGuid\":\"675b3141-eb43-4f83-bd8e-b1637c65d4fc\"}",
@@ -862,8 +851,7 @@
                   "FaceURL": "https://i.imgur.com/0idCahi.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Humanoid. Creep. Flora\",\"TtsZoopGuid\":\"346dc388-1e0e-45bf-a7b7-8aa7bb4c0982\"}",
@@ -889,8 +877,7 @@
                   "FaceURL": "https://i.imgur.com/VmbjSum.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Terror\",\"TtsZoopGuid\":\"39920a41-3553-45e2-a1bc-d9a9cd98de02\"}",
@@ -916,8 +903,7 @@
                   "FaceURL": "https://i.imgur.com/xiY22cr.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Blunder\",\"TtsZoopGuid\":\"ecba6ad1-d852-46de-9ea4-b7ee5eed1e97\"}",
@@ -943,8 +929,7 @@
                   "FaceURL": "https://i.imgur.com/XH0rll9.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Humanoid. Creep. Ghoul. \",\"TtsZoopGuid\":\"277398f7-fc3f-4fd7-8e14-e3c195e3c4cd\"}",
@@ -970,8 +955,7 @@
                   "FaceURL": "https://i.imgur.com/FnR6smf.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Monster. Golem. \",\"TtsZoopGuid\":\"2990d9f3-f668-4c7f-b28a-0b963410e02c\"}",
@@ -997,8 +981,7 @@
                   "FaceURL": "https://i.imgur.com/7DhdHTz.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Scheme\",\"TtsZoopGuid\":\"7b195d2d-1148-4ded-957b-27ecee1b965d\"}",
@@ -1024,8 +1007,7 @@
                   "FaceURL": "https://i.imgur.com/6U7q6sE.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Hazard\",\"TtsZoopGuid\":\"460c4c9a-402a-4097-9248-302803cddce4\"}",
@@ -1051,8 +1033,7 @@
                   "FaceURL": "https://i.imgur.com/xiY22cr.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Blunder\",\"TtsZoopGuid\":\"ecba6ad1-d852-46de-9ea4-b7ee5eed1e97\"}",
@@ -1078,8 +1059,7 @@
                   "FaceURL": "https://i.imgur.com/6U7q6sE.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Hazard\",\"TtsZoopGuid\":\"460c4c9a-402a-4097-9248-302803cddce4\"}",
@@ -1105,8 +1085,7 @@
                   "FaceURL": "https://i.imgur.com/vSn2eUZ.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Bunder\",\"TtsZoopGuid\":\"68809e03-2de9-4a4f-9d00-0c44a608b430\"}",
@@ -1132,8 +1111,7 @@
                   "FaceURL": "https://i.imgur.com/VmbjSum.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Terror\",\"TtsZoopGuid\":\"39920a41-3553-45e2-a1bc-d9a9cd98de02\"}",
@@ -1159,8 +1137,7 @@
                   "FaceURL": "https://i.imgur.com/ILPD56R.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Obstacle. Scheme\",\"TtsZoopGuid\":\"a9e1905d-da85-412c-b9a9-f131f744afed\"}",
@@ -1186,8 +1163,7 @@
                   "FaceURL": "https://i.imgur.com/XH0rll9.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Humanoid. Creep. Ghoul. \",\"TtsZoopGuid\":\"277398f7-fc3f-4fd7-8e14-e3c195e3c4cd\"}",
@@ -1213,8 +1189,7 @@
                   "FaceURL": "https://i.imgur.com/tSoo1qX.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Monster\",\"TtsZoopGuid\":\"7a37626a-d75c-439f-a4de-618afac62a1b\"}",
@@ -1240,8 +1215,7 @@
                   "FaceURL": "https://i.imgur.com/7DhdHTz.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Scheme\",\"TtsZoopGuid\":\"7b195d2d-1148-4ded-957b-27ecee1b965d\"}",
@@ -1267,8 +1241,7 @@
                   "FaceURL": "https://i.imgur.com/vSn2eUZ.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Bunder\",\"TtsZoopGuid\":\"68809e03-2de9-4a4f-9d00-0c44a608b430\"}",
@@ -1294,8 +1267,7 @@
                   "FaceURL": "https://i.imgur.com/6U7q6sE.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Hazard\",\"TtsZoopGuid\":\"460c4c9a-402a-4097-9248-302803cddce4\"}",
@@ -1321,8 +1293,7 @@
                   "FaceURL": "https://i.imgur.com/lrRRUkW.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Summon\",\"TtsZoopGuid\":\"b0cf55af-c3f8-42d7-a199-d6fdb566cf6d\"}",
@@ -1348,8 +1319,7 @@
                   "FaceURL": "https://i.imgur.com/VmbjSum.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Terror\",\"TtsZoopGuid\":\"39920a41-3553-45e2-a1bc-d9a9cd98de02\"}",
@@ -1375,8 +1345,7 @@
                   "FaceURL": "https://i.imgur.com/xiY22cr.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Blunder\",\"TtsZoopGuid\":\"ecba6ad1-d852-46de-9ea4-b7ee5eed1e97\"}",
@@ -1402,8 +1371,7 @@
                   "FaceURL": "https://i.imgur.com/XH0rll9.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Humanoid. Creep. Ghoul. \",\"TtsZoopGuid\":\"277398f7-fc3f-4fd7-8e14-e3c195e3c4cd\"}",
@@ -1429,8 +1397,7 @@
                   "FaceURL": "https://i.imgur.com/u4OKGHL.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Terror\",\"TtsZoopGuid\":\"41795ec8-882f-4b62-8a24-c318c2e35474\"}",
@@ -1456,8 +1423,7 @@
                   "FaceURL": "https://i.imgur.com/jv9fTVY.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Monster. Golem\",\"TtsZoopGuid\":\"783b3d20-8d6a-4f28-9d93-37f99b78d569\"}",
@@ -1483,8 +1449,7 @@
                   "FaceURL": "https://i.imgur.com/MgQiEhn.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Terror\",\"TtsZoopGuid\":\"675b3141-eb43-4f83-bd8e-b1637c65d4fc\"}",
@@ -1511,8 +1476,7 @@
                   "FaceURL": "https://i.imgur.com/IO3DG71.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Hex\",\"TtsZoopGuid\":\"a92b3907-71d1-436a-a5ff-c499ef75bbf1\"}",
@@ -1538,8 +1502,7 @@
                   "FaceURL": "https://i.imgur.com/0idCahi.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Humanoid. Creep. Flora\",\"TtsZoopGuid\":\"346dc388-1e0e-45bf-a7b7-8aa7bb4c0982\"}",
@@ -1565,8 +1528,7 @@
                   "FaceURL": "https://i.imgur.com/ZUSIIM4.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Power\",\"TtsZoopGuid\":\"bd96d081-0de3-4bee-b840-781899b7a1ae\"}",
@@ -1592,8 +1554,7 @@
                   "FaceURL": "https://i.imgur.com/IO3DG71.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Hex\",\"TtsZoopGuid\":\"a92b3907-71d1-436a-a5ff-c499ef75bbf1\"}",
@@ -1619,8 +1580,7 @@
                   "FaceURL": "https://i.imgur.com/ILPD56R.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Obstacle. Scheme\",\"TtsZoopGuid\":\"a9e1905d-da85-412c-b9a9-f131f744afed\"}",
@@ -1646,8 +1606,7 @@
                   "FaceURL": "https://i.imgur.com/bBSAskz.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Omen\",\"TtsZoopGuid\":\"47336d38-aae7-4c83-9a61-13251499c719\"}",
@@ -1672,8 +1631,7 @@
               "FaceURL": "https://i.imgur.com/u4OKGHL.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1004": {
               "BackIsHidden": true,
@@ -1681,8 +1639,7 @@
               "FaceURL": "https://i.imgur.com/u4OKGHL.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1005": {
               "BackIsHidden": true,
@@ -1690,8 +1647,7 @@
               "FaceURL": "https://i.imgur.com/u4OKGHL.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1006": {
               "BackIsHidden": true,
@@ -1699,8 +1655,7 @@
               "FaceURL": "https://i.imgur.com/0idCahi.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1007": {
               "BackIsHidden": true,
@@ -1708,8 +1663,7 @@
               "FaceURL": "https://i.imgur.com/0idCahi.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1008": {
               "BackIsHidden": true,
@@ -1717,8 +1671,7 @@
               "FaceURL": "https://i.imgur.com/0idCahi.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1010": {
               "BackIsHidden": true,
@@ -1726,8 +1679,7 @@
               "FaceURL": "https://i.imgur.com/1uUbWED.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1011": {
               "BackIsHidden": true,
@@ -1735,8 +1687,7 @@
               "FaceURL": "https://i.imgur.com/VmbjSum.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1033": {
               "BackIsHidden": true,
@@ -1744,8 +1695,7 @@
               "FaceURL": "https://i.imgur.com/vSn2eUZ.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1034": {
               "BackIsHidden": true,
@@ -1753,8 +1703,7 @@
               "FaceURL": "https://i.imgur.com/xiY22cr.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1035": {
               "BackIsHidden": true,
@@ -1762,8 +1711,7 @@
               "FaceURL": "https://i.imgur.com/xiY22cr.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1036": {
               "BackIsHidden": true,
@@ -1771,8 +1719,7 @@
               "FaceURL": "https://i.imgur.com/xiY22cr.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2667": {
               "BackIsHidden": true,
@@ -1780,8 +1727,7 @@
               "FaceURL": "https://i.imgur.com/VmbjSum.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2668": {
               "BackIsHidden": true,
@@ -1789,8 +1735,7 @@
               "FaceURL": "https://i.imgur.com/VmbjSum.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2672": {
               "BackIsHidden": true,
@@ -1798,8 +1743,7 @@
               "FaceURL": "https://i.imgur.com/bBSAskz.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2673": {
               "BackIsHidden": true,
@@ -1807,8 +1751,7 @@
               "FaceURL": "https://i.imgur.com/bBSAskz.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2674": {
               "BackIsHidden": true,
@@ -1816,8 +1759,7 @@
               "FaceURL": "https://i.imgur.com/FnR6smf.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2675": {
               "BackIsHidden": true,
@@ -1825,8 +1767,7 @@
               "FaceURL": "https://i.imgur.com/tSoo1qX.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2676": {
               "BackIsHidden": true,
@@ -1834,8 +1775,7 @@
               "FaceURL": "https://i.imgur.com/6U7q6sE.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2677": {
               "BackIsHidden": true,
@@ -1843,8 +1783,7 @@
               "FaceURL": "https://i.imgur.com/6U7q6sE.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2678": {
               "BackIsHidden": true,
@@ -1852,8 +1791,7 @@
               "FaceURL": "https://i.imgur.com/6U7q6sE.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2679": {
               "BackIsHidden": true,
@@ -1861,8 +1799,7 @@
               "FaceURL": "https://i.imgur.com/XH0rll9.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2680": {
               "BackIsHidden": true,
@@ -1870,8 +1807,7 @@
               "FaceURL": "https://i.imgur.com/XH0rll9.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2681": {
               "BackIsHidden": true,
@@ -1879,8 +1815,7 @@
               "FaceURL": "https://i.imgur.com/XH0rll9.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2682": {
               "BackIsHidden": true,
@@ -1888,8 +1823,7 @@
               "FaceURL": "https://i.imgur.com/jv9fTVY.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2683": {
               "BackIsHidden": true,
@@ -1897,8 +1831,7 @@
               "FaceURL": "https://i.imgur.com/IO3DG71.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2684": {
               "BackIsHidden": true,
@@ -1906,8 +1839,7 @@
               "FaceURL": "https://i.imgur.com/IO3DG71.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2685": {
               "BackIsHidden": true,
@@ -1915,8 +1847,7 @@
               "FaceURL": "https://i.imgur.com/IO3DG71.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2686": {
               "BackIsHidden": true,
@@ -1924,8 +1855,7 @@
               "FaceURL": "https://i.imgur.com/vSn2eUZ.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2687": {
               "BackIsHidden": true,
@@ -1933,8 +1863,7 @@
               "FaceURL": "https://i.imgur.com/ILPD56R.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2688": {
               "BackIsHidden": true,
@@ -1942,8 +1871,7 @@
               "FaceURL": "https://i.imgur.com/ILPD56R.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2689": {
               "BackIsHidden": true,
@@ -1951,8 +1879,7 @@
               "FaceURL": "https://i.imgur.com/ILPD56R.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2690": {
               "BackIsHidden": true,
@@ -1960,8 +1887,7 @@
               "FaceURL": "https://i.imgur.com/ZUSIIM4.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2691": {
               "BackIsHidden": true,
@@ -1969,8 +1895,7 @@
               "FaceURL": "https://i.imgur.com/ZUSIIM4.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2692": {
               "BackIsHidden": true,
@@ -1978,8 +1903,7 @@
               "FaceURL": "https://i.imgur.com/ZUSIIM4.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2693": {
               "BackIsHidden": true,
@@ -1987,8 +1911,7 @@
               "FaceURL": "https://i.imgur.com/7DhdHTz.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2694": {
               "BackIsHidden": true,
@@ -1996,8 +1919,7 @@
               "FaceURL": "https://i.imgur.com/7DhdHTz.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2733": {
               "BackIsHidden": true,
@@ -2005,8 +1927,7 @@
               "FaceURL": "https://i.imgur.com/lrRRUkW.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "5925": {
               "BackIsHidden": true,
@@ -2014,8 +1935,7 @@
               "FaceURL": "https://i.imgur.com/MgQiEhn.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "DeckIDs": [
@@ -2187,8 +2107,7 @@
               "FaceURL": "https://i.imgur.com/yevmbZu.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "Description": "Will of the Direstone",
@@ -2323,8 +2242,7 @@
                   "FaceURL": "https://i.imgur.com/XRO6ljm.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"traits\":\"Extradimensional. Pact\",\"weakness\":true,\"TtsZoopGuid\":\"9b7a8260-1600-4952-bdaa-5bbeff11816a\"}",
@@ -2473,8 +2391,7 @@
               "FaceURL": "https://i.imgur.com/SAgSJR9.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "Description": "Seen It All",
@@ -2537,8 +2454,7 @@
               "FaceURL": "https://i.imgur.com/TfcwIuI.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "Description": "Void Burrower",
@@ -2566,8 +2482,7 @@
               "FaceURL": "https://i.imgur.com/tDlhMyF.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "Description": "The Juggernaut",
@@ -2595,8 +2510,7 @@
               "FaceURL": "https://i.imgur.com/pOK8fH4.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "Description": "Phantom Lancer",
@@ -2624,8 +2538,7 @@
               "FaceURL": "https://i.imgur.com/dYV6ZQF.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "Description": "Unforgiven Swordsman",
@@ -2653,8 +2566,7 @@
               "FaceURL": "https://i.imgur.com/W1ba1gL.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "Description": "Fresh Meat",
@@ -2681,8 +2593,7 @@
           "FaceURL": "https://i.imgur.com/tDlhMyF.jpg",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1032": {
           "BackIsHidden": true,
@@ -2690,8 +2601,7 @@
           "FaceURL": "https://i.imgur.com/W1ba1gL.jpg",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1042": {
           "BackIsHidden": true,
@@ -2699,8 +2609,7 @@
           "FaceURL": "https://i.imgur.com/pOK8fH4.jpg",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1046": {
           "BackIsHidden": true,
@@ -2708,8 +2617,7 @@
           "FaceURL": "https://i.imgur.com/dYV6ZQF.jpg",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "2730": {
           "BackIsHidden": true,
@@ -2717,8 +2625,7 @@
           "FaceURL": "https://i.imgur.com/TfcwIuI.jpg",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "DeckIDs": [
@@ -2793,8 +2700,7 @@
                   "FaceURL": "https://i.imgur.com/MgQiEhn.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Terror\",\"TtsZoopGuid\":\"675b3141-eb43-4f83-bd8e-b1637c65d4fc\"}",
@@ -2821,8 +2727,7 @@
                   "FaceURL": "https://i.imgur.com/SGF651o.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Power\",\"TtsZoopGuid\":\"6659e417-da0b-48b6-b1da-a06f39e01c9b\"}",
@@ -2848,8 +2753,7 @@
                   "FaceURL": "https://i.imgur.com/IO3DG71.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Hex\",\"TtsZoopGuid\":\"a92b3907-71d1-436a-a5ff-c499ef75bbf1\"}",
@@ -2875,8 +2779,7 @@
                   "FaceURL": "https://i.imgur.com/xiY22cr.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Blunder\",\"TtsZoopGuid\":\"ecba6ad1-d852-46de-9ea4-b7ee5eed1e97\"}",
@@ -2902,8 +2805,7 @@
                   "FaceURL": "https://i.imgur.com/FnR6smf.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Monster. Golem. \",\"TtsZoopGuid\":\"2990d9f3-f668-4c7f-b28a-0b963410e02c\"}",
@@ -2929,8 +2831,7 @@
                   "FaceURL": "https://i.imgur.com/xiY22cr.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Blunder\",\"TtsZoopGuid\":\"ecba6ad1-d852-46de-9ea4-b7ee5eed1e97\"}",
@@ -2956,8 +2857,7 @@
                   "FaceURL": "https://i.imgur.com/UFlJJ09.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Scheme\",\"TtsZoopGuid\":\"08ae9681-3558-4f2b-a89e-7b324f7e816e\"}",
@@ -2983,8 +2883,7 @@
                   "FaceURL": "https://i.imgur.com/SGF651o.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Power\",\"TtsZoopGuid\":\"6659e417-da0b-48b6-b1da-a06f39e01c9b\"}",
@@ -3010,8 +2909,7 @@
                   "FaceURL": "https://i.imgur.com/JTwbyYh.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Obstacle. Scheme\",\"TtsZoopGuid\":\"22344c2c-2c74-42f0-8a15-1a15d9575c9f\"}",
@@ -3037,8 +2935,7 @@
                   "FaceURL": "https://i.imgur.com/xiY22cr.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Blunder\",\"TtsZoopGuid\":\"ecba6ad1-d852-46de-9ea4-b7ee5eed1e97\"}",
@@ -3064,8 +2961,7 @@
                   "FaceURL": "https://i.imgur.com/MgQiEhn.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Terror\",\"TtsZoopGuid\":\"675b3141-eb43-4f83-bd8e-b1637c65d4fc\"}",
@@ -3091,8 +2987,7 @@
                   "FaceURL": "https://i.imgur.com/vSn2eUZ.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Bunder\",\"TtsZoopGuid\":\"68809e03-2de9-4a4f-9d00-0c44a608b430\"}",
@@ -3118,8 +3013,7 @@
                   "FaceURL": "https://i.imgur.com/XH0rll9.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Humanoid. Creep. Ghoul. \",\"TtsZoopGuid\":\"277398f7-fc3f-4fd7-8e14-e3c195e3c4cd\"}",
@@ -3145,8 +3039,7 @@
                   "FaceURL": "https://i.imgur.com/XH0rll9.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Humanoid. Creep. Ghoul. \",\"TtsZoopGuid\":\"277398f7-fc3f-4fd7-8e14-e3c195e3c4cd\"}",
@@ -3172,8 +3065,7 @@
                   "FaceURL": "https://i.imgur.com/bBSAskz.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Omen\",\"TtsZoopGuid\":\"47336d38-aae7-4c83-9a61-13251499c719\"}",
@@ -3199,8 +3091,7 @@
                   "FaceURL": "https://i.imgur.com/u4OKGHL.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Terror\",\"TtsZoopGuid\":\"41795ec8-882f-4b62-8a24-c318c2e35474\"}",
@@ -3226,8 +3117,7 @@
                   "FaceURL": "https://i.imgur.com/tSoo1qX.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Monster\",\"TtsZoopGuid\":\"7a37626a-d75c-439f-a4de-618afac62a1b\"}",
@@ -3253,8 +3143,7 @@
                   "FaceURL": "https://i.imgur.com/UFlJJ09.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Scheme\",\"TtsZoopGuid\":\"08ae9681-3558-4f2b-a89e-7b324f7e816e\"}",
@@ -3280,8 +3169,7 @@
                   "FaceURL": "https://i.imgur.com/VmbjSum.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Terror\",\"TtsZoopGuid\":\"39920a41-3553-45e2-a1bc-d9a9cd98de02\"}",
@@ -3307,8 +3195,7 @@
                   "FaceURL": "https://i.imgur.com/IO3DG71.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Hex\",\"TtsZoopGuid\":\"a92b3907-71d1-436a-a5ff-c499ef75bbf1\"}",
@@ -3334,8 +3221,7 @@
                   "FaceURL": "https://i.imgur.com/0idCahi.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Humanoid. Creep. Flora\",\"TtsZoopGuid\":\"346dc388-1e0e-45bf-a7b7-8aa7bb4c0982\"}",
@@ -3362,8 +3248,7 @@
                   "FaceURL": "https://i.imgur.com/JTwbyYh.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Obstacle. Scheme\",\"TtsZoopGuid\":\"22344c2c-2c74-42f0-8a15-1a15d9575c9f\"}",
@@ -3389,8 +3274,7 @@
                   "FaceURL": "https://i.imgur.com/0idCahi.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Humanoid. Creep. Flora\",\"TtsZoopGuid\":\"346dc388-1e0e-45bf-a7b7-8aa7bb4c0982\"}",
@@ -3416,8 +3300,7 @@
                   "FaceURL": "https://i.imgur.com/6U7q6sE.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Hazard\",\"TtsZoopGuid\":\"460c4c9a-402a-4097-9248-302803cddce4\"}",
@@ -3443,8 +3326,7 @@
                   "FaceURL": "https://i.imgur.com/jv9fTVY.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Monster. Golem\",\"TtsZoopGuid\":\"783b3d20-8d6a-4f28-9d93-37f99b78d569\"}",
@@ -3470,8 +3352,7 @@
                   "FaceURL": "https://i.imgur.com/XH0rll9.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Humanoid. Creep. Ghoul. \",\"TtsZoopGuid\":\"277398f7-fc3f-4fd7-8e14-e3c195e3c4cd\"}",
@@ -3497,8 +3378,7 @@
                   "FaceURL": "https://i.imgur.com/0idCahi.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Humanoid. Creep. Flora\",\"TtsZoopGuid\":\"346dc388-1e0e-45bf-a7b7-8aa7bb4c0982\"}",
@@ -3524,8 +3404,7 @@
                   "FaceURL": "https://i.imgur.com/6U7q6sE.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Hazard\",\"TtsZoopGuid\":\"460c4c9a-402a-4097-9248-302803cddce4\"}",
@@ -3551,8 +3430,7 @@
                   "FaceURL": "https://i.imgur.com/IO3DG71.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Hex\",\"TtsZoopGuid\":\"a92b3907-71d1-436a-a5ff-c499ef75bbf1\"}",
@@ -3578,8 +3456,7 @@
                   "FaceURL": "https://i.imgur.com/bBSAskz.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Omen\",\"TtsZoopGuid\":\"47336d38-aae7-4c83-9a61-13251499c719\"}",
@@ -3605,8 +3482,7 @@
                   "FaceURL": "https://i.imgur.com/6U7q6sE.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Hazard\",\"TtsZoopGuid\":\"460c4c9a-402a-4097-9248-302803cddce4\"}",
@@ -3632,8 +3508,7 @@
                   "FaceURL": "https://i.imgur.com/1uUbWED.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Summon\",\"TtsZoopGuid\":\"718e3c99-e806-4c5b-a569-ee491afdcbd9\"}",
@@ -3659,8 +3534,7 @@
                   "FaceURL": "https://i.imgur.com/MgQiEhn.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Terror\",\"TtsZoopGuid\":\"675b3141-eb43-4f83-bd8e-b1637c65d4fc\"}",
@@ -3686,8 +3560,7 @@
                   "FaceURL": "https://i.imgur.com/SGF651o.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Power\",\"TtsZoopGuid\":\"6659e417-da0b-48b6-b1da-a06f39e01c9b\"}",
@@ -3713,8 +3586,7 @@
                   "FaceURL": "https://i.imgur.com/VmbjSum.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Terror\",\"TtsZoopGuid\":\"39920a41-3553-45e2-a1bc-d9a9cd98de02\"}",
@@ -3740,8 +3612,7 @@
                   "FaceURL": "https://i.imgur.com/vSn2eUZ.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Bunder\",\"TtsZoopGuid\":\"68809e03-2de9-4a4f-9d00-0c44a608b430\"}",
@@ -3767,8 +3638,7 @@
                   "FaceURL": "https://i.imgur.com/u4OKGHL.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Terror\",\"TtsZoopGuid\":\"41795ec8-882f-4b62-8a24-c318c2e35474\"}",
@@ -3795,8 +3665,7 @@
                   "FaceURL": "https://i.imgur.com/VmbjSum.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Terror\",\"TtsZoopGuid\":\"39920a41-3553-45e2-a1bc-d9a9cd98de02\"}",
@@ -3822,8 +3691,7 @@
                   "FaceURL": "https://i.imgur.com/u4OKGHL.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Terror\",\"TtsZoopGuid\":\"41795ec8-882f-4b62-8a24-c318c2e35474\"}",
@@ -3849,8 +3717,7 @@
                   "FaceURL": "https://i.imgur.com/lrRRUkW.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Summon\",\"TtsZoopGuid\":\"b0cf55af-c3f8-42d7-a199-d6fdb566cf6d\"}",
@@ -3876,8 +3743,7 @@
                   "FaceURL": "https://i.imgur.com/JTwbyYh.jpg",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Obstacle. Scheme\",\"TtsZoopGuid\":\"22344c2c-2c74-42f0-8a15-1a15d9575c9f\"}",
@@ -3902,8 +3768,7 @@
               "FaceURL": "https://i.imgur.com/JTwbyYh.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1001": {
               "BackIsHidden": true,
@@ -3911,8 +3776,7 @@
               "FaceURL": "https://i.imgur.com/JTwbyYh.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1002": {
               "BackIsHidden": true,
@@ -3920,8 +3784,7 @@
               "FaceURL": "https://i.imgur.com/JTwbyYh.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1003": {
               "BackIsHidden": true,
@@ -3929,8 +3792,7 @@
               "FaceURL": "https://i.imgur.com/u4OKGHL.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1004": {
               "BackIsHidden": true,
@@ -3938,8 +3800,7 @@
               "FaceURL": "https://i.imgur.com/u4OKGHL.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1005": {
               "BackIsHidden": true,
@@ -3947,8 +3808,7 @@
               "FaceURL": "https://i.imgur.com/u4OKGHL.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1006": {
               "BackIsHidden": true,
@@ -3956,8 +3816,7 @@
               "FaceURL": "https://i.imgur.com/0idCahi.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1007": {
               "BackIsHidden": true,
@@ -3965,8 +3824,7 @@
               "FaceURL": "https://i.imgur.com/0idCahi.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1008": {
               "BackIsHidden": true,
@@ -3974,8 +3832,7 @@
               "FaceURL": "https://i.imgur.com/0idCahi.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1010": {
               "BackIsHidden": true,
@@ -3983,8 +3840,7 @@
               "FaceURL": "https://i.imgur.com/1uUbWED.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1011": {
               "BackIsHidden": true,
@@ -3992,8 +3848,7 @@
               "FaceURL": "https://i.imgur.com/VmbjSum.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1015": {
               "BackIsHidden": true,
@@ -4001,8 +3856,7 @@
               "FaceURL": "https://i.imgur.com/SGF651o.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1033": {
               "BackIsHidden": true,
@@ -4010,8 +3864,7 @@
               "FaceURL": "https://i.imgur.com/vSn2eUZ.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1034": {
               "BackIsHidden": true,
@@ -4019,8 +3872,7 @@
               "FaceURL": "https://i.imgur.com/xiY22cr.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1035": {
               "BackIsHidden": true,
@@ -4028,8 +3880,7 @@
               "FaceURL": "https://i.imgur.com/xiY22cr.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1036": {
               "BackIsHidden": true,
@@ -4037,8 +3888,7 @@
               "FaceURL": "https://i.imgur.com/xiY22cr.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "1038": {
               "BackIsHidden": true,
@@ -4046,8 +3896,7 @@
               "FaceURL": "https://i.imgur.com/UFlJJ09.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2666": {
               "BackIsHidden": true,
@@ -4055,8 +3904,7 @@
               "FaceURL": "https://i.imgur.com/UFlJJ09.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2667": {
               "BackIsHidden": true,
@@ -4064,8 +3912,7 @@
               "FaceURL": "https://i.imgur.com/VmbjSum.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2668": {
               "BackIsHidden": true,
@@ -4073,8 +3920,7 @@
               "FaceURL": "https://i.imgur.com/VmbjSum.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2669": {
               "BackIsHidden": true,
@@ -4082,8 +3928,7 @@
               "FaceURL": "https://i.imgur.com/SGF651o.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2670": {
               "BackIsHidden": true,
@@ -4091,8 +3936,7 @@
               "FaceURL": "https://i.imgur.com/SGF651o.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2671": {
               "BackIsHidden": true,
@@ -4100,8 +3944,7 @@
               "FaceURL": "https://i.imgur.com/bBSAskz.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2672": {
               "BackIsHidden": true,
@@ -4109,8 +3952,7 @@
               "FaceURL": "https://i.imgur.com/bBSAskz.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2674": {
               "BackIsHidden": true,
@@ -4118,8 +3960,7 @@
               "FaceURL": "https://i.imgur.com/FnR6smf.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2675": {
               "BackIsHidden": true,
@@ -4127,8 +3968,7 @@
               "FaceURL": "https://i.imgur.com/tSoo1qX.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2676": {
               "BackIsHidden": true,
@@ -4136,8 +3976,7 @@
               "FaceURL": "https://i.imgur.com/6U7q6sE.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2677": {
               "BackIsHidden": true,
@@ -4145,8 +3984,7 @@
               "FaceURL": "https://i.imgur.com/6U7q6sE.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2678": {
               "BackIsHidden": true,
@@ -4154,8 +3992,7 @@
               "FaceURL": "https://i.imgur.com/6U7q6sE.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2679": {
               "BackIsHidden": true,
@@ -4163,8 +4000,7 @@
               "FaceURL": "https://i.imgur.com/XH0rll9.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2680": {
               "BackIsHidden": true,
@@ -4172,8 +4008,7 @@
               "FaceURL": "https://i.imgur.com/XH0rll9.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2681": {
               "BackIsHidden": true,
@@ -4181,8 +4016,7 @@
               "FaceURL": "https://i.imgur.com/XH0rll9.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2682": {
               "BackIsHidden": true,
@@ -4190,8 +4024,7 @@
               "FaceURL": "https://i.imgur.com/jv9fTVY.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2683": {
               "BackIsHidden": true,
@@ -4199,8 +4032,7 @@
               "FaceURL": "https://i.imgur.com/IO3DG71.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2684": {
               "BackIsHidden": true,
@@ -4208,8 +4040,7 @@
               "FaceURL": "https://i.imgur.com/IO3DG71.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2685": {
               "BackIsHidden": true,
@@ -4217,8 +4048,7 @@
               "FaceURL": "https://i.imgur.com/IO3DG71.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2686": {
               "BackIsHidden": true,
@@ -4226,8 +4056,7 @@
               "FaceURL": "https://i.imgur.com/vSn2eUZ.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "2731": {
               "BackIsHidden": true,
@@ -4235,8 +4064,7 @@
               "FaceURL": "https://i.imgur.com/lrRRUkW.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "5925": {
               "BackIsHidden": true,
@@ -4244,8 +4072,7 @@
               "FaceURL": "https://i.imgur.com/MgQiEhn.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "5926": {
               "BackIsHidden": true,
@@ -4253,8 +4080,7 @@
               "FaceURL": "https://i.imgur.com/MgQiEhn.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "5941": {
               "BackIsHidden": true,
@@ -4262,8 +4088,7 @@
               "FaceURL": "https://i.imgur.com/MgQiEhn.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "DeckIDs": [
@@ -4346,8 +4171,7 @@
               "FaceURL": "https://i.imgur.com/Lunb2KS.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "Description": "Scepter of the Immortal",
@@ -4376,8 +4200,7 @@
               "FaceURL": "https://i.imgur.com/VphWm9I.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "Description": "The High Priestess",
@@ -4405,8 +4228,7 @@
               "FaceURL": "https://i.imgur.com/vNfd63h.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Geist\",\"cost\":3,\"willpowerIcons\":1,\"wildIcons\":1,\"TtsZoopGuid\":\"d96a0545-ce33-4def-a765-d9039c16e3ed\"}",
@@ -4433,8 +4255,7 @@
               "FaceURL": "https://i.imgur.com/TbkexGs.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Rune\",\"wildIcons\":1,\"TtsZoopGuid\":\"6501bab3-9e17-4138-9706-5952496a80f2\"}",
@@ -4461,8 +4282,7 @@
               "FaceURL": "https://i.imgur.com/l1Ak5x7.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "Description": "O'Bannion Enforcer",
@@ -4489,8 +4309,7 @@
           "FaceURL": "https://i.imgur.com/Lunb2KS.jpg",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1049": {
           "BackIsHidden": true,
@@ -4498,8 +4317,7 @@
           "FaceURL": "https://i.imgur.com/VphWm9I.jpg",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1051": {
           "BackIsHidden": true,
@@ -4507,8 +4325,7 @@
           "FaceURL": "https://i.imgur.com/vNfd63h.jpg",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1052": {
           "BackIsHidden": true,
@@ -4516,8 +4333,7 @@
           "FaceURL": "https://i.imgur.com/TbkexGs.jpg",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1053": {
           "BackIsHidden": true,
@@ -4525,8 +4341,7 @@
           "FaceURL": "https://i.imgur.com/l1Ak5x7.jpg",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "DeckIDs": [
@@ -4822,8 +4637,7 @@
               "FaceURL": "https://i.imgur.com/c4iuq9V.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Police\",\"TtsZoopGuid\":\"5e7ba2d1-eb73-409d-9edd-a4b65f8f265e\"}",
@@ -4850,8 +4664,7 @@
               "FaceURL": "https://i.imgur.com/c4iuq9V.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Police\",\"TtsZoopGuid\":\"5e7ba2d1-eb73-409d-9edd-a4b65f8f265e\"}",
@@ -4878,8 +4691,7 @@
               "FaceURL": "https://i.imgur.com/c4iuq9V.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Police\",\"TtsZoopGuid\":\"5e7ba2d1-eb73-409d-9edd-a4b65f8f265e\"}",
@@ -4906,8 +4718,7 @@
               "FaceURL": "https://i.imgur.com/c4iuq9V.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Police\",\"TtsZoopGuid\":\"5e7ba2d1-eb73-409d-9edd-a4b65f8f265e\"}",
@@ -4933,8 +4744,7 @@
           "FaceURL": "https://i.imgur.com/c4iuq9V.jpg",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "DeckIDs": [

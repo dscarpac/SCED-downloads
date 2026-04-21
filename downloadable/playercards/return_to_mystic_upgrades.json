@@ -234,12 +234,7 @@
   "Name": "Custom_Model_Bag",
   "Nickname": "The Return to Mystic Upgrades",
   "Transform": {
-    "posX": 37.31374,
-    "posY": 1.48149908,
-    "posZ": 2.02567124,
-    "rotX": 1.07583574e-07,
-    "rotY": 270.03363,
-    "rotZ": -8.998488e-08,
+    "rotY": 270,
     "scaleX": 2.21,
     "scaleY": 0.46,
     "scaleZ": 2.42

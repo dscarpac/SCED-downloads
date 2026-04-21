@@ -72,8 +72,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/bu3pj77qmufv18tfgz7to/Winds-of-Destiny-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?rlkey=zawas3nhuuunme3ayhhhr3a1k&raw=1&cachebust=1744835818765",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"8b32eb09-f63b-4d1c-86a5-eebe772821f6\",\"id\":\"8b32eb09-f63b-4d1c-86a5-eebe772821f6\",\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Talent.\",\"cost\":0,\"willpowerIcons\":1,\"wildIcons\":2}",
@@ -100,8 +99,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/bu3pj77qmufv18tfgz7to/Winds-of-Destiny-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?rlkey=zawas3nhuuunme3ayhhhr3a1k&raw=1&cachebust=1744835818765",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"8b32eb09-f63b-4d1c-86a5-eebe772821f6\",\"id\":\"8b32eb09-f63b-4d1c-86a5-eebe772821f6\",\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Talent.\",\"cost\":0,\"willpowerIcons\":1,\"wildIcons\":2}",
@@ -128,8 +126,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/bu3pj77qmufv18tfgz7to/Winds-of-Destiny-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?rlkey=zawas3nhuuunme3ayhhhr3a1k&raw=1&cachebust=1744835818765",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"8b32eb09-f63b-4d1c-86a5-eebe772821f6\",\"id\":\"8b32eb09-f63b-4d1c-86a5-eebe772821f6\",\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Talent.\",\"cost\":0,\"willpowerIcons\":1,\"wildIcons\":2}",
@@ -156,8 +153,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/bu3pj77qmufv18tfgz7to/Winds-of-Destiny-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?rlkey=zawas3nhuuunme3ayhhhr3a1k&raw=1&cachebust=1744835818765",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"8b32eb09-f63b-4d1c-86a5-eebe772821f6\",\"id\":\"8b32eb09-f63b-4d1c-86a5-eebe772821f6\",\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Talent.\",\"cost\":0,\"willpowerIcons\":1,\"wildIcons\":2}",
@@ -192,8 +188,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/bu3pj77qmufv18tfgz7to/Winds-of-Destiny-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?rlkey=zawas3nhuuunme3ayhhhr3a1k&raw=1&cachebust=1744835818765",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "DeckIDs": [
@@ -307,19 +302,8 @@
   "LuaScriptState": "{\"ml\":{\"00b85a\":{\"lock\":false,\"pos\":{\"x\":37.073,\"y\":1.623,\"z\":70.91},\"rot\":{\"x\":0,\"y\":90,\"z\":0}},\"038f4e\":{\"lock\":false,\"pos\":{\"x\":-40.295,\"y\":1.534,\"z\":15.403},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"10dd82\":{\"lock\":false,\"pos\":{\"x\":-17.04,\"y\":1.534,\"z\":-7.65},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"2a9dcc\":{\"lock\":false,\"pos\":{\"x\":-10.814,\"y\":1.335,\"z\":10.305},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"3176ac\":{\"lock\":false,\"pos\":{\"x\":-10.699,\"y\":1.579,\"z\":7.491},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"360b2e\":{\"lock\":false,\"pos\":{\"x\":-3.929,\"y\":1.729,\"z\":5.72},\"rot\":{\"x\":0,\"y\":270,\"z\":180}},\"3f41dc\":{\"lock\":false,\"pos\":{\"x\":-43.414,\"y\":1.534,\"z\":-10.47},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"5e4560\":{\"lock\":false,\"pos\":{\"x\":-20.21,\"y\":1.534,\"z\":15.346},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"610995\":{\"lock\":false,\"pos\":{\"x\":-2.94,\"y\":1.618,\"z\":0.393},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"67ffc1\":{\"lock\":false,\"pos\":{\"x\":41.09,\"y\":1.526,\"z\":67.969},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"69f385\":{\"lock\":false,\"pos\":{\"x\":-43.44,\"y\":1.534,\"z\":7.65},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"6a0b1d\":{\"lock\":false,\"pos\":{\"x\":-16.992,\"y\":1.534,\"z\":10.279},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"6b7ba9\":{\"lock\":false,\"pos\":{\"x\":-2.183,\"y\":1.566,\"z\":15.974},\"rot\":{\"x\":0,\"y\":0,\"z\":0}},\"6cc2ce\":{\"lock\":false,\"pos\":{\"x\":-26.702,\"y\":1.56,\"z\":-1.295},\"rot\":{\"x\":0,\"y\":270,\"z\":180}},\"7757d6\":{\"lock\":false,\"pos\":{\"x\":-26.819,\"y\":1.579,\"z\":1.448},\"rot\":{\"x\":0,\"y\":270,\"z\":180}},\"780680\":{\"lock\":false,\"pos\":{\"x\":-23.64,\"y\":1.534,\"z\":-15.3},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"7a167a\":{\"lock\":false,\"pos\":{\"x\":1.694,\"y\":1.558,\"z\":14.242},\"rot\":{\"x\":0,\"y\":225,\"z\":0}},\"7a2a3c\":{\"lock\":false,\"pos\":{\"x\":12,\"y\":1.486,\"z\":48},\"rot\":{\"x\":0,\"y\":270,\"z\":360}},\"7a6449\":{\"lock\":false,\"pos\":{\"x\":-10.236,\"y\":1.579,\"z\":6.932},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"7e83ab\":{\"lock\":false,\"pos\":{\"x\":-23.64,\"y\":1.534,\"z\":15.3},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"84d70e\":{\"lock\":false,\"pos\":{\"x\":-43.44,\"y\":1.534,\"z\":-7.65},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"90b00d\":{\"lock\":false,\"pos\":{\"x\":12,\"y\":1.481,\"z\":60},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"90e046\":{\"lock\":false,\"pos\":{\"x\":-3.85,\"y\":1.597,\"z\":-10.39},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"91b7a1\":{\"lock\":false,\"pos\":{\"x\":-20.081,\"y\":1.534,\"z\":-15.409},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"95ac7a\":{\"lock\":false,\"pos\":{\"x\":-5.197,\"y\":1.618,\"z\":16.391},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"9ebd99\":{\"lock\":false,\"pos\":{\"x\":-2.94,\"y\":1.618,\"z\":-5.104},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"9fbab8\":{\"lock\":false,\"pos\":{\"x\":-36.84,\"y\":1.534,\"z\":15.3},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"aa6689\":{\"lock\":false,\"pos\":{\"x\":-40.432,\"y\":1.534,\"z\":-15.292},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"c89373\":{\"lock\":false,\"pos\":{\"x\":-43.329,\"y\":1.534,\"z\":10.491},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"d1beb1\":{\"lock\":false,\"pos\":{\"x\":-0.891,\"y\":1.597,\"z\":-3.966},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"e00002\":{\"lock\":false,\"pos\":{\"x\":41.306,\"y\":1.495,\"z\":73.246},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"e00003\":{\"lock\":false,\"pos\":{\"x\":-0.891,\"y\":1.597,\"z\":-7.128},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"e00004\":{\"lock\":false,\"pos\":{\"x\":41.222,\"y\":1.495,\"z\":70.371},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"e00005\":{\"lock\":false,\"pos\":{\"x\":-3.179,\"y\":1.597,\"z\":-3.966},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"e00020\":{\"lock\":false,\"pos\":{\"x\":-30.24,\"y\":1.534,\"z\":0},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"e0002d\":{\"lock\":false,\"pos\":{\"x\":-17.064,\"y\":1.534,\"z\":-10.48},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"e0002e\":{\"lock\":false,\"pos\":{\"x\":-36.84,\"y\":1.534,\"z\":0},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"e00035\":{\"lock\":false,\"pos\":{\"x\":-30.24,\"y\":1.534,\"z\":-7.65},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"e0004a\":{\"lock\":false,\"pos\":{\"x\":-30.24,\"y\":1.534,\"z\":7.65},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"e00059\":{\"lock\":false,\"pos\":{\"x\":-23.64,\"y\":1.534,\"z\":0},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"e09b1c\":{\"lock\":false,\"pos\":{\"x\":-17.04,\"y\":1.534,\"z\":7.65},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"ea0620\":{\"lock\":false,\"pos\":{\"x\":-36.84,\"y\":1.534,\"z\":-15.3},\"rot\":{\"x\":0,\"y\":270,\"z\":0}}},\"setupButton\":false}",
   "Name": "Custom_Model_Bag",
   "Nickname": "Wanda Maximoff, the Scarlet Witch",
-  "Rigidbody": {
-    "AngularDrag": 0.1,
-    "Drag": 0.1,
-    "Mass": 1.0,
-    "UseGravity": true
-  },
   "Transform": {
-    "posX": 33.389492,
-    "posY": 1.48149884,
-    "posZ": -2.93362761,
-    "rotX": -2.461044e-08,
-    "rotY": 269.9192,
-    "rotZ": -2.309614e-07,
+    "rotY": 270,
     "scaleX": 2.21,
     "scaleY": 0.46,
     "scaleZ": 2.42

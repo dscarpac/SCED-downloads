@@ -16,8 +16,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/z7jl3tdoiw66v6yza217f/Sly-Sludge-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?rlkey=mshb4qfppr6tt996c9mxnw6kc&raw=1&cachebust=1745352295389",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"65f21423-207b-4472-abf1-a8af50a28f56\",\"id\":\"65f21423-207b-4472-abf1-a8af50a28f56\",\"type\":\"Enemy\",\"traits\":\"Elite. Criminal. Humanoid. Smog.\",\"weakness\":true}",
@@ -43,8 +42,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/70wdoso78w6z7vjhhkf4h/Wind-Ring-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?rlkey=cude3ymxqfvbew3uwp2qr8blo&raw=1&cachebust=1747501423115",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"480d112c-c19f-49f6-b2d4-e3632605c6db\",\"id\":\"480d112c-c19f-49f6-b2d4-e3632605c6db\",\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Item. Relic. Planeteer.\",\"cost\":3,\"slot\":\"Hand\",\"intellectIcons\":1,\"wildIcons\":1}",
@@ -70,8 +68,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/70wdoso78w6z7vjhhkf4h/Wind-Ring-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?rlkey=cude3ymxqfvbew3uwp2qr8blo&raw=1&cachebust=1747501423115",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "2664": {
           "BackIsHidden": true,
@@ -79,8 +76,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/z7jl3tdoiw66v6yza217f/Sly-Sludge-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?rlkey=mshb4qfppr6tt996c9mxnw6kc&raw=1&cachebust=1745352295389",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "DeckIDs": [
@@ -112,8 +108,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/1xnu50jxwtfqka4gdi3qk/Rat-Army-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?rlkey=rugteq9do9608lqse6gk2r31e&raw=1&cachebust=1745351538152",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"cc9a3103-e7fd-4f28-9d23-0be3de260f72\",\"id\":\"cc9a3103-e7fd-4f28-9d23-0be3de260f72\",\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Creature. Humanoid.\"}",
@@ -139,8 +134,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/1xnu50jxwtfqka4gdi3qk/Rat-Army-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?rlkey=rugteq9do9608lqse6gk2r31e&raw=1&cachebust=1745351538152",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"cc9a3103-e7fd-4f28-9d23-0be3de260f72\",\"id\":\"cc9a3103-e7fd-4f28-9d23-0be3de260f72\",\"type\":\"Enemy\",\"class\":\"Mythos\",\"traits\":\"Creature. Humanoid.\"}",
@@ -166,8 +160,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/5zv2kteefxo3xxuk3vsf3/Verminous-Skumm-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?rlkey=lzh65jo1s0wp2x6g7wf6joxtu&raw=1&cachebust=1745382405856",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"af3da51e-31ee-4b16-add1-6e03bd6c2ac8\",\"id\":\"af3da51e-31ee-4b16-add1-6e03bd6c2ac8\",\"type\":\"Enemy\",\"traits\":\"Elite. Criminal. Creature. Toxics.\",\"weakness\":true}",
@@ -193,8 +186,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/nnike0wtpylp17ji8ajw2/Water-Ring-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?rlkey=er7ebppzmzxbpyz9ki79o8f4c&raw=1&cachebust=1747501428871",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"0d68d590-0b18-4c13-8e10-a39c96804c97\",\"id\":\"0d68d590-0b18-4c13-8e10-a39c96804c97\",\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Item. Relic. Planeteer.\",\"cost\":3,\"slot\":\"Hand\"}",
@@ -276,8 +268,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/1xnu50jxwtfqka4gdi3qk/Rat-Army-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?rlkey=rugteq9do9608lqse6gk2r31e&raw=1&cachebust=1745351538152",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1003": {
           "BackIsHidden": true,
@@ -285,8 +276,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/1xnu50jxwtfqka4gdi3qk/Rat-Army-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?rlkey=rugteq9do9608lqse6gk2r31e&raw=1&cachebust=1745351538152",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1004": {
           "BackIsHidden": true,
@@ -303,8 +293,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/nnike0wtpylp17ji8ajw2/Water-Ring-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?rlkey=er7ebppzmzxbpyz9ki79o8f4c&raw=1&cachebust=1747501428871",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "2693": {
           "BackIsHidden": true,
@@ -312,8 +301,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/5zv2kteefxo3xxuk3vsf3/Verminous-Skumm-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?rlkey=lzh65jo1s0wp2x6g7wf6joxtu&raw=1&cachebust=1745382405856",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "2696": {
           "BackIsHidden": true,
@@ -416,8 +404,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/lhoiic5upclk1sdw28bi6/Looten-Plunder-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?rlkey=ygy3tqsu99rkgv8566k3odlxv&raw=1&cachebust=1745351548363",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"6531d804-34ad-4b1b-bece-27c234556cef\",\"id\":\"6531d804-34ad-4b1b-bece-27c234556cef\",\"type\":\"Enemy\",\"traits\":\"Elite. Criminal. Humanoid. Deforestation.\",\"weakness\":true}",
@@ -443,8 +430,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/b4cu5qrwswd39eklulffv/Earth-Ring-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?rlkey=hsklq4jdgl5qi7le8f6qgqehk&raw=1&cachebust=1745351547258",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"2890ee59-0e7a-4959-bc1f-8b801999b7b9\",\"id\":\"2890ee59-0e7a-4959-bc1f-8b801999b7b9\",\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Item. Relic. Planeteer.\",\"cost\":3,\"slot\":\"Hand\",\"wildIcons\":2}",
@@ -470,8 +456,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/b4cu5qrwswd39eklulffv/Earth-Ring-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?rlkey=hsklq4jdgl5qi7le8f6qgqehk&raw=1&cachebust=1745351547258",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1010": {
           "BackIsHidden": true,
@@ -479,8 +464,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/lhoiic5upclk1sdw28bi6/Looten-Plunder-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?rlkey=ygy3tqsu99rkgv8566k3odlxv&raw=1&cachebust=1745351548363",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "DeckIDs": [
@@ -541,8 +525,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/nsuwjiaweziiye5newxoz/Duke-Nukem-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?rlkey=24dpfyrhzowtvld8hakt6ffc6&raw=1&cachebust=1747501435022",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"746cbc1c-83c9-4575-94d3-0e7717e95103\",\"id\":\"746cbc1c-83c9-4575-94d3-0e7717e95103\",\"type\":\"Enemy\",\"traits\":\"Elite. Criminal. Humanoid. Radiation.\",\"weakness\":true}",
@@ -568,8 +551,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/gkidr1xc0kwksml8wup3t/Burn-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?rlkey=nyye1f22q6sp1hyaor99qe4xd&raw=1&cachebust=1747501430125",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"80260c19-8b1b-470d-82f2-bbe3b1c19818\",\"id\":\"80260c19-8b1b-470d-82f2-bbe3b1c19818\",\"type\":\"Treachery\",\"class\":\"Mythos\",\"traits\":\"Hazard.\"}",
@@ -595,8 +577,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/d4imgrlv7jbzp1n3e4d3x/Fire-Ring-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?rlkey=jkfpgdrg57zy1gk4jnmomz1zg&raw=1&cachebust=1747501433729",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"d3d98b5a-8777-4335-9324-fb9439952eca\",\"id\":\"d3d98b5a-8777-4335-9324-fb9439952eca\",\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Item. Relic. Planeteer.\",\"cost\":3,\"slot\":\"Hand\",\"combatIcons\":1,\"wildIcons\":1}",
@@ -622,8 +603,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/gkidr1xc0kwksml8wup3t/Burn-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?rlkey=nyye1f22q6sp1hyaor99qe4xd&raw=1&cachebust=1747501430125",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1022": {
           "BackIsHidden": true,
@@ -631,8 +611,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/nsuwjiaweziiye5newxoz/Duke-Nukem-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?rlkey=24dpfyrhzowtvld8hakt6ffc6&raw=1&cachebust=1747501435022",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1023": {
           "BackIsHidden": true,
@@ -640,8 +619,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/d4imgrlv7jbzp1n3e4d3x/Fire-Ring-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?rlkey=jkfpgdrg57zy1gk4jnmomz1zg&raw=1&cachebust=1747501433729",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "DeckIDs": [
@@ -671,8 +649,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/xc0j06njqu8zxrqdnk7t2/Dr-Blight-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?rlkey=v8kkfgffn6bbfi7ak7u58j8t4&raw=1&cachebust=1745349882844",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"79eee99c-00e5-4f79-bfdd-a0369353498c\",\"id\":\"79eee99c-00e5-4f79-bfdd-a0369353498c\",\"type\":\"Enemy\",\"traits\":\"Elite. Criminal. Humanoid. Hate.\",\"weakness\":true}",
@@ -698,8 +675,7 @@
               "FaceURL": "https://www.dropbox.com/scl/fi/p6cfhe5nc8pha8kr8su3s/Heart-Ring-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?rlkey=6pia2mx6631frgpqpx7x35hid&raw=1&cachebust=1745349885197",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"49f07a45-25f0-42fc-8f02-6c40c81f82f0\",\"id\":\"49f07a45-25f0-42fc-8f02-6c40c81f82f0\",\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Item. Relic.  Planeteer.\",\"cost\":3,\"slot\":\"Hand\",\"willpowerIcons\":1,\"wildIcons\":1}",
@@ -725,8 +701,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/xc0j06njqu8zxrqdnk7t2/Dr-Blight-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?rlkey=v8kkfgffn6bbfi7ak7u58j8t4&raw=1&cachebust=1745349882844",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1018": {
           "BackIsHidden": true,
@@ -734,8 +709,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/p6cfhe5nc8pha8kr8su3s/Heart-Ring-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?rlkey=6pia2mx6631frgpqpx7x35hid&raw=1&cachebust=1745349885197",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "DeckIDs": [
@@ -765,8 +739,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/qw9m6z74c7r3cfqp8r10e/Kwame-Ally-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?rlkey=8yih26n6czdnnkr47cs8dn0hv&raw=1&cachebust=1745349987971",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "Description": "The Earth",
@@ -852,8 +825,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/3kxi9n9kthdsm4gzw7u7z/Gi-Ally-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?rlkey=ed91tcce69m5i2j2sy0lv42t5&raw=1&cachebust=1747164909632",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "Description": "The Water",
@@ -909,8 +881,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/fbnx0458n1x2d53lskya4/Let-Our-Powers-Combine...-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?rlkey=vkt0h1h2r1qev4vmdzri7q85h&raw=1&cachebust=1747164908105",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"TtsZoopGuid\":\"a88dc248-35b4-4d79-9374-9b8424cb0051\",\"id\":\"a88dc248-35b4-4d79-9374-9b8424cb0051\",\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Pact. Planeteer.\",\"cost\":0,\"level\":0,\"uses\":[{\"count\":2,\"token\":\"resource\",\"type\":\"Charge\"}]}",
@@ -937,8 +908,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/oyze2y1tdpww1y30x4177/Linka-Ally-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?rlkey=pk20beka3lc7knknqqcuxk6v0&raw=1&cachebust=1745349992427",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "Description": "The Wind",
@@ -966,8 +936,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/y5y3x1coxterkyhu7hnm1/Ma-Ti-Ally-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?rlkey=ur7lr19emza5aqep0h8avirxf&raw=1&cachebust=1745866285317",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "Description": "The Heart",
@@ -995,8 +964,7 @@
           "FaceURL": "https://www.dropbox.com/scl/fi/pleqiu4e4pduvivdj5ci0/Wheeler-Ally-resolution-300-compressionquality-1.00-bleed-0.0-Front.png?rlkey=4kmigo7yk9y9k3r79gx8lt144&raw=1&cachebust=1747501461387",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "Description": "The Fire",
@@ -1209,19 +1177,8 @@
   "LuaScriptState": "{\"ml\":{\"038f4e\":{\"lock\":false,\"pos\":{\"x\":-40.295,\"y\":1.534,\"z\":15.403},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"045322\":{\"lock\":false,\"pos\":{\"x\":40.535,\"y\":1.512,\"z\":70.52},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"10dd82\":{\"lock\":false,\"pos\":{\"x\":-17.04,\"y\":1.534,\"z\":-7.65},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"14ea7a\":{\"lock\":false,\"pos\":{\"x\":40.597,\"y\":1.526,\"z\":62.983},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"1ca7cc\":{\"lock\":false,\"pos\":{\"x\":43.82,\"y\":1.495,\"z\":86.286},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"2a9dcc\":{\"lock\":false,\"pos\":{\"x\":-10.814,\"y\":1.335,\"z\":10.305},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"2b06f0\":{\"lock\":false,\"pos\":{\"x\":42.969,\"y\":1.507,\"z\":64.31},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"3176ac\":{\"lock\":false,\"pos\":{\"x\":-10.699,\"y\":1.579,\"z\":7.491},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"360b2e\":{\"lock\":false,\"pos\":{\"x\":-3.929,\"y\":1.729,\"z\":5.72},\"rot\":{\"x\":0,\"y\":270,\"z\":180}},\"3c7a3e\":{\"lock\":false,\"pos\":{\"x\":43.626,\"y\":1.495,\"z\":70.677},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"3d7276\":{\"lock\":false,\"pos\":{\"x\":42.77,\"y\":1.506,\"z\":64.437},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"3f41dc\":{\"lock\":false,\"pos\":{\"x\":-43.414,\"y\":1.534,\"z\":-10.47},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"525589\":{\"lock\":false,\"pos\":{\"x\":40.816,\"y\":1.512,\"z\":86.291},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"5e4560\":{\"lock\":false,\"pos\":{\"x\":-20.21,\"y\":1.534,\"z\":15.346},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"610995\":{\"lock\":false,\"pos\":{\"x\":-2.94,\"y\":1.618,\"z\":0.393},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"69f385\":{\"lock\":false,\"pos\":{\"x\":-43.44,\"y\":1.534,\"z\":7.65},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"6a0b1d\":{\"lock\":false,\"pos\":{\"x\":-16.992,\"y\":1.534,\"z\":10.279},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"6b7ba9\":{\"lock\":false,\"pos\":{\"x\":-2.183,\"y\":1.566,\"z\":15.974},\"rot\":{\"x\":0,\"y\":0,\"z\":0}},\"6cc2ce\":{\"lock\":false,\"pos\":{\"x\":-26.702,\"y\":1.56,\"z\":-1.295},\"rot\":{\"x\":0,\"y\":270,\"z\":180}},\"6cfec2\":{\"lock\":false,\"pos\":{\"x\":42.816,\"y\":1.508,\"z\":63.548},\"rot\":{\"x\":0,\"y\":270,\"z\":360}},\"71c9d7\":{\"lock\":false,\"pos\":{\"x\":43.505,\"y\":1.495,\"z\":54.442},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"7757d6\":{\"lock\":false,\"pos\":{\"x\":-26.819,\"y\":1.579,\"z\":1.448},\"rot\":{\"x\":0,\"y\":270,\"z\":180}},\"780680\":{\"lock\":false,\"pos\":{\"x\":-23.64,\"y\":1.534,\"z\":-15.3},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"78da80\":{\"lock\":false,\"pos\":{\"x\":40.59,\"y\":1.517,\"z\":78.117},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"7a167a\":{\"lock\":false,\"pos\":{\"x\":1.694,\"y\":1.558,\"z\":14.242},\"rot\":{\"x\":0,\"y\":225,\"z\":0}},\"7a2a3c\":{\"lock\":false,\"pos\":{\"x\":12,\"y\":1.486,\"z\":48},\"rot\":{\"x\":0,\"y\":270,\"z\":360}},\"7a6449\":{\"lock\":false,\"pos\":{\"x\":-10.236,\"y\":1.579,\"z\":6.932},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"7e83ab\":{\"lock\":false,\"pos\":{\"x\":-23.64,\"y\":1.534,\"z\":15.3},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"84d70e\":{\"lock\":false,\"pos\":{\"x\":-43.44,\"y\":1.534,\"z\":-7.65},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"90b00d\":{\"lock\":false,\"pos\":{\"x\":12,\"y\":1.481,\"z\":60},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"90e046\":{\"lock\":false,\"pos\":{\"x\":-3.85,\"y\":1.597,\"z\":-10.39},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"91b7a1\":{\"lock\":false,\"pos\":{\"x\":-20.081,\"y\":1.534,\"z\":-15.409},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"95ac7a\":{\"lock\":false,\"pos\":{\"x\":-5.197,\"y\":1.618,\"z\":16.391},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"973594\":{\"lock\":false,\"pos\":{\"x\":40.554,\"y\":1.512,\"z\":54.432},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"9ebd99\":{\"lock\":false,\"pos\":{\"x\":-2.94,\"y\":1.618,\"z\":-5.104},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"9fbab8\":{\"lock\":false,\"pos\":{\"x\":-36.84,\"y\":1.534,\"z\":15.3},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"aa6689\":{\"lock\":false,\"pos\":{\"x\":-40.432,\"y\":1.534,\"z\":-15.292},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"aafab2\":{\"lock\":false,\"pos\":{\"x\":30.985,\"y\":1.495,\"z\":73.628},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"c89373\":{\"lock\":false,\"pos\":{\"x\":-43.329,\"y\":1.534,\"z\":10.491},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"d1beb1\":{\"lock\":false,\"pos\":{\"x\":-0.891,\"y\":1.597,\"z\":-3.966},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"d5d071\":{\"lock\":false,\"pos\":{\"x\":43.559,\"y\":1.495,\"z\":78.416},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"e00002\":{\"lock\":false,\"pos\":{\"x\":43.678,\"y\":1.495,\"z\":63.122},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"e00003\":{\"lock\":false,\"pos\":{\"x\":43.624,\"y\":1.495,\"z\":62.985},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"e00004\":{\"lock\":false,\"pos\":{\"x\":30.983,\"y\":1.51,\"z\":67.494},\"rot\":{\"x\":0,\"y\":270,\"z\":1}},\"e00005\":{\"lock\":false,\"pos\":{\"x\":46.922,\"y\":1.495,\"z\":62.983},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"e00006\":{\"lock\":false,\"pos\":{\"x\":31.08,\"y\":1.495,\"z\":75.895},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"e00007\":{\"lock\":false,\"pos\":{\"x\":30.984,\"y\":1.51,\"z\":69.539},\"rot\":{\"x\":0,\"y\":270,\"z\":1}},\"e00008\":{\"lock\":false,\"pos\":{\"x\":30.983,\"y\":1.51,\"z\":65.448},\"rot\":{\"x\":0,\"y\":270,\"z\":1}},\"e00009\":{\"lock\":false,\"pos\":{\"x\":30.985,\"y\":1.51,\"z\":71.586},\"rot\":{\"x\":0,\"y\":270,\"z\":1}},\"e0000e\":{\"lock\":false,\"pos\":{\"x\":43.979,\"y\":1.495,\"z\":86.291},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"e00010\":{\"lock\":false,\"pos\":{\"x\":47.141,\"y\":1.495,\"z\":86.291},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"e00016\":{\"lock\":false,\"pos\":{\"x\":43.697,\"y\":1.495,\"z\":70.52},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"e00018\":{\"lock\":false,\"pos\":{\"x\":46.86,\"y\":1.495,\"z\":70.52},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"e0001e\":{\"lock\":false,\"pos\":{\"x\":43.717,\"y\":1.495,\"z\":54.432},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"e00020\":{\"lock\":false,\"pos\":{\"x\":46.879,\"y\":1.495,\"z\":54.432},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"e00026\":{\"lock\":false,\"pos\":{\"x\":43.755,\"y\":1.495,\"z\":78.117},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"e00028\":{\"lock\":false,\"pos\":{\"x\":46.915,\"y\":1.495,\"z\":78.117},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"e0002d\":{\"lock\":false,\"pos\":{\"x\":-17.064,\"y\":1.534,\"z\":-10.48},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"e0002e\":{\"lock\":false,\"pos\":{\"x\":-36.84,\"y\":1.534,\"z\":0},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"e00035\":{\"lock\":false,\"pos\":{\"x\":-30.24,\"y\":1.534,\"z\":-7.65},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"e0004a\":{\"lock\":false,\"pos\":{\"x\":-30.24,\"y\":1.534,\"z\":7.65},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"e00059\":{\"lock\":false,\"pos\":{\"x\":-23.64,\"y\":1.534,\"z\":0},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"e09b1c\":{\"lock\":false,\"pos\":{\"x\":-17.04,\"y\":1.534,\"z\":7.65},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"e4ef1c\":{\"lock\":false,\"pos\":{\"x\":34.05,\"y\":1.495,\"z\":70.617},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"e79823\":{\"lock\":false,\"pos\":{\"x\":36.344,\"y\":1.495,\"z\":70.568},\"rot\":{\"x\":0,\"y\":270,\"z\":0}},\"ea0620\":{\"lock\":false,\"pos\":{\"x\":-36.84,\"y\":1.534,\"z\":-15.3},\"rot\":{\"x\":0,\"y\":270,\"z\":0}}},\"setupButton\":false}",
   "Name": "Custom_Model_Bag",
   "Nickname": "Captain Planet and the Planeteers",
-  "Rigidbody": {
-    "AngularDrag": 0.1,
-    "Drag": 0.1,
-    "Mass": 1.0,
-    "UseGravity": true
-  },
   "Transform": {
-    "posX": 44.9690933,
-    "posY": 1.481499,
-    "posZ": -17.541708,
-    "rotX": 3.15123962e-08,
-    "rotY": 269.9679,
-    "rotZ": -9.551866e-08,
+    "rotY": 270,
     "scaleX": 2.21,
     "scaleY": 0.46,
     "scaleZ": 2.42

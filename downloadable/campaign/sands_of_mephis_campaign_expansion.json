@@ -372,8 +372,7 @@
                       "FaceURL": "https://github.com/ArkhamDotCards/thesandsofmemphis/blob/main/img/enUS/no-bleed/104a.png?raw=true",
                       "NumHeight": 1,
                       "NumWidth": 1,
-                      "Type": 0,
-                      "UniqueBack": true
+                      "Type": 0
                     }
                   },
                   "GMNotes": "{\n  \"id\": \"MB104\",\n  \"class\": \"Neutral\",\n  \"type\": \"Asset\",\n  \"traits\": \"Ally. Mercenary.\",\n  \"permanent\": true,\n  \"cycle\": \"The Sands of Memphis\"\n}",
@@ -400,8 +399,7 @@
                       "FaceURL": "https://github.com/ArkhamDotCards/thesandsofmemphis/blob/main/img/enUS/no-bleed/103a.png?raw=true",
                       "NumHeight": 1,
                       "NumWidth": 1,
-                      "Type": 0,
-                      "UniqueBack": true
+                      "Type": 0
                     }
                   },
                   "GMNotes": "{\n  \"id\": \"MB103\",\n  \"class\": \"Neutral\",\n  \"type\": \"Asset\",\n  \"traits\": \"Ally. Bystander.\",\n  \"permanent\": true,\n  \"cycle\": \"The Sands of Memphis\"\n}",
@@ -428,8 +426,7 @@
                       "FaceURL": "https://github.com/ArkhamDotCards/thesandsofmemphis/blob/main/img/enUS/no-bleed/102a.png?raw=true",
                       "NumHeight": 1,
                       "NumWidth": 1,
-                      "Type": 0,
-                      "UniqueBack": true
+                      "Type": 0
                     }
                   },
                   "GMNotes": "{\n  \"id\": \"MB102\",\n  \"class\": \"Neutral\",\n  \"type\": \"Asset\",\n  \"traits\": \"Ally. Miskatonic. Scholar.\",\n  \"permanent\": true,\n  \"cycle\": \"The Sands of Memphis\"\n}",
@@ -455,8 +452,7 @@
                   "FaceURL": "https://github.com/ArkhamDotCards/thesandsofmemphis/blob/main/img/enUS/no-bleed/103a.png?raw=true",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 },
                 "87030": {
                   "BackIsHidden": true,
@@ -464,8 +460,7 @@
                   "FaceURL": "https://github.com/ArkhamDotCards/thesandsofmemphis/blob/main/img/enUS/no-bleed/102a.png?raw=true",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 },
                 "87031": {
                   "BackIsHidden": true,
@@ -473,8 +468,7 @@
                   "FaceURL": "https://github.com/ArkhamDotCards/thesandsofmemphis/blob/main/img/enUS/no-bleed/104a.png?raw=true",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "DeckIDs": [
@@ -555,8 +549,7 @@
               "FaceURL": "https://github.com/ArkhamDotCards/thesandsofmemphis/blob/main/img/enUS/no-bleed/101a.png?raw=true",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\n  \"id\": \"MB101\",\n  \"class\": \"Neutral\",\n  \"type\": \"Asset\",\n  \"traits\": \"Ally. Miskatonic. Scholar.\",\n  \"permanent\": true,\n  \"cycle\": \"The Sands of Memphis\"\n}",
@@ -6754,8 +6747,7 @@
                   "FaceURL": "https://pbs.twimg.com/media/F6a56BXa0AAbDdb?format=jpg&name=4096x4096",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\n  \"id\": \"MBXXX\",\n  \"class\": \"Neutral\",\n  \"type\": \"Asset\",\n  \"traits\": \"Item. Charm.\",\n  \"willpowerIcons\": 1,\n  \"intellectIcons\": 1,\n  \"cycle\": \"The Sands of Memphis\"\n}",
@@ -6783,8 +6775,7 @@
                   "FaceURL": "https://pbs.twimg.com/media/F6a57QPbgAAaji3?format=jpg&name=4096x4096",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\n  \"id\": \"MBXXX\",\n  \"class\": \"Neutral\",\n  \"type\": \"Asset\",\n  \"traits\": \"Ally. Automata.\",\n  \"willpowerIcons\": 1,\n  \"combatIcons\": 1,\n  \"cycle\": \"The Sands of Memphis\"\n}",
@@ -6812,8 +6803,7 @@
                   "FaceURL": "https://pbs.twimg.com/media/F6a56rrasAAOiXx?format=jpg&name=4096x4096",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\n  \"id\": \"MBXXX\",\n  \"class\": \"Neutral\",\n  \"type\": \"Asset\",\n  \"traits\": \"Item. Supply.\",\n  \"wildIcons\": 1,\n  \"cycle\": \"The Sands of Memphis\"\n}",
@@ -6841,8 +6831,7 @@
                   "FaceURL": "https://pbs.twimg.com/media/F6a55d_aEAA2Jei?format=jpg&name=4096x4096",
                   "NumHeight": 1,
                   "NumWidth": 1,
-                  "Type": 0,
-                  "UniqueBack": true
+                  "Type": 0
                 }
               },
               "GMNotes": "{\n  \"id\": \"MBXXX\",\n  \"class\": \"Neutral\",\n  \"type\": \"Asset\",\n  \"traits\": \"Item. Charm. Occult.\",\n  \"intellectIcons\": 1,\n  \"agilityIcons\": 1,\n  \"cycle\": \"The Sands of Memphis\"\n}",
@@ -6869,8 +6858,7 @@
               "FaceURL": "https://pbs.twimg.com/media/F6a55d_aEAA2Jei?format=jpg&name=4096x4096",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "87033": {
               "BackIsHidden": true,
@@ -6878,8 +6866,7 @@
               "FaceURL": "https://pbs.twimg.com/media/F6a56rrasAAOiXx?format=jpg&name=4096x4096",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "87034": {
               "BackIsHidden": true,
@@ -6887,8 +6874,7 @@
               "FaceURL": "https://pbs.twimg.com/media/F6a57QPbgAAaji3?format=jpg&name=4096x4096",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             },
             "87035": {
               "BackIsHidden": true,
@@ -6896,8 +6882,7 @@
               "FaceURL": "https://pbs.twimg.com/media/F6a56BXa0AAbDdb?format=jpg&name=4096x4096",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "DeckIDs": [

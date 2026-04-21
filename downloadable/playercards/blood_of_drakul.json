@@ -363,8 +363,7 @@
               "FaceURL": "https://i.imgur.com/s0f5lcF.png",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\n  \"id\": \"MD014\",\n  \"type\": \"Asset\",\n  \"traits\": \"Ally. Summon. Demon.\",\n  \"weakness\": true,\n  \"cycle\": \"The Blood of Drakul\"\n}",
@@ -391,8 +390,7 @@
               "FaceURL": "https://i.imgur.com/soFSY3o.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\n  \"id\": \"MD013\",\n  \"type\": \"Asset\",\n  \"traits\": \"Item. Relic. Occult. Cursed.\",\n  \"cost\": 2,\n  \"wildIcons\": 2,\n  \"cycle\": \"The Ghosts of Onigawa\"\n}",
@@ -446,8 +444,7 @@
               "FaceURL": "https://i.imgur.com/m7EBmAB.png",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\n  \"id\": \"MD012\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Curse.\",\n  \"weakness\": true,\n  \"cycle\": \"The Blood of Drakul\"\n}",
@@ -473,8 +470,7 @@
               "FaceURL": "https://i.imgur.com/khgupRh.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\n  \"id\": \"MD011\",\n  \"type\": \"Asset\",\n  \"traits\": \"Ally. Human.\",\n  \"cost\": 3,\n  \"willpowerIcons\": 1,\n  \"combatIcons\": 1,\n  \"wildIcons\": 1,\n  \"cycle\": \"The Blood of Drakul\"\n}",
@@ -528,8 +524,7 @@
               "FaceURL": "https://i.imgur.com/i9CMK3a.png",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\n  \"id\": \"MD010\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Blunder.\",\n  \"weakness\": true,\n  \"cycle\": \"The Blood of Drakul\"\n}",
@@ -555,8 +550,7 @@
               "FaceURL": "https://i.imgur.com/cSEu7CV.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\n  \"id\": \"MD009\",\n  \"type\": \"Asset\",\n  \"traits\": \"Tactic.\",\n  \"cost\": 2,\n  \"willpowerIcons\": 1,\n  \"intellectIcons\": 1,\n  \"cycle\": \"The Blood of Drakul\"\n}",
@@ -610,8 +604,7 @@
               "FaceURL": "https://i.imgur.com/nZIidOe.png",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\n  \"id\": \"MD008\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Madness.\",\n  \"weakness\": true,\n  \"cycle\": \"The Blood of Drakul\"\n}",
@@ -637,8 +630,7 @@
               "FaceURL": "https://i.imgur.com/RyJQKH4.png",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\n  \"id\": \"MD007\",\n  \"type\": \"Asset\",\n  \"traits\": \"Item. Relic. Weapon. Melee.\",\n  \"cost\": 4,\n  \"willpowerIcons\": 1,\n  \"combatIcons\": 1,\n  \"wildIcons\": 1,\n  \"cycle\": \"The Blood of Drakul\"\n}",
@@ -692,8 +684,7 @@
               "FaceURL": "https://i.imgur.com/2GZjRbC.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\n  \"id\": \"MD016\",\n  \"type\": \"Skill\",\n  \"traits\": \"Innate.\",\n  \"combatIcons\": 2,\n  \"agilityIcons\": 2,\n  \"cycle\": \"The Blood of Drakul\"\n}",
@@ -767,8 +758,7 @@
               "FaceURL": "https://i.imgur.com/lum4dRF.png",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\n  \"id\": \"MD019\",\n  \"class\": \"Mythos\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Blunder.\",\n  \"weakness\": true,\n  \"cycle\": \"The Blood of Drakul\"\n}",
@@ -794,8 +784,7 @@
               "FaceURL": "https://i.imgur.com/6ozIYgh.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\n  \"id\": \"MD018\",\n  \"type\": \"Skill\",\n  \"traits\": \"Innate.\",\n  \"wildIcons\": 3,\n  \"cycle\": \"The Blood of Drakul\"\n}",
@@ -821,8 +810,7 @@
               "FaceURL": "https://i.imgur.com/I9oMESW.jpg",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\n  \"id\": \"MD017\",\n  \"class\": \"Neutral\",\n  \"type\": \"Asset\",\n  \"traits\": \"Pact. Cursed.\",\n  \"permanent\": true,\n  \"cycle\": \"The Blood of Drakul\"\n}",

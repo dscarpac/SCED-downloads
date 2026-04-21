@@ -1324,8 +1324,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1978798788284225210/F7A714133AE35108AC6CD6842033F557D0DF1978/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GUID": "0fa52a",
@@ -1370,8 +1369,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1978798788284227299/C2E61F42D9623EB38CD7AFCBCA24780BB480A1BF/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GUID": "25ad04",
@@ -1393,8 +1391,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1978798788284221392/20F0D711FD02B36CE0CE082475F29351AE785A9A/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GUID": "30b323",
@@ -1416,8 +1413,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1978798788284212494/6C2A20A07BB9DC3F88B08ECDB63E36CE710E9FC4/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GUID": "388e95",
@@ -1439,8 +1435,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1978798788284227966/29108C47BC3964CC441FDC189D9FE69BF602AA94/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GUID": "435303",
@@ -1485,8 +1480,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1978798788284226614/FAC5A25F59EBC16E3E9493C10B9D852533DE2A7E/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GUID": "4ea2df",
@@ -1508,8 +1502,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1978798788284216118/7A163C021ABD48E0A9F0125646F4F81093CD6A3F/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GUID": "600d22",
@@ -1531,8 +1524,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1978798788284220763/C25BC505A818FA2119D18D21B0A4B26A52F57B1E/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GUID": "65a5e8",
@@ -1554,8 +1546,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1978798788284220068/E5CC55A9FC2C69DDE81F37605DA1B763BB492805/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GUID": "722552",
@@ -1577,8 +1568,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1978798788284225813/E0A6417C5E08A53F835D4B36D03FAD20454997C3/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GUID": "9dc573",
@@ -1600,8 +1590,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1978798788284222140/F159BD31866E1C08E7DEA8D5066D46E2717A6144/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GUID": "ad44ab",
@@ -1623,8 +1612,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1978798788284219277/D52A504B7E4C3EB3FFB2E14221EE65504B623EFF/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GUID": "f00368",
@@ -1646,8 +1634,7 @@
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1978798788284228588/66BB1A5E51740BA5141C0345E8E7D3DB63241EF9/",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GUID": "f82324",
@@ -4341,14 +4328,9 @@
   "Name": "Custom_Model_Bag",
   "Nickname": "Battle Goes On",
   "Transform": {
-    "posX": 33.76239,
-    "posY": 1.49999976,
-    "posZ": 42.2307968,
-    "rotX": 5.566701e-08,
-    "rotY": 270.0,
-    "rotZ": -4.967483e-07,
-    "scaleX": 2.17743635,
-    "scaleY": 0.453221977,
-    "scaleZ": 2.38434219
+    "rotY": 270,
+    "scaleX": 2.177,
+    "scaleY": 0.453,
+    "scaleZ": 2.384
   }
 }

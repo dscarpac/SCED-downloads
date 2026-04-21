@@ -90,8 +90,7 @@
           "FaceURL": "https://i.ibb.co/SPcGx6h/dcedd78d56fc.png",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"type\":\"Event\",\"class\":\"Neutral\",\"traits\":\"Tactic. Spirit\",\"cost\":1,\"agilityIcons\":1,\"intellectIcons\":1,\"wildIcons\":1,\"TtsZoopGuid\":\"a4a870a2-cc9a-460a-91f9-f4408df28948\",\"id\":\"a4a870a2-cc9a-460a-91f9-f4408df28948\"}",
@@ -117,8 +116,7 @@
           "FaceURL": "https://i.ibb.co/8Xzy6TT/0f90ed24dbf7.png",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"TtsZoopGuid\":\"7123dc2c-1ec6-4f3f-8bff-70446af1c5bd\",\"type\":\"Enemy\",\"traits\":\"Construct. KCCO\",\"weakness\":true,\"id\":\"7123dc2c-1ec6-4f3f-8bff-70446af1c5bd\"}",
@@ -144,8 +142,7 @@
           "FaceURL": "https://i.ibb.co/qFhrTmp/98bb51ad24c8.png",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"TtsZoopGuid\":\"f24e65b1-d15f-4e33-9cea-b95b181e7b5f\",\"type\":\"Enemy\",\"traits\":\"Humanoid. Abomination\",\"weakness\":true,\"id\":\"f24e65b1-d15f-4e33-9cea-b95b181e7b5f\"}",
@@ -173,8 +170,7 @@
               "FaceURL": "https://i.ibb.co/Y2Q0F4v/56bebe8be413.png",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"9f001b98-c0ce-4808-ad79-b10b04ab310c\",\"type\":\"Asset\",\"class\":\"Neutral\",\"traits\":\"Item. Weapon. Firearm. Science\",\"combatIcons\":1,\"intellectIcons\":1,\"wildIcons\":1,\"cost\":1,\"id\":\"9f001b98-c0ce-4808-ad79-b10b04ab310c\"}",
@@ -201,8 +197,7 @@
               "FaceURL": "https://i.ibb.co/7NqtsPn/eb28004de942.png",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "Description": "Memento of a Former Comrade",
@@ -229,8 +224,7 @@
           "FaceURL": "https://i.ibb.co/Y2Q0F4v/56bebe8be413.png",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "2701": {
           "BackIsHidden": true,
@@ -238,8 +232,7 @@
           "FaceURL": "https://i.ibb.co/7NqtsPn/eb28004de942.png",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "DeckIDs": [
@@ -386,8 +379,7 @@
               "FaceURL": "https://i.ibb.co/mq8hq4Z/59a90fba0e98.png",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "Description": "Pipe Hitters SBR",
@@ -415,8 +407,7 @@
               "FaceURL": "https://i.ibb.co/q7kVkny/c357ded787a1.png",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "Description": "Mega Arms SPR",
@@ -443,8 +434,7 @@
           "FaceURL": "https://i.ibb.co/q7kVkny/c357ded787a1.png",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "2695": {
           "BackIsHidden": true,
@@ -452,8 +442,7 @@
           "FaceURL": "https://i.ibb.co/mq8hq4Z/59a90fba0e98.png",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "DeckIDs": [
@@ -484,8 +473,7 @@
           "FaceURL": "https://i.ibb.co/nRMKm6M/81cc06fd7a3b.png",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"TtsZoopGuid\":\"8cbf3e83-9ac3-4858-a01c-c12142721ea7\",\"type\":\"Treachery\",\"traits\":\"Curse\",\"weakness\":true,\"id\":\"8cbf3e83-9ac3-4858-a01c-c12142721ea7\"}",
@@ -511,8 +499,7 @@
           "FaceURL": "https://i.ibb.co/YX47ssq/81b0a67c77a3.png",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"TtsZoopGuid\":\"8eb5da9d-ef3a-4694-b15a-c8374e6edc7d\",\"type\":\"Treachery\",\"traits\":\"Hazard\",\"weakness\":true,\"id\":\"8eb5da9d-ef3a-4694-b15a-c8374e6edc7d\"}",
@@ -540,8 +527,7 @@
               "FaceURL": "https://i.ibb.co/MBMGjgk/9a64a2df64a2.png",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"a9aacf50-ccb2-485b-af53-7bbf066b1fc4\",\"type\":\"Event\",\"class\":\"Neutral\",\"traits\":\"Tactic\",\"combatIcons\":1,\"willpowerIcons\":1,\"wildIcons\":1,\"id\":\"a9aacf50-ccb2-485b-af53-7bbf066b1fc4\"}",
@@ -567,8 +553,7 @@
               "FaceURL": "https://i.ibb.co/yqK7MCM/b7a94c7a7173.png",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"8d073516-5414-464d-a2d1-a1f57b01e555\",\"type\":\"Asset\",\"permanent\":true,\"class\":\"Neutral\",\"traits\":\"Item. Tool\",\"id\":\"8d073516-5414-464d-a2d1-a1f57b01e555\"}",
@@ -596,8 +581,7 @@
           "FaceURL": "https://i.ibb.co/yqK7MCM/b7a94c7a7173.png",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "1013": {
           "BackIsHidden": true,
@@ -605,8 +589,7 @@
           "FaceURL": "https://i.ibb.co/MBMGjgk/9a64a2df64a2.png",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "DeckIDs": [
@@ -750,8 +733,7 @@
           "FaceURL": "https://i.ibb.co/T0whHsw/fdc281171c15.png",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "GMNotes": "{\"TtsZoopGuid\":\"68d4a537-f189-4c55-b9b8-c0aa392a09f0\",\"type\":\"Asset\",\"uses\":[{\"count\":5,\"token\":\"resource\",\"type\":\"Ammo\"}],\"class\":\"Neutral\",\"traits\":\"Talent\",\"agilityIcons\":1,\"combatIcons\":1,\"wildIcons\":1,\"cost\":3,\"id\":\"68d4a537-f189-4c55-b9b8-c0aa392a09f0\"}",
@@ -780,8 +762,7 @@
               "FaceURL": "https://i.ibb.co/jJRCYnM/4806026d8c89.png",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"98311995-8b4c-488d-b2d6-3c4a2287203c\",\"type\":\"Treachery\",\"traits\":\"Hazard\",\"weakness\":true,\"id\":\"98311995-8b4c-488d-b2d6-3c4a2287203c\"}",
@@ -807,8 +788,7 @@
               "FaceURL": "https://i.ibb.co/wzqjnLx/9bf3d168e5a2.png",
               "NumHeight": 1,
               "NumWidth": 1,
-              "Type": 0,
-              "UniqueBack": true
+              "Type": 0
             }
           },
           "GMNotes": "{\"TtsZoopGuid\":\"70fd689b-d4b5-4b1e-8f30-aead1bce8112\",\"type\":\"Treachery\",\"permanent\":true,\"traits\":\"Injury\",\"weakness\":true,\"id\":\"70fd689b-d4b5-4b1e-8f30-aead1bce8112\"}",
@@ -833,8 +813,7 @@
           "FaceURL": "https://i.ibb.co/jJRCYnM/4806026d8c89.png",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         },
         "2698": {
           "BackIsHidden": true,
@@ -842,8 +821,7 @@
           "FaceURL": "https://i.ibb.co/wzqjnLx/9bf3d168e5a2.png",
           "NumHeight": 1,
           "NumWidth": 1,
-          "Type": 0,
-          "UniqueBack": true
+          "Type": 0
         }
       },
       "DeckIDs": [
@@ -890,14 +868,9 @@
   "Name": "Custom_Model_Bag",
   "Nickname": "Girl's Frontline Investigators",
   "Transform": {
-    "posX": -0.493863881,
-    "posY": 0.960000038,
-    "posZ": -0.172231331,
-    "rotX": -1.96944114e-07,
-    "rotY": 180.0,
-    "rotZ": -4.819135e-08,
-    "scaleX": 1.754106,
-    "scaleY": 0.365108132,
-    "scaleZ": 1.92078626
+    "rotY": 180,
+    "scaleX": 1.754,
+    "scaleY": 0.365,
+    "scaleZ": 1.921
   }
 }
