@@ -1,9 +1,9 @@
 {
-  "latestVersion": "4.7.1",
+  "latestVersion": "4.7.2",
   "releaseHighlights": [
-    "Added remaining cards from Chapter 2",
-    "Updated player card panel (more filters)",
-    "Updated 'Numpad 0' hotkey"
+    "Added missing images from investigator Packs",
+    "Fixed sorting from Player Card Panel",
+    "Fixed an issue with mini card borders"
   ],
   "setSpecificDownloadVersion": [
     {
