@@ -8,7 +8,7 @@
     "scaleZ": 2.42
   },
   "Nickname": "Kaimonogatari - Player Cards",
-  "Description": "version 1.71",
+  "Description": "version 1.71 - with edits by ChAoS & Chr1Z",
   "AltLookAngle": {
     "x": 0.0,
     "y": 0.0,
@@ -1834,7 +1834,7 @@
       },
       "Nickname": "Claymore (3)",
       "Description": "",
-      "GMNotes": "",
+      "GMNotes": "{\"TtsZoopGuid\":\"73e38368-09e4-4fd5-aee2-840673d398e7\",\"type\":\"Asset\",\"class\":\"Survivor\",\"traits\":\"Item. Weapon. Melee.\",\"combatIcons\":3,\"cost\":0,\"level\":3}",
       "AltLookAngle": {
         "x": 0.0,
         "y": 0.0,
@@ -4035,7 +4035,7 @@
           },
           "Nickname": "Koyomi Araragi",
           "Description": "Half-vampire",
-          "GMNotes": "{\"TtsZoopGuid\":\"4d85adc4-b485-4118-a5bf-187987a27b0b\"}",
+          "GMNotes": "{\"TtsZoopGuid\":\"4d85adc4-b485-4118-a5bf-187987a27b0b\",\"startsInPlay\": true,\"permanent\": true}",
           "AltLookAngle": {
             "x": 0.0,
             "y": 0.0,
@@ -6849,7 +6849,7 @@
       },
       "Nickname": "Memory Palace (1)",
       "Description": "",
-      "GMNotes": "{\"TtsZoopGuid\":\"8c809708-7b88-4747-96b4-20355a1da17e\"}",
+      "GMNotes": "{\"TtsZoopGuid\":\"8c809708-7b88-4747-96b4-20355a1da17e\",\"permanent\": true}",
       "AltLookAngle": {
         "x": 0.0,
         "y": 0.0,
@@ -8607,7 +8607,7 @@
       },
       "Nickname": "Flintlock",
       "Description": "",
-      "GMNotes": "",
+      "GMNotes": "{\"TtsZoopGuid\":\"95b95579-07bf-4ef3-9e54-197a78ce810b\",\"type\":\"Asset\",\"class\":\"Survivor\",\"traits\":\"Item. Weapon. Firearm.\",\"combatIcons\":1,\"cost\":1,\"level\":0}",
       "AltLookAngle": {
         "x": 0.0,
         "y": 0.0,
