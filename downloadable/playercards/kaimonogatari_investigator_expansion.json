@@ -256,7 +256,7 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Duplicitous",
+      "Nickname": "Duplicitous (4)",
       "Description": "",
       "GMNotes": "{\"TtsZoopGuid\":\"04cab0ce-4989-41e3-9b66-226db1b00c3a\"}",
       "AltLookAngle": {
@@ -1169,7 +1169,7 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Crown of Thorns",
+      "Nickname": "Crown of Thorns (1)",
       "Description": "Suffering is Divine",
       "GMNotes": "{\"TtsZoopGuid\":\"f437b7d2-4218-4789-9b03-e767f8ad05f9\",\"type\":\"Asset\",\"class\":\"Rogue\",\"traits\":\"Item. Relic. Cursed\",\"wildIcons\":1,\"cost\":0,\"level\":1}",
       "AltLookAngle": {
@@ -1292,7 +1292,7 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Conjure Weapon (0)",
+      "Nickname": "Conjure Weapon (2)",
       "Description": "",
       "GMNotes": "{\"TtsZoopGuid\":\"4ecdd576-5301-4c53-93e1-cf90f1f1d7ee\"}",
       "AltLookAngle": {
@@ -2013,7 +2013,7 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Traverse the Veil",
+      "Nickname": "Traverse the Veil (1)",
       "Description": "",
       "GMNotes": "{\"TtsZoopGuid\":\"8c96e215-8643-4f9c-8265-495e2092989f\",\"type\":\"Skill\",\"class\":\"Mystic\",\"traits\":\"Practiced\",\"wildIcons\":1,\"level\":1}",
       "AltLookAngle": {
@@ -4091,7 +4091,7 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Kokorowatari (Replica)",
+          "Nickname": "Kokorowatari (Replica) (3)",
           "Description": "Oddity slayer",
           "GMNotes": "{\"TtsZoopGuid\":\"7871c3c5-fe7e-4d53-9e3c-89e77398e540\"}",
           "AltLookAngle": {
@@ -4698,7 +4698,7 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Doppelgänger",
+      "Nickname": "Doppelgänger (1)",
       "Description": "",
       "GMNotes": "{\"TtsZoopGuid\":\"a0796018-eedd-4b5d-83b2-ccd5cd6f09f6\",\"type\":\"Asset\",\"permanent\":true,\"class\":\"Mystic\",\"traits\":\"Talent\",\"level\":1}",
       "AltLookAngle": {
@@ -4998,7 +4998,7 @@
       },
       "Nickname": "Agoraphobia",
       "Description": "",
-      "GMNotes": "{\"TtsZoopGuid\":\"0b0983c8-3c78-4894-9c03-2780951b16f0\",\"type\":\"Treachery\",\"traits\":\"Madness\",\"weakness\":true}",
+      "GMNotes": "{\"TtsZoopGuid\":\"0b0983c8-3c78-4894-9c03-2780951b16f0\",\"type\":\"Treachery\",\"traits\":\"Madness\",\"basicWeaknessCount\": 1,\"weakness\":true}",
       "AltLookAngle": {
         "x": 0.0,
         "y": 0.0,
@@ -5059,7 +5059,7 @@
       },
       "Nickname": "Amorphous Terror",
       "Description": "",
-      "GMNotes": "{\"TtsZoopGuid\":\"62ce1a47-5754-47e0-afea-babb2207ac68\",\"type\":\"Enemy\",\"traits\":\"Monster\",\"weakness\":true}",
+      "GMNotes": "{\"TtsZoopGuid\":\"62ce1a47-5754-47e0-afea-babb2207ac68\",\"type\":\"Enemy\",\"traits\":\"Monster\",\"weakness\":true,\"basicWeaknessCount\": 1}",
       "AltLookAngle": {
         "x": 0.0,
         "y": 0.0,
@@ -5601,7 +5601,7 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Deceive Reality",
+      "Nickname": "Deceive Reality (2)",
       "Description": "",
       "GMNotes": "{\"TtsZoopGuid\":\"085d3279-f27a-4a45-9272-1961a11963d5\",\"type\":\"Asset\",\"class\":\"Survivor\",\"traits\":\"Talent. Cursed\",\"wildIcons\":1,\"cost\":2,\"level\":2}",
       "AltLookAngle": {
@@ -7079,7 +7079,7 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Pay In Blood",
+      "Nickname": "Pay In Blood (1)",
       "Description": "",
       "GMNotes": "{\"TtsZoopGuid\":\"b7e7b033-2e2f-4852-8c9b-f417c406c2db\",\"type\":\"Asset\",\"permanent\":true,\"class\":\"Rogue\",\"traits\":\"Talent\",\"level\":1}",
       "AltLookAngle": {
@@ -8251,7 +8251,7 @@
       },
       "Nickname": "The Human Condition",
       "Description": "",
-      "GMNotes": "{\"TtsZoopGuid\":\"07ec7b9b-87af-4507-9c6d-d2e3d24164cc\"}",
+      "GMNotes": "{\"TtsZoopGuid\":\"07ec7b9b-87af-4507-9c6d-d2e3d24164cc\",\"basicWeaknessCount\": 1,\"weakness\": true,\"traits\":\"Madness\",\"startsInPlay\": true,\"permanent\": true}",
       "AltLookAngle": {
         "x": 0.0,
         "y": 0.0,
