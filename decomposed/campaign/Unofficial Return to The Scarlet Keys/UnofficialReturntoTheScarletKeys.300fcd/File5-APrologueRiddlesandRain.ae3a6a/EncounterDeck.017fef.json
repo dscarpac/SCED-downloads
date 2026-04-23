@@ -1,0 +1,82 @@
+{
+  "ContainedObjects_order": [
+    "FiguresintheDark.1aed87",
+    "FiguresintheDark.1aed87",
+    "SeeingShadows.eb26d8",
+    "SeeingShadows.eb26d8",
+    "Undercover.434ae3",
+    "Undercover.434ae3",
+    "KnivesintheDark.57d544",
+    "KnivesintheDark.57d544",
+    "HeavyRain.7fd5e7",
+    "HeavyRain.7fd5e7",
+    "PinchinReality.986903",
+    "PinchinReality.986903",
+    "LockedDoor.4904d0",
+    "LockedDoor.4904d0",
+    "ObscuringFog.50e716",
+    "ObscuringFog.50e716",
+    "CryptChill.16d6d6",
+    "CryptChill.16d6d6",
+    "FalseLead.2ceae2",
+    "FalseLead.2ceae2",
+    "HuntingShadow.ea8fcf",
+    "HuntingShadow.ea8fcf",
+    "HuntingShadow.ea8fcf"
+  ],
+  "ContainedObjects_path": "EncounterDeck.017fef",
+  "CustomDeck": {
+    "100": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/13243700374285212184/EA0A1926B70F720CDBC4EDC375FE76BD22E17389/",
+      "NumHeight": 4,
+      "NumWidth": 7,
+      "Type": 0
+    },
+    "2664": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387188537/4CC41E1E791083C05B668EEFFB2AF7B6F62AA429/",
+      "NumHeight": 3,
+      "NumWidth": 5,
+      "Type": 0
+    }
+  },
+  "DeckIDs": [
+    266409,
+    266409,
+    266408,
+    266408,
+    266407,
+    266407,
+    266406,
+    266406,
+    266405,
+    266405,
+    266404,
+    266404,
+    10017,
+    10017,
+    10011,
+    10011,
+    10010,
+    10010,
+    10001,
+    10001,
+    10000,
+    10000,
+    10000
+  ],
+  "GUID": "017fef",
+  "Hands": false,
+  "Name": "Deck",
+  "Nickname": "Encounter Deck",
+  "Transform": {
+    "rotY": 270,
+    "rotZ": 180,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  }
+}
