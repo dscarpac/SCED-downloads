@@ -261,5 +261,5 @@
       }
     }
   },
-  "setupButton": true
+  "setupButton": false
 }

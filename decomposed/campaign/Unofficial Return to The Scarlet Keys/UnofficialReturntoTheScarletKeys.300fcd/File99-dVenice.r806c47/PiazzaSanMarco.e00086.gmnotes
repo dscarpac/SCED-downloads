@@ -7,7 +7,7 @@
   "locationFront": {
     "victory": 1,
     "icons": "Hourglass",
-    "connections": "Triangle|DoubleSlash|Heart",
+    "connections": "Triangle|SlantedEquals|Heart",
     "uses": [
       {
         "countPerInvestigator": 1,
@@ -18,6 +18,6 @@
   },
   "locationBack": {
     "icons": "Hourglass",
-    "connections": "Triangle|DoubleSlash|Heart"
+    "connections": "Triangle|SlantedEquals|Heart"
   }
 }

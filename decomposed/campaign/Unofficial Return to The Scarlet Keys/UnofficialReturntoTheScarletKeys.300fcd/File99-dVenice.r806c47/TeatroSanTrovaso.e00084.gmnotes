@@ -6,7 +6,7 @@
   "traits": "Ritual Site. Venice.",
   "locationFront": {
     "victory": 1,
-    "icons": "SlashAlt",
+    "icons": "Tilde",
     "connections": "Star|T",
     "uses": [
       {
@@ -17,7 +17,7 @@
     ]
   },
   "locationBack": {
-    "icons": "SlashAlt",
+    "icons": "Tilde",
     "connections": "Star|T"
   }
 }

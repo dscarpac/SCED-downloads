@@ -6,7 +6,7 @@
   "traits": "Venice.",
   "locationFront": {
     "icons": "T",
-    "connections": "Star|Slash",
+    "connections": "Star|Tilde",
     "uses": [
       {
         "countPerInvestigator": 1,
@@ -17,6 +17,6 @@
   },
   "locationBack": {
     "icons": "T",
-    "connections": "Star|Slash"
+    "connections": "Star|Tilde"
   }
 }

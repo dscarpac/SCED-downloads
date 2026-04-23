@@ -6,7 +6,7 @@
   "traits": "Ritual Site. Venice.",
   "locationFront": {
     "icons": "Heart",
-    "connections": "Hourglass|Slash",
+    "connections": "Hourglass|SlantedEquals",
     "uses": [
       {
         "countPerInvestigator": 1,
@@ -17,6 +17,6 @@
   },
   "locationBack": {
     "icons": "Heart",
-    "connections": "Hourglass|Slash"
+    "connections": "Hourglass|SlantedEquals"
   }
 }

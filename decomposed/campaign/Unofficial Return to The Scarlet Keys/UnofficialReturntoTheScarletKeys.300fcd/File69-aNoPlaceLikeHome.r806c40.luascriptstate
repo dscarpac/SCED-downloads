@@ -352,5 +352,5 @@
       }
     }
   },
-  "setupButton": true
+  "setupButton": false
 }

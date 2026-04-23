@@ -53,5 +53,5 @@
       }
     }
   },
-  "setupButton": true
+  "setupButton": false
 }

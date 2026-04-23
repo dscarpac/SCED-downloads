@@ -118,5 +118,5 @@
       }
     }
   },
-  "setupButton": true
+  "setupButton": false
 }

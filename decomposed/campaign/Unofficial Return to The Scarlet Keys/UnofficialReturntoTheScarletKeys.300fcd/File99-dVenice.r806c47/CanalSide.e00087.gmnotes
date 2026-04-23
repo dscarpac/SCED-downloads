@@ -5,7 +5,7 @@
   "class": "Mythos",
   "traits": "Venice.",
   "locationFront": {
-    "icons": "Slash",
+    "icons": "SlantedEquals",
     "connections": "Hourglass|Heart",
     "uses": [
       {
@@ -16,7 +16,7 @@
     ]
   },
   "locationBack": {
-    "icons": "Slash",
+    "icons": "SlantedEquals",
     "connections": "Hourglass|Heart"
   }
 }
