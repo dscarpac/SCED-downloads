@@ -39,8 +39,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14335506026648464598/2C244C2FD5D24C8EF3BF6F9032720119D0FDFBAF/",
       "NumHeight": 1,
       "NumWidth": 1,
-      "Type": 0,
-      "UniqueBack": true
+      "Type": 0
     },
     "1002": {
       "BackIsHidden": true,
@@ -48,8 +47,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/15569206651153016676/52FC1A48EB86132329DE907D6F88CA7D34A1DB44/",
       "NumHeight": 1,
       "NumWidth": 1,
-      "Type": 0,
-      "UniqueBack": true
+      "Type": 0
     },
     "1338": {
       "BackIsHidden": true,
@@ -57,8 +55,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/12727593824150837323/9D2C008A85C89B651ACC60F39D249F4C3A99FF74/",
       "NumHeight": 1,
       "NumWidth": 1,
-      "Type": 0,
-      "UniqueBack": true
+      "Type": 0
     },
     "1340": {
       "BackIsHidden": true,
@@ -66,8 +63,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/12233484824600368543/78F04DC6886B56F540F9DA69A88858F46AF79065/",
       "NumHeight": 1,
       "NumWidth": 1,
-      "Type": 0,
-      "UniqueBack": true
+      "Type": 0
     },
     "1342": {
       "BackIsHidden": true,
@@ -75,8 +71,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14938205526969729815/B5FD28ACD6538699AB3CC60B92D7514E302CFE83/",
       "NumHeight": 1,
       "NumWidth": 1,
-      "Type": 0,
-      "UniqueBack": true
+      "Type": 0
     },
     "1345": {
       "BackIsHidden": true,
@@ -84,8 +79,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11692680535409264845/5E1533B0EE059B774F24F75A3F1FC497ABEE68F3/",
       "NumHeight": 1,
       "NumWidth": 1,
-      "Type": 0,
-      "UniqueBack": true
+      "Type": 0
     },
     "1347": {
       "BackIsHidden": true,
@@ -93,8 +87,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/17042861066262560681/9239047CFABA940567BB9AD5DDA030B7D5D3A453/",
       "NumHeight": 1,
       "NumWidth": 1,
-      "Type": 0,
-      "UniqueBack": true
+      "Type": 0
     },
     "1350": {
       "BackIsHidden": true,
@@ -102,8 +95,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/15368861204870172283/4873B1977FCC89A28A30F4D3F168CFFF5636E498/",
       "NumHeight": 1,
       "NumWidth": 1,
-      "Type": 0,
-      "UniqueBack": true
+      "Type": 0
     },
     "1354": {
       "BackIsHidden": true,
@@ -111,8 +103,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/13784400634923645150/713CFF3862A3B77AB460886719E9FB9FB29B6353/",
       "NumHeight": 1,
       "NumWidth": 1,
-      "Type": 0,
-      "UniqueBack": true
+      "Type": 0
     },
     "1390": {
       "BackIsHidden": true,
@@ -120,8 +111,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14260581584793959766/B5C67EE22A1B4D1037090A8E444DD67616C1D027/",
       "NumHeight": 1,
       "NumWidth": 1,
-      "Type": 0,
-      "UniqueBack": true
+      "Type": 0
     },
     "1393": {
       "BackIsHidden": true,
@@ -129,8 +119,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/17898016698517488757/B9BA0DA8B980FD957D045634D6B1F3FE77BA1349/",
       "NumHeight": 1,
       "NumWidth": 1,
-      "Type": 0,
-      "UniqueBack": true
+      "Type": 0
     },
     "1395": {
       "BackIsHidden": true,
@@ -138,8 +127,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11395413969037189663/727F0D220978B514201CAF148331EED24EDB4E28/",
       "NumHeight": 1,
       "NumWidth": 1,
-      "Type": 0,
-      "UniqueBack": true
+      "Type": 0
     },
     "1436": {
       "BackIsHidden": true,
@@ -147,8 +135,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/15178947920725639977/FB853E2C1A2D700A3B0FBAA192FB50DADE0CF2BB/",
       "NumHeight": 1,
       "NumWidth": 1,
-      "Type": 0,
-      "UniqueBack": true
+      "Type": 0
     },
     "1485": {
       "BackIsHidden": true,
@@ -156,8 +143,7 @@
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/17056708085902886249/11315F0BE0FE0ED8B3154F55E119F0B95AAE6604/",
       "NumHeight": 1,
       "NumWidth": 1,
-      "Type": 0,
-      "UniqueBack": true
+      "Type": 0
     }
   },
   "DeckIDs": [
