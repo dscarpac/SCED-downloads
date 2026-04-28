@@ -2,7 +2,7 @@ import json
 from pathlib import Path
 
 # Name of the JSON file
-JSON_FILE = Path(r"C:\git\SCED-downloads\library.json")
+JSON_FILE = Path(__file__).resolve().parents[1] / "library.json"
 
 # Author whose items will be moved to the top, preserving original order
 PRIORITY_AUTHOR = "Fantasy Flight Games"

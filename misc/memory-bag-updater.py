@@ -2,13 +2,13 @@ import json
 from pathlib import Path
 
 # --- CONFIGURATION ---
-INPUT_DIR = Path(r"C:\git\SCED-downloads\downloadable")
+SCRIPT_DIR = Path(__file__).resolve().parent
+INPUT_DIR = SCRIPT_DIR.parent / "downloadable"
 SEARCH_TEXT = "-- Utility memory bag by Directsun"
 
-MB_SCRIPT_FILE = Path(r"C:\git\SCED\src\MemoryBag.ttslua")
-MB_WRAPPER_FILE = Path(r"C:\git\SCED-downloads\misc\memory-bag-template.ttslua")
-# ---------------------
-
+# We go up twice to the 'git' folder, then down into 'SCED'
+MB_SCRIPT_FILE = SCRIPT_DIR.parents[1] / "SCED" / "src" / "MemoryBag.ttslua"
+MB_WRAPPER_FILE = SCRIPT_DIR / "memory-bag-template.ttslua"
 
 class TTSUpdater:
     def __init__(self, search_text, script_path, wrapper_path):

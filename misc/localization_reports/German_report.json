@@ -1,14 +1,26 @@
 {
   "metadata": {
-    "last_updated": "2026-04-07 11:17:53",
+    "last_updated": "2026-04-28 15:36:02",
     "language": "German",
-    "overall_completion": "57.68 %",
-    "total_found": 3540,
+    "overall_completion": "57.49 %",
+    "total_found": 3528,
     "total_required": 6137,
-    "orphan_count": 23,
+    "orphan_count": 36,
     "missing_id_count": 0
   },
   "orphans": [
+    "03326a",
+    "03326c",
+    "03327a",
+    "03327c",
+    "03327e",
+    "03328a",
+    "03328c",
+    "03328e",
+    "03329a",
+    "03329c",
+    "03330",
+    "03331",
     "60108",
     "60113",
     "60119",
@@ -31,7 +43,8 @@
     "60516",
     "60517",
     "60518",
-    "60519"
+    "60519",
+    "Grimoire"
   ],
   "files_without_id": [],
   "content": {
@@ -1163,11 +1176,23 @@
       ]
     },
     "campaign\\The Path to Carcosa": {
-      "completion": "93.94 %",
-      "stats": "217 / 231",
+      "completion": "88.74 %",
+      "stats": "205 / 231",
       "missing": [
         "03261",
         "03262",
+        "03326b",
+        "03326d",
+        "03327b",
+        "03327d",
+        "03327f",
+        "03328b",
+        "03328d",
+        "03328f",
+        "03329b",
+        "03329d",
+        "03330b",
+        "03331b",
         "CB03",
         "CG03",
         "CL0301",

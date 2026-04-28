@@ -1,14 +1,27 @@
 {
   "metadata": {
-    "last_updated": "2026-04-07 11:17:54",
+    "last_updated": "2026-04-28 15:36:11",
     "language": "Polish",
-    "overall_completion": "20.32 %",
-    "total_found": 1247,
+    "overall_completion": "20.12 %",
+    "total_found": 1235,
     "total_required": 6137,
-    "orphan_count": 0,
+    "orphan_count": 12,
     "missing_id_count": 0
   },
-  "orphans": [],
+  "orphans": [
+    "03326a",
+    "03326c",
+    "03327a",
+    "03327c",
+    "03327e",
+    "03328a",
+    "03328c",
+    "03328e",
+    "03329a",
+    "03329c",
+    "03330",
+    "03331"
+  ],
   "files_without_id": [],
   "content": {
     "campaign\\Brethren of Ash": {
@@ -2016,9 +2029,21 @@
       ]
     },
     "campaign\\The Path to Carcosa": {
-      "completion": "94.81 %",
-      "stats": "219 / 231",
+      "completion": "89.61 %",
+      "stats": "207 / 231",
       "missing": [
+        "03326b",
+        "03326d",
+        "03327b",
+        "03327d",
+        "03327f",
+        "03328b",
+        "03328d",
+        "03328f",
+        "03329b",
+        "03329d",
+        "03330b",
+        "03331b",
         "CB03",
         "CG03",
         "CL0301",
