@@ -6,7 +6,7 @@ INPUT_DIR = Path(r"C:\git\SCED-downloads\downloadable")
 SEARCH_TEXT = "-- Utility memory bag by Directsun"
 
 MB_SCRIPT_FILE = Path(r"C:\git\SCED\src\MemoryBag.ttslua")
-MB_WRAPPER_FILE = Path("memory-bag-template.ttslua")
+MB_WRAPPER_FILE = Path(r"C:\git\SCED-downloads\misc\memory-bag-template.ttslua")
 # ---------------------
 
 
