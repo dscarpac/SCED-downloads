@@ -1,28 +1,14 @@
 {
   "metadata": {
-    "last_updated": "2026-04-28 15:36:34",
+    "last_updated": "2026-04-28 15:48:48",
     "language": "Spanish",
-    "overall_completion": "83.71 %",
-    "total_found": 5137,
-    "total_required": 6137,
-    "orphan_count": 13,
+    "overall_completion": "83.87 %",
+    "total_found": 5149,
+    "total_required": 6139,
+    "orphan_count": 0,
     "missing_id_count": 200
   },
-  "orphans": [
-    "03326a",
-    "03326c",
-    "03327a",
-    "03327c",
-    "03327e",
-    "03328a",
-    "03328c",
-    "03328e",
-    "03329a",
-    "03329c",
-    "03330",
-    "03331",
-    "RulesReference2"
-  ],
+  "orphans": [],
   "files_without_id": [
     "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\Core2026.856544\\12105.8e281d.json",
     "Spanish - Campaigns\\Spanish-Campaigns.SpanishC\\Core2026.856544\\12106.2425d6.json",
@@ -609,8 +595,8 @@
       ]
     },
     "campaign\\The Path to Carcosa": {
-      "completion": "82.25 %",
-      "stats": "190 / 231",
+      "completion": "87.45 %",
+      "stats": "202 / 231",
       "missing": [
         "03043",
         "03060",
@@ -629,18 +615,6 @@
         "03274",
         "03283",
         "03316",
-        "03326b",
-        "03326d",
-        "03327b",
-        "03327d",
-        "03327f",
-        "03328b",
-        "03328d",
-        "03328f",
-        "03329b",
-        "03329d",
-        "03330b",
-        "03331b",
         "CB03",
         "CG03",
         "CL0301",
@@ -894,17 +868,17 @@
         "08007-pf"
       ]
     },
-    "playercards\\Return to The Dunwich Legacy": {
+    "playercards\\Return to the Circle Undone": {
+      "completion": "100.00 %",
+      "stats": "16 / 16",
+      "missing": []
+    },
+    "playercards\\Return to the Dunwich Legacy": {
       "completion": "91.67 %",
       "stats": "11 / 12",
       "missing": [
         "51007"
       ]
-    },
-    "playercards\\Return to the Circle Undone": {
-      "completion": "100.00 %",
-      "stats": "16 / 16",
-      "missing": []
     },
     "playercards\\Return to the Forgotten Age": {
       "completion": "93.75 %",
@@ -1020,7 +994,7 @@
     },
     "playercards\\Starters 2026": {
       "completion": "0.00 %",
-      "stats": "0 / 161",
+      "stats": "0 / 163",
       "missing": [
         "60151",
         "60152",
@@ -1040,6 +1014,7 @@
         "60166",
         "60167",
         "60168",
+        "60169",
         "60170",
         "60171",
         "60172",
@@ -1127,6 +1102,7 @@
         "60456",
         "60457",
         "60458",
+        "60459",
         "60460",
         "60461",
         "60462",

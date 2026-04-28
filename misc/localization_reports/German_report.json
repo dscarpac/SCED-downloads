@@ -1,51 +1,14 @@
 {
   "metadata": {
-    "last_updated": "2026-04-28 15:36:02",
+    "last_updated": "2026-04-28 15:48:45",
     "language": "German",
-    "overall_completion": "57.49 %",
-    "total_found": 3528,
-    "total_required": 6137,
-    "orphan_count": 36,
+    "overall_completion": "57.66 %",
+    "total_found": 3540,
+    "total_required": 6139,
+    "orphan_count": 0,
     "missing_id_count": 0
   },
-  "orphans": [
-    "03326a",
-    "03326c",
-    "03327a",
-    "03327c",
-    "03327e",
-    "03328a",
-    "03328c",
-    "03328e",
-    "03329a",
-    "03329c",
-    "03330",
-    "03331",
-    "60108",
-    "60113",
-    "60119",
-    "60212",
-    "60218",
-    "60219",
-    "60307",
-    "60308",
-    "60312",
-    "60313",
-    "60314",
-    "60319",
-    "60405",
-    "60413",
-    "60414",
-    "60417",
-    "60418",
-    "60510",
-    "60514",
-    "60516",
-    "60517",
-    "60518",
-    "60519",
-    "Grimoire"
-  ],
+  "orphans": [],
   "files_without_id": [],
   "content": {
     "campaign\\Brethren of Ash": {
@@ -1176,23 +1139,11 @@
       ]
     },
     "campaign\\The Path to Carcosa": {
-      "completion": "88.74 %",
-      "stats": "205 / 231",
+      "completion": "93.94 %",
+      "stats": "217 / 231",
       "missing": [
         "03261",
         "03262",
-        "03326b",
-        "03326d",
-        "03327b",
-        "03327d",
-        "03327f",
-        "03328b",
-        "03328d",
-        "03328f",
-        "03329b",
-        "03329d",
-        "03330b",
-        "03331b",
         "CB03",
         "CG03",
         "CL0301",
@@ -1617,18 +1568,18 @@
         "90064"
       ]
     },
-    "playercards\\Return to The Dunwich Legacy": {
-      "completion": "91.67 %",
-      "stats": "11 / 12",
-      "missing": [
-        "51052"
-      ]
-    },
     "playercards\\Return to the Circle Undone": {
       "completion": "93.75 %",
       "stats": "15 / 16",
       "missing": [
         "54041"
+      ]
+    },
+    "playercards\\Return to the Dunwich Legacy": {
+      "completion": "91.67 %",
+      "stats": "11 / 12",
+      "missing": [
+        "51052"
       ]
     },
     "playercards\\Return to the Forgotten Age": {
@@ -1804,7 +1755,7 @@
     },
     "playercards\\Starters 2026": {
       "completion": "0.00 %",
-      "stats": "0 / 161",
+      "stats": "0 / 163",
       "missing": [
         "60151",
         "60152",
@@ -1824,6 +1775,7 @@
         "60166",
         "60167",
         "60168",
+        "60169",
         "60170",
         "60171",
         "60172",
@@ -1911,6 +1863,7 @@
         "60456",
         "60457",
         "60458",
+        "60459",
         "60460",
         "60461",
         "60462",

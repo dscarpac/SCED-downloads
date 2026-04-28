@@ -1,50 +1,14 @@
 {
   "metadata": {
-    "last_updated": "2026-04-28 15:36:26",
+    "last_updated": "2026-04-28 15:48:47",
     "language": "Simplified Chinese",
-    "overall_completion": "63.22 %",
-    "total_found": 3880,
-    "total_required": 6137,
-    "orphan_count": 35,
+    "overall_completion": "63.40 %",
+    "total_found": 3892,
+    "total_required": 6139,
+    "orphan_count": 0,
     "missing_id_count": 0
   },
-  "orphans": [
-    "03326a",
-    "03326c",
-    "03327a",
-    "03327c",
-    "03327e",
-    "03328a",
-    "03328c",
-    "03328e",
-    "03329a",
-    "03329c",
-    "03330",
-    "03331",
-    "60108",
-    "60113",
-    "60119",
-    "60212",
-    "60218",
-    "60219",
-    "60307",
-    "60308",
-    "60312",
-    "60313",
-    "60314",
-    "60319",
-    "60405",
-    "60413",
-    "60414",
-    "60417",
-    "60418",
-    "60510",
-    "60514",
-    "60516",
-    "60517",
-    "60518",
-    "60519"
-  ],
+  "orphans": [],
   "files_without_id": [],
   "content": {
     "campaign\\Brethren of Ash": {
@@ -673,21 +637,9 @@
       ]
     },
     "campaign\\The Path to Carcosa": {
-      "completion": "90.04 %",
-      "stats": "208 / 231",
+      "completion": "95.24 %",
+      "stats": "220 / 231",
       "missing": [
-        "03326b",
-        "03326d",
-        "03327b",
-        "03327d",
-        "03327f",
-        "03328b",
-        "03328d",
-        "03328f",
-        "03329b",
-        "03329d",
-        "03330b",
-        "03331b",
         "CB03",
         "CL0301",
         "CL0302",
@@ -1337,14 +1289,14 @@
         "90064"
       ]
     },
-    "playercards\\Return to The Dunwich Legacy": {
-      "completion": "100.00 %",
-      "stats": "12 / 12",
-      "missing": []
-    },
     "playercards\\Return to the Circle Undone": {
       "completion": "100.00 %",
       "stats": "16 / 16",
+      "missing": []
+    },
+    "playercards\\Return to the Dunwich Legacy": {
+      "completion": "100.00 %",
+      "stats": "12 / 12",
       "missing": []
     },
     "playercards\\Return to the Forgotten Age": {
@@ -1518,7 +1470,7 @@
     },
     "playercards\\Starters 2026": {
       "completion": "0.00 %",
-      "stats": "0 / 161",
+      "stats": "0 / 163",
       "missing": [
         "60151",
         "60152",
@@ -1538,6 +1490,7 @@
         "60166",
         "60167",
         "60168",
+        "60169",
         "60170",
         "60171",
         "60172",
@@ -1625,6 +1578,7 @@
         "60456",
         "60457",
         "60458",
+        "60459",
         "60460",
         "60461",
         "60462",

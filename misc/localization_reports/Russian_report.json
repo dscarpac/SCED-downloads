@@ -1,27 +1,14 @@
 {
   "metadata": {
-    "last_updated": "2026-04-28 15:36:20",
+    "last_updated": "2026-04-28 15:48:47",
     "language": "Russian",
-    "overall_completion": "90.89 %",
-    "total_found": 5578,
-    "total_required": 6137,
-    "orphan_count": 12,
+    "overall_completion": "91.06 %",
+    "total_found": 5590,
+    "total_required": 6139,
+    "orphan_count": 0,
     "missing_id_count": 0
   },
-  "orphans": [
-    "03326a",
-    "03326c",
-    "03327a",
-    "03327c",
-    "03327e",
-    "03328a",
-    "03328c",
-    "03328e",
-    "03329a",
-    "03329c",
-    "03330",
-    "03331"
-  ],
+  "orphans": [],
   "files_without_id": [],
   "content": {
     "campaign\\Brethren of Ash": {
@@ -205,22 +192,9 @@
       "missing": []
     },
     "campaign\\The Path to Carcosa": {
-      "completion": "94.81 %",
-      "stats": "219 / 231",
-      "missing": [
-        "03326b",
-        "03326d",
-        "03327b",
-        "03327d",
-        "03327f",
-        "03328b",
-        "03328d",
-        "03328f",
-        "03329b",
-        "03329d",
-        "03330b",
-        "03331b"
-      ]
+      "completion": "100.00 %",
+      "stats": "231 / 231",
+      "missing": []
     },
     "campaign\\The Scarlet Keys": {
       "completion": "100.00 %",
@@ -433,14 +407,14 @@
       "stats": "5 / 5",
       "missing": []
     },
-    "playercards\\Return to The Dunwich Legacy": {
-      "completion": "100.00 %",
-      "stats": "12 / 12",
-      "missing": []
-    },
     "playercards\\Return to the Circle Undone": {
       "completion": "100.00 %",
       "stats": "16 / 16",
+      "missing": []
+    },
+    "playercards\\Return to the Dunwich Legacy": {
+      "completion": "100.00 %",
+      "stats": "12 / 12",
       "missing": []
     },
     "playercards\\Return to the Forgotten Age": {
@@ -567,7 +541,7 @@
     },
     "playercards\\Starters 2026": {
       "completion": "0.00 %",
-      "stats": "0 / 161",
+      "stats": "0 / 163",
       "missing": [
         "60151",
         "60152",
@@ -587,6 +561,7 @@
         "60166",
         "60167",
         "60168",
+        "60169",
         "60170",
         "60171",
         "60172",
@@ -674,6 +649,7 @@
         "60456",
         "60457",
         "60458",
+        "60459",
         "60460",
         "60461",
         "60462",

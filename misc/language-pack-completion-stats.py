@@ -32,7 +32,6 @@ EXCLUDED_FOLDERS = {
     "Darkham Horror",
     "Night of Vespers",
     "Rise, Rapture, Rise",
-    "Starter Decks 2026 - Preview Cards",
     "The Crown of Egil",
     "The Ghosts of Onigawa",
     "Unofficial Return to The Scarlet Keys",
@@ -56,9 +55,13 @@ NOT_ORPHANS = {
     "PhaseReference",
     "RoundSequence",
     "RulesReference",
+    "RulesReference2",
+    "Grimoire",
     "89005",  # Reality Acid Sheet
     "98019",  # Gloria Goldberg Promo
     "CGWTWS01",  # When The World Screamed scenario guide
+    *(f"{60100 + i}" for i in range(500)), # original Investigator Decks
+    *(f"TAR{i:02}" for i in range(22)) # RtTCU Tarot cards
 }
 # Define prefixes we want to skip
 # EXCLUDED_PREFIXES = ("CB", "CG", "CL", "SB", "SN", "CT", "ES")

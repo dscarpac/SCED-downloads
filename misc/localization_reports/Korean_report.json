@@ -1,54 +1,15 @@
 {
   "metadata": {
-    "last_updated": "2026-04-28 15:36:09",
+    "last_updated": "2026-04-28 15:48:46",
     "language": "Korean",
-    "overall_completion": "72.53 %",
-    "total_found": 4451,
-    "total_required": 6137,
-    "orphan_count": 35,
-    "missing_id_count": 2
+    "overall_completion": "72.72 %",
+    "total_found": 4464,
+    "total_required": 6139,
+    "orphan_count": 0,
+    "missing_id_count": 0
   },
-  "orphans": [
-    "03325",
-    "03326a",
-    "03326c",
-    "03327a",
-    "03327c",
-    "03327e",
-    "03328a",
-    "03328c",
-    "03328e",
-    "03329a",
-    "03329c",
-    "03330",
-    "03331",
-    "TAR00",
-    "TAR01",
-    "TAR02",
-    "TAR03",
-    "TAR04",
-    "TAR05",
-    "TAR06",
-    "TAR07",
-    "TAR08",
-    "TAR09",
-    "TAR10",
-    "TAR11",
-    "TAR12",
-    "TAR13",
-    "TAR14",
-    "TAR15",
-    "TAR16",
-    "TAR17",
-    "TAR18",
-    "TAR19",
-    "TAR20",
-    "TAR21"
-  ],
-  "files_without_id": [
-    "Korean - Campaigns\\Korean-Campaigns.KoreanC\\TheDrownedCity.cthulhu.json",
-    "Korean - Campaigns\\Korean-Campaigns.KoreanC\\TheFeastofHemlockVale.5b79b2.json"
-  ],
+  "orphans": [],
+  "files_without_id": [],
   "content": {
     "campaign\\Brethren of Ash": {
       "completion": "95.74 %",
@@ -840,8 +801,8 @@
       ]
     },
     "campaign\\The Path to Carcosa": {
-      "completion": "86.15 %",
-      "stats": "199 / 231",
+      "completion": "91.77 %",
+      "stats": "212 / 231",
       "missing": [
         "03048",
         "03121",
@@ -851,19 +812,6 @@
         "03250",
         "03251",
         "03254",
-        "03325b",
-        "03326b",
-        "03326d",
-        "03327b",
-        "03327d",
-        "03327f",
-        "03328b",
-        "03328d",
-        "03328f",
-        "03329b",
-        "03329d",
-        "03330b",
-        "03331b",
         "CB03",
         "CL0301",
         "CL0302",
@@ -1150,14 +1098,14 @@
       "stats": "5 / 5",
       "missing": []
     },
-    "playercards\\Return to The Dunwich Legacy": {
-      "completion": "100.00 %",
-      "stats": "12 / 12",
-      "missing": []
-    },
     "playercards\\Return to the Circle Undone": {
       "completion": "100.00 %",
       "stats": "16 / 16",
+      "missing": []
+    },
+    "playercards\\Return to the Dunwich Legacy": {
+      "completion": "100.00 %",
+      "stats": "12 / 12",
       "missing": []
     },
     "playercards\\Return to the Forgotten Age": {
@@ -1284,7 +1232,7 @@
     },
     "playercards\\Starters 2026": {
       "completion": "0.00 %",
-      "stats": "0 / 161",
+      "stats": "0 / 163",
       "missing": [
         "60151",
         "60152",
@@ -1304,6 +1252,7 @@
         "60166",
         "60167",
         "60168",
+        "60169",
         "60170",
         "60171",
         "60172",
@@ -1391,6 +1340,7 @@
         "60456",
         "60457",
         "60458",
+        "60459",
         "60460",
         "60461",
         "60462",
