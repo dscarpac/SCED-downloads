@@ -5172,15 +5172,11 @@
       "AttachedDecals": [
         {
           "Transform": {
-            "posX": -0.0021877822,
-            "posY": -0.08963572,
-            "posZ": -0.00288731651,
-            "rotX": 270.0,
-            "rotY": 359.869568,
-            "rotZ": 0.0,
-            "scaleX": 2.00000215,
-            "scaleY": 2.00000238,
-            "scaleZ": 2.00000262
+            "posY": -0.1,
+            "rotX": 270,
+            "scaleX": 2,
+            "scaleY": 2,
+            "scaleZ": 2
           },
           "CustomDecal": {
             "Name": "dunwich_back",
@@ -9049,15 +9045,11 @@
       "AttachedDecals": [
         {
           "Transform": {
-            "posX": -0.0021877822,
-            "posY": -0.08963572,
-            "posZ": -0.00288731651,
-            "rotX": 270.0,
-            "rotY": 359.869568,
-            "rotZ": 0.0,
-            "scaleX": 2.00000215,
-            "scaleY": 2.00000238,
-            "scaleZ": 2.00000262
+            "posY": -0.1,
+            "rotX": 270,
+            "scaleX": 2,
+            "scaleY": 2,
+            "scaleZ": 2
           },
           "CustomDecal": {
             "Name": "dunwich_back",
@@ -14415,15 +14407,11 @@
       "AttachedDecals": [
         {
           "Transform": {
-            "posX": -0.0021877822,
-            "posY": -0.08963572,
-            "posZ": -0.00288731651,
-            "rotX": 270.0,
-            "rotY": 359.869568,
-            "rotZ": 0.0,
-            "scaleX": 2.00000215,
-            "scaleY": 2.00000238,
-            "scaleZ": 2.00000262
+            "posY": -0.1,
+            "rotX": 270,
+            "scaleX": 2,
+            "scaleY": 2,
+            "scaleZ": 2
           },
           "CustomDecal": {
             "Name": "dunwich_back",
@@ -18911,15 +18899,11 @@
       "AttachedDecals": [
         {
           "Transform": {
-            "posX": -0.0021877822,
-            "posY": -0.08963572,
-            "posZ": -0.00288731651,
-            "rotX": 270.0,
-            "rotY": 359.869568,
-            "rotZ": 0.0,
-            "scaleX": 2.00000215,
-            "scaleY": 2.00000238,
-            "scaleZ": 2.00000262
+            "posY": -0.1,
+            "rotX": 270,
+            "scaleX": 2,
+            "scaleY": 2,
+            "scaleZ": 2
           },
           "CustomDecal": {
             "Name": "dunwich_back",
@@ -22462,15 +22446,11 @@
       "AttachedDecals": [
         {
           "Transform": {
-            "posX": -0.0021877822,
-            "posY": -0.08963572,
-            "posZ": -0.00288731651,
-            "rotX": 270.0,
-            "rotY": 359.869568,
-            "rotZ": 0.0,
-            "scaleX": 2.00000215,
-            "scaleY": 2.00000238,
-            "scaleZ": 2.00000262
+            "posY": -0.1,
+            "rotX": 270,
+            "scaleX": 2,
+            "scaleY": 2,
+            "scaleZ": 2
           },
           "CustomDecal": {
             "Name": "dunwich_back",
@@ -27991,15 +27971,11 @@
       "AttachedDecals": [
         {
           "Transform": {
-            "posX": -0.0021877822,
-            "posY": -0.08963572,
-            "posZ": -0.00288731651,
-            "rotX": 270.0,
-            "rotY": 359.869568,
-            "rotZ": 0.0,
-            "scaleX": 2.00000215,
-            "scaleY": 2.00000238,
-            "scaleZ": 2.00000262
+            "posY": -0.1,
+            "rotX": 270,
+            "scaleX": 2,
+            "scaleY": 2,
+            "scaleZ": 2
           },
           "CustomDecal": {
             "Name": "dunwich_back",
@@ -31414,15 +31390,11 @@
       "AttachedDecals": [
         {
           "Transform": {
-            "posX": -0.0021877822,
-            "posY": -0.08963572,
-            "posZ": -0.00288731651,
-            "rotX": 270.0,
-            "rotY": 359.869568,
-            "rotZ": 0.0,
-            "scaleX": 2.00000215,
-            "scaleY": 2.00000238,
-            "scaleZ": 2.00000262
+            "posY": -0.1,
+            "rotX": 270,
+            "scaleX": 2,
+            "scaleY": 2,
+            "scaleZ": 2
           },
           "CustomDecal": {
             "Name": "dunwich_back",
@@ -35830,15 +35802,11 @@
       "AttachedDecals": [
         {
           "Transform": {
-            "posX": -0.0021877822,
-            "posY": -0.08963572,
-            "posZ": -0.00288731651,
-            "rotX": 270.0,
-            "rotY": 359.869568,
-            "rotZ": 0.0,
-            "scaleX": 2.00000215,
-            "scaleY": 2.00000238,
-            "scaleZ": 2.00000262
+            "posY": -0.1,
+            "rotX": 270,
+            "scaleX": 2,
+            "scaleY": 2,
+            "scaleZ": 2
           },
           "CustomDecal": {
             "Name": "dunwich_back",
