@@ -5,14 +5,18 @@ from pathlib import Path
 SCRIPT_DIR = Path(__file__).resolve().parent
 INPUT_DIR = SCRIPT_DIR.parent / "downloadable"
 SEARCH_TEXT = "-- Utility memory bag by Directsun"
+SEARCH_TEXT_2 = 'tooltip = "Update memory for placed objects",'
 
 # We go up twice to the 'git' folder, then down into 'SCED'
 MB_SCRIPT_FILE = SCRIPT_DIR.parents[1] / "SCED" / "src" / "MemoryBag.ttslua"
 MB_WRAPPER_FILE = SCRIPT_DIR / "memory-bag-template.ttslua"
 
+
 class TTSUpdater:
-    def __init__(self, search_text, script_path, wrapper_path):
+    def __init__(self, search_text, search_text_2, script_path, wrapper_path):
         self.search_text = search_text
+        self.search_text_2 = search_text_2
+
         # Generate the full Lua string once at the start
         # Python's json.dump will handle the escaping later!
         script_content = script_path.read_text(encoding="utf-8")
@@ -26,9 +30,17 @@ class TTSUpdater:
 
         if isinstance(node, dict):
             if "LuaScript" in node and isinstance(node["LuaScript"], str):
-                if self.search_text in node["LuaScript"]:
+                if (
+                    self.search_text in node["LuaScript"]
+                    or self.search_text_2 in node["LuaScript"]
+                ):
                     node["LuaScript"] = self.replacement_content
                     changed = True
+
+                    # Update the Transform if it exists
+                    if "Transform" in node and isinstance(node["Transform"], dict):
+                        # Ensure rotY is set to 270
+                        node["Transform"]["rotY"] = 270
 
             for value in node.values():
                 if self.process_node(value):
@@ -61,6 +73,6 @@ class TTSUpdater:
 
 
 if __name__ == "__main__":
-    updater = TTSUpdater(SEARCH_TEXT, MB_SCRIPT_FILE, MB_WRAPPER_FILE)
+    updater = TTSUpdater(SEARCH_TEXT, SEARCH_TEXT_2, MB_SCRIPT_FILE, MB_WRAPPER_FILE)
     updater.run(INPUT_DIR)
     print("\nProcess complete.")
