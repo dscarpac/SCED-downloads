@@ -1,12 +1,12 @@
 # Collects data about the number of required files
+# Warning: This will take a few minutes due to the number of files to parse
 
-import os
 import re
 import json
 from collections import defaultdict
 from pathlib import Path
 
-# Configuration: Path to your Tabletop Simulator project folders
+# Configuration: Path to project folders
 PROJECT_FOLDER_1 = Path(r"C:\git\SCED")
 PROJECT_FOLDER_2 = Path(r"C:\git\SCED-downloads")
 
@@ -18,27 +18,30 @@ def analyze_requires(base_folder):
     # For JSON: "LuaScript": "require(\"path\")" - requires handling of escaped quotes
     require_pattern = re.compile(r'require\("([^"]+)"\)')
 
-    if not os.path.isdir(base_folder):
+    if not base_folder.is_dir():
         print(f"Error: Folder not found, skipping: {base_folder}")
         return counts
 
     try:
-        for root, dirs, files in os.walk(base_folder):
+        for root, dirs, files in base_folder.walk():
             if ".git" in dirs:
                 dirs.remove(".git")
 
             if ".vscode" in dirs:
                 dirs.remove(".vscode")
 
+            if "language-pack" in dirs:
+                dirs.remove("language-pack")
+
+
             for file_name in files:
                 if not file_name.endswith((".lua", ".ttslua", ".json")):
                     continue
 
-                file_path = Path(root) / file_name
+                file_path = root / file_name
 
                 try:
-                    with open(file_path, "r", encoding="utf-8", errors="ignore") as f:
-                        content = f.read()
+                    content = file_path.read_text(encoding="utf-8", errors="ignore")
 
                     if file_name.endswith((".lua", ".ttslua")):
                         matches = require_pattern.findall(content)
@@ -52,18 +55,19 @@ def analyze_requires(base_folder):
                             print(f"Warning: Skipping malformed JSON file: {file_path}")
                             continue
 
+                        # Helper to check LuaScript field
+                        def check_lua(obj):
+                            if isinstance(obj, dict):
+                                script = obj.get("LuaScript", "")
+                                match = require_pattern.search(script)
+                                if match:
+                                    counts[match.group(1)] += 1
+
                         if isinstance(data, dict):
-                            lua_script = data.get("LuaScript", "")
-                            match = require_pattern.match(lua_script)
-                            if match:
-                                counts[match.group(1)] += 1
+                            check_lua(data)
                         elif isinstance(data, list):
-                            for obj in data:
-                                if isinstance(obj, dict):
-                                    lua_script = obj.get("LuaScript", "")
-                                    match = require_pattern.match(lua_script)
-                                    if match:
-                                        counts[match.group(1)] += 1
+                            for item in data:
+                                check_lua(item)
 
                 except PermissionError:
                     print(f"Warning: No permission to read file: {file_path}")
