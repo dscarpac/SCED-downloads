@@ -1,0 +1,25 @@
+{
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomPDF": {
+    "PDFPage": 0,
+    "PDFPageOffset": 0,
+    "PDFPassword": "",
+    "PDFUrl": "https://images-cdn.fantasyflightgames.com/filer_public/51/7e/517e98cc-7a54-42e8-96f0-bb600f240d9f/ahc36_rules_insert.pdf"
+  },
+  "GMNotes": "{\n  \"id\": \"CG03r\"\n}",
+  "GUID": "9351c9",
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "Name": "Custom_PDF",
+  "Nickname": "Return To The Path to Carcosa Insert",
+  "Transform": {
+    "rotY": 270,
+    "scaleX": 2.2,
+    "scaleY": 1,
+    "scaleZ": 2.2
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomPDF": {
+    "PDFPage": 0,
+    "PDFPageOffset": 0,
+    "PDFPassword": "",
+    "PDFUrl": "https://steamusercontent-a.akamaihd.net/ugc/2453991328889010600/0BADFA156FF7FE5C148CD6E7C3B3F38368CE1575/"
+  },
+  "GMNotes": "{\n  \"id\": \"CG06a\"\n}",
+  "GUID": "c3844b",
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "Name": "Custom_PDF",
+  "Nickname": "The Dream-Quest - Campaign Guide",
+  "Transform": {
+    "rotY": 270,
+    "scaleX": 2.2,
+    "scaleY": 1,
+    "scaleZ": 2.2
+  }
+}

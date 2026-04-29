@@ -1,0 +1,25 @@
+{
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomPDF": {
+    "PDFPage": 0,
+    "PDFPageOffset": 0,
+    "PDFPassword": "",
+    "PDFUrl": "https://steamusercontent-a.akamaihd.net/ugc/2037356364974805402/7DBBA475923B8F7B957ECEAE40118CB2A6CEECA5/"
+  },
+  "GMNotes": "{\n  \"id\": \"CG04\"\n}",
+  "GUID": "80b8ca",
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "Name": "Custom_PDF",
+  "Nickname": "The Forgotten Age - Campaign Guide",
+  "Transform": {
+    "rotY": 270,
+    "scaleX": 2.2,
+    "scaleY": 1,
+    "scaleZ": 2.2
+  }
+}

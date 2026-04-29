@@ -1,0 +1,25 @@
+{
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomPDF": {
+    "PDFPage": 0,
+    "PDFPageOffset": 0,
+    "PDFPassword": "",
+    "PDFUrl": "https://steamusercontent-a.akamaihd.net/ugc/2453991328889010692/2F2FF26332C07E290373546722C7B8B5FA82ECDC/"
+  },
+  "GMNotes": "{\n  \"id\": \"CG06b\"\n}",
+  "GUID": "c3844c",
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "Name": "Custom_PDF",
+  "Nickname": "The Web of Dreams - Campaign Guide",
+  "Transform": {
+    "rotY": 270,
+    "scaleX": 2.2,
+    "scaleY": 1,
+    "scaleZ": 2.2
+  }
+}

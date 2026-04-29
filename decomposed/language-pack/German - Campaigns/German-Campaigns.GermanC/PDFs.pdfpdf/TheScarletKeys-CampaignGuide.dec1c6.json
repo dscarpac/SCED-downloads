@@ -1,0 +1,25 @@
+{
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomPDF": {
+    "PDFPage": 0,
+    "PDFPageOffset": 0,
+    "PDFPassword": "",
+    "PDFUrl": "https://steamusercontent-a.akamaihd.net/ugc/62589443088818737/77014D8FAF4DDB6819D1F1DA15FC53274668D89C/"
+  },
+  "GMNotes": "{\n  \"id\": \"CG09\"\n}",
+  "GUID": "dec1c6",
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "Name": "Custom_PDF",
+  "Nickname": "The Scarlet Keys - Campaign Guide",
+  "Transform": {
+    "rotY": 270,
+    "scaleX": 2.2,
+    "scaleY": 1,
+    "scaleZ": 2.2
+  }
+}

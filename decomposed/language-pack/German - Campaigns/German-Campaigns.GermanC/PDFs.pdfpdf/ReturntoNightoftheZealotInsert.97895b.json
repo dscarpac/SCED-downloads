@@ -1,0 +1,25 @@
+{
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomPDF": {
+    "PDFPage": 0,
+    "PDFPageOffset": 0,
+    "PDFPassword": "",
+    "PDFUrl": "https://images-cdn.fantasyflightgames.com/filer_public/d4/64/d4646915-30d8-49a4-9d90-95be8f15b69f/ahc26_rules_insert.pdf"
+  },
+  "GMNotes": "{\n  \"id\": \"CG01r\"\n}",
+  "GUID": "97895b",
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "Name": "Custom_PDF",
+  "Nickname": "Return to Night of the Zealot Insert",
+  "Transform": {
+    "rotY": 270,
+    "scaleX": 2.2,
+    "scaleY": 1,
+    "scaleZ": 2.2
+  }
+}
