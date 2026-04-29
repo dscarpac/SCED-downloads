@@ -59,7 +59,7 @@ def analyze_requires(base_folder):
                         def check_lua(obj):
                             if isinstance(obj, dict):
                                 script = obj.get("LuaScript", "")
-                                match = require_pattern.search(script)
+                                match = require_pattern.match(script)
                                 if match:
                                     counts[match.group(1)] += 1
 
