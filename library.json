@@ -458,6 +458,16 @@
       "description": "This will replace the corresponding cards for all purposes!"
     },
     {
+      "name": "Portuguese - Campaigns",
+      "type": "language-pack",
+      "author": "Fantasy Flight Games",
+      "decomposed": true,
+      "filename": "portuguese_campaigns",
+      "boxsize": "big",
+      "boxart": "https://steamusercontent-a.akamaihd.net/ugc/11261593985251396715/9F757953547EFB75A1F0B7B68263F042077E368D/",
+      "description": "This will replace the corresponding cards for all purposes!"
+    },
+    {
       "name": "Portuguese - Player Cards",
       "type": "language-pack",
       "author": "Fantasy Flight Games",
