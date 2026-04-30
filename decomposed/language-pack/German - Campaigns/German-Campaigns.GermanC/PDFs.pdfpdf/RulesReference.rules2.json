@@ -8,11 +8,11 @@
     "PDFPage": 0,
     "PDFPageOffset": 0,
     "PDFPassword": "",
-    "PDFUrl": "https://steamusercontent-a.akamaihd.net/ugc/16537370657454404471/1D95458981AE78A186A7450877E414B90587B796/"
+    "PDFUrl": "https://steamusercontent-a.akamaihd.net/ugc/15775676434459670886/3F0F5F27D4FD77A2C05C179866D782B8AE92B731/"
   },
-  "Description": "Chapter 1",
-  "GMNotes": "{\n  \"id\": \"RulesReference\"\n}",
-  "GUID": "d99993",
+  "Description": "Chapter 2",
+  "GMNotes": "{\n  \"id\": \"RulesReference2\"\n}",
+  "GUID": "rules2",
   "Hands": false,
   "HideWhenFaceDown": false,
   "Name": "Custom_PDF",
