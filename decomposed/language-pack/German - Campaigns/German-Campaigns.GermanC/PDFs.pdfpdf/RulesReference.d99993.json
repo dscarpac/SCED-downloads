@@ -8,22 +8,17 @@
     "PDFPage": 0,
     "PDFPageOffset": 0,
     "PDFPassword": "",
-    "PDFUrl": "https://steamusercontent-a.akamaihd.net/ugc/17473070241107209540/CA6967D480136C0AA82EAEAC658725438B2D4AE2/"
+    "PDFUrl": "https://steamusercontent-a.akamaihd.net/ugc/16537370657454404471/1D95458981AE78A186A7450877E414B90587B796/"
   },
-  "GMNotes": "{\n  \"id\": \"Grimoire\"\n}",
-  "GUID": "grim",
+  "Description": "Chapter 1",
+  "GMNotes": "{\n  \"id\": \"RulesReference\"\n}",
+  "GUID": "d99993",
   "Hands": false,
   "HideWhenFaceDown": false,
-  "Locked": true,
   "Name": "Custom_PDF",
-  "Nickname": "Grimoire",
+  "Nickname": "Rules Reference",
   "Transform": {
-    "posX": -62,
-    "posY": 1.481,
-    "posZ": 71,
-    "rotX": 0,
     "rotY": 270,
-    "rotZ": 0,
     "scaleX": 4.5,
     "scaleY": 1,
     "scaleZ": 4.5
